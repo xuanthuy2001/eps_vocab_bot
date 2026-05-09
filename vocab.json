@@ -1,0 +1,11018 @@
+[
+  {
+    "korean": "기계 작업",
+    "vietnamese": "Công việc máy móc"
+  },
+  {
+    "korean": "프레스 기계",
+    "vietnamese": "Máy đột dập"
+  },
+  {
+    "korean": "구부리다",
+    "vietnamese": "Uống cong"
+  },
+  {
+    "korean": "찍어 내다",
+    "vietnamese": "Chụp dập"
+  },
+  {
+    "korean": "선반 기계",
+    "vietnamese": "Máy tiện"
+  },
+  {
+    "korean": "갈다",
+    "vietnamese": "Gọt"
+  },
+  {
+    "korean": "도려내다",
+    "vietnamese": "Gọt ra, đục, khoét"
+  },
+  {
+    "korean": "파내다",
+    "vietnamese": "Đào lên, móc, bốc"
+  },
+  {
+    "korean": "밀링 기계",
+    "vietnamese": "Máy phay"
+  },
+  {
+    "korean": "깎다",
+    "vietnamese": "Cắt"
+  },
+  {
+    "korean": "절단하다",
+    "vietnamese": "Cắt"
+  },
+  {
+    "korean": "용접하다",
+    "vietnamese": "Hàn"
+  },
+  {
+    "korean": "조립하다",
+    "vietnamese": "Lắp ráp"
+  },
+  {
+    "korean": "모서리",
+    "vietnamese": "Góc"
+  },
+  {
+    "korean": "맞추다",
+    "vietnamese": "Căn cho chuẩn, làm cho đúng"
+  },
+  {
+    "korean": "큰일이 나다",
+    "vietnamese": "Xảy ra việc lớn"
+  },
+  {
+    "korean": "워낙",
+    "vietnamese": "Vốn dĩ"
+  },
+  {
+    "korean": "방심하다",
+    "vietnamese": "Bất cẩn"
+  },
+  {
+    "korean": "집중하다",
+    "vietnamese": "Tập trung"
+  },
+  {
+    "korean": "특히",
+    "vietnamese": "Đặc biệt"
+  },
+  {
+    "korean": "딴생각하다",
+    "vietnamese": "Sao nhãng"
+  },
+  {
+    "korean": "불꽃이 튀다",
+    "vietnamese": "Tia lửa bắn ra"
+  },
+  {
+    "korean": "움직이다",
+    "vietnamese": "Chuyển động"
+  },
+  {
+    "korean": "가만히 있다",
+    "vietnamese": "Ở yên đó"
+  },
+  {
+    "korean": "얼음",
+    "vietnamese": "Đá lạnh"
+  },
+  {
+    "korean": "진정 시키다",
+    "vietnamese": "Làm dịu đi, chấn tĩnh"
+  },
+  {
+    "korean": "재해",
+    "vietnamese": "Thiệt hại"
+  },
+  {
+    "korean": "손가락이 잘리다",
+    "vietnamese": "Ngón tay bị đứt lìa"
+  },
+  {
+    "korean": "손가락이 끼이다",
+    "vietnamese": "Ngón tay bị kẹp"
+  },
+  {
+    "korean": "손가락이 베이다",
+    "vietnamese": "Ngón tay bị cắt"
+  },
+  {
+    "korean": "손가락이 데다",
+    "vietnamese": "Ngón tay bị bỏng"
+  },
+  {
+    "korean": "발이 깔리다",
+    "vietnamese": "Bàn chân bị đè"
+  },
+  {
+    "korean": "못에 찔리다",
+    "vietnamese": "Đâm vào đinh"
+  },
+  {
+    "korean": "유리가 박히다",
+    "vietnamese": "Kính, thủy tinh đâm vào"
+  },
+  {
+    "korean": "화상을 입다",
+    "vietnamese": "Bị bỏng"
+  },
+  {
+    "korean": "찰과상을 입다",
+    "vietnamese": "Bị trầy xước"
+  },
+  {
+    "korean": "가스에 중독되다",
+    "vietnamese": "Bị trúng độc khí gas"
+  },
+  {
+    "korean": "유리 조각",
+    "vietnamese": "Mảnh thủy tinh"
+  },
+  {
+    "korean": "밟다",
+    "vietnamese": "Dẫm"
+  },
+  {
+    "korean": "작업장 사고",
+    "vietnamese": "Tai nạn ở xưởng"
+  },
+  {
+    "korean": "붕괴 사고",
+    "vietnamese": "Tai nạn sụt lở"
+  },
+  {
+    "korean": "감전 사고",
+    "vietnamese": "Tai nạn điện giật"
+  },
+  {
+    "korean": "추락 사고",
+    "vietnamese": "Tai nạn rơi từ trên cao"
+  },
+  {
+    "korean": "누전 사고",
+    "vietnamese": "Tai nạn dò điện"
+  },
+  {
+    "korean": "낙하 사고",
+    "vietnamese": "Tai nạn vật rơi xuống"
+  },
+  {
+    "korean": "폭발 사고",
+    "vietnamese": "Tai nạn phát nổ"
+  },
+  {
+    "korean": "화재 사고",
+    "vietnamese": "Tai nạn hỏa hoạn"
+  },
+  {
+    "korean": "가스 누출 사고",
+    "vietnamese": "Tai nạn dò khí gas"
+  },
+  {
+    "korean": "사고가 발생하다",
+    "vietnamese": "Phát sinh tai nạn"
+  },
+  {
+    "korean": "소화기",
+    "vietnamese": "Bình cứu hỏa"
+  },
+  {
+    "korean": "비상벨",
+    "vietnamese": "Chuông báo cháy"
+  },
+  {
+    "korean": "비상구",
+    "vietnamese": "Cửa thoát hiểm"
+  },
+  {
+    "korean": "안전핀을 뽑다",
+    "vietnamese": "Rút chốt an toàn"
+  },
+  {
+    "korean": "호스",
+    "vietnamese": "Ống mềm"
+  },
+  {
+    "korean": "불쪽",
+    "vietnamese": "Phía lửa"
+  },
+  {
+    "korean": "향하다",
+    "vietnamese": "Hướng đến"
+  },
+  {
+    "korean": "손잡이",
+    "vietnamese": "Tay cầm"
+  },
+  {
+    "korean": "강하다",
+    "vietnamese": "Mạnh"
+  },
+  {
+    "korean": "움켜쥐다",
+    "vietnamese": "Bóp chặt"
+  },
+  {
+    "korean": "접근하다",
+    "vietnamese": "Tiếp cận"
+  },
+  {
+    "korean": "방향",
+    "vietnamese": "Phương hướng"
+  },
+  {
+    "korean": "앞쪽의 불",
+    "vietnamese": "Lửa phía trước"
+  },
+  {
+    "korean": "소화",
+    "vietnamese": "Cứu hỏa"
+  },
+  {
+    "korean": "충분히",
+    "vietnamese": "Đủ"
+  },
+  {
+    "korean": "불씨",
+    "vietnamese": "Tàn lửa"
+  },
+  {
+    "korean": "남아 있다",
+    "vietnamese": "Đang còn lại"
+  },
+  {
+    "korean": "충천하다",
+    "vietnamese": "Sạc"
+  },
+  {
+    "korean": "종종",
+    "vietnamese": "Thi thoảng"
+  },
+  {
+    "korean": "착용하다",
+    "vietnamese": "Trang bị"
+  },
+  {
+    "korean": "보호복",
+    "vietnamese": "Quần áo bảo hộ"
+  },
+  {
+    "korean": "안전모",
+    "vietnamese": "Mũ bảo hộ"
+  },
+  {
+    "korean": "보안면",
+    "vietnamese": "Mặt nạ bảo hộ"
+  },
+  {
+    "korean": "용접면",
+    "vietnamese": "Mặt nạ hàn"
+  },
+  {
+    "korean": "보안경",
+    "vietnamese": "Kính bảo hộ"
+  },
+  {
+    "korean": "마스크",
+    "vietnamese": "Mặt nạ"
+  },
+  {
+    "korean": "귀마개",
+    "vietnamese": "Cái bịt lỗ tai"
+  },
+  {
+    "korean": "귀덮개",
+    "vietnamese": "Cái chụp tai"
+  },
+  {
+    "korean": "안전대",
+    "vietnamese": "Đai an toàn"
+  },
+  {
+    "korean": "목장갑",
+    "vietnamese": "Găng tay vải"
+  },
+  {
+    "korean": "안전장갑",
+    "vietnamese": "Găng tay bảo hộ"
+  },
+  {
+    "korean": "안전화",
+    "vietnamese": "Giày bảo hộ"
+  },
+  {
+    "korean": "안전장화",
+    "vietnamese": "Ủng bảo hộ"
+  },
+  {
+    "korean": "안전모 끈",
+    "vietnamese": "Dây mũ bảo hộ"
+  },
+  {
+    "korean": "조이다",
+    "vietnamese": "Thít, xiết"
+  },
+  {
+    "korean": "깜빡하다",
+    "vietnamese": "Quên béng mất"
+  },
+  {
+    "korean": "갈아신다",
+    "vietnamese": "Thay (giày)"
+  },
+  {
+    "korean": "부딪히다",
+    "vietnamese": "Va chạm"
+  },
+  {
+    "korean": "충돌하다",
+    "vietnamese": "Va chạm"
+  },
+  {
+    "korean": "넘어지다",
+    "vietnamese": "Ngã"
+  },
+  {
+    "korean": "미끄러지다",
+    "vietnamese": "Trơn trượt"
+  },
+  {
+    "korean": "떨어지다",
+    "vietnamese": "Ngã từ trên cao"
+  },
+  {
+    "korean": "추락하다",
+    "vietnamese": "Ngã từ trên cao"
+  },
+  {
+    "korean": "구덩이에 빠지다",
+    "vietnamese": "Thụt xuống hố"
+  },
+  {
+    "korean": "파편이 튀다",
+    "vietnamese": "Mảnh nhỏ bắn ra"
+  },
+  {
+    "korean": "맞다",
+    "vietnamese": "Đập trúng"
+  },
+  {
+    "korean": "기계에 감기다",
+    "vietnamese": "Bị cuốn vào máy"
+  },
+  {
+    "korean": "감전되다",
+    "vietnamese": "Bị điện giật"
+  },
+  {
+    "korean": "가스가 새다",
+    "vietnamese": "Khí gas bị dò"
+  },
+  {
+    "korean": "누출되다",
+    "vietnamese": "Dò rỉ"
+  },
+  {
+    "korean": "폭발하다",
+    "vietnamese": "Phát nổ"
+  },
+  {
+    "korean": "불이 나다",
+    "vietnamese": "Cháy"
+  },
+  {
+    "korean": "장갑을 끼다",
+    "vietnamese": "Đeo gang tay"
+  },
+  {
+    "korean": "빼다",
+    "vietnamese": "Bớt, trừ"
+  },
+  {
+    "korean": "잊다",
+    "vietnamese": "Quên"
+  },
+  {
+    "korean": "신체 기관",
+    "vietnamese": "Cơ quan thân thể"
+  },
+  {
+    "korean": "위험 요소",
+    "vietnamese": "Yếu tố nguy hiểm"
+  },
+  {
+    "korean": "날아오다",
+    "vietnamese": "Bay vào"
+  },
+  {
+    "korean": "물체",
+    "vietnamese": "Vật thể"
+  },
+  {
+    "korean": "빛",
+    "vietnamese": "Ánh sáng"
+  },
+  {
+    "korean": "소음",
+    "vietnamese": "Tiếng ồn"
+  },
+  {
+    "korean": "안면",
+    "vietnamese": "Khuôn mặt"
+  },
+  {
+    "korean": "화학물질",
+    "vietnamese": "Chất hóa học"
+  },
+  {
+    "korean": "산업안전보건법",
+    "vietnamese": "Luật y tế an toàn công nghiệp"
+  },
+  {
+    "korean": "정하다",
+    "vietnamese": "Định"
+  },
+  {
+    "korean": "보안경 - 쓰다",
+    "vietnamese": "Kính bảo vệ"
+  },
+  {
+    "korean": "차광보안경",
+    "vietnamese": "Kính chắn sáng"
+  },
+  {
+    "korean": "일반보안경",
+    "vietnamese": "Kính thường"
+  },
+  {
+    "korean": "청력보호구",
+    "vietnamese": "Đồ bảo vệ thính lực"
+  },
+  {
+    "korean": "보안면 - 쓰다",
+    "vietnamese": "Mặt nạ bảo vệ"
+  },
+  {
+    "korean": "용접용 보안면",
+    "vietnamese": "Mặt nạ hàn"
+  },
+  {
+    "korean": "일반 보안면",
+    "vietnamese": "Mặt nạ thường"
+  },
+  {
+    "korean": "중량물",
+    "vietnamese": "Vật nặng"
+  },
+  {
+    "korean": "날카로운 물체",
+    "vietnamese": "Vật thể sắc nhọn"
+  },
+  {
+    "korean": "호흡기",
+    "vietnamese": "Cơ quan hô hấp"
+  },
+  {
+    "korean": "분진",
+    "vietnamese": "Bụi"
+  },
+  {
+    "korean": "진동",
+    "vietnamese": "Chấn động"
+  },
+  {
+    "korean": "전신",
+    "vietnamese": "Toàn thân"
+  },
+  {
+    "korean": "방사선",
+    "vietnamese": "Tia phóng xạ"
+  },
+  {
+    "korean": "종류",
+    "vietnamese": "Chủng loại"
+  },
+  {
+    "korean": "안전장갑 - 끼다",
+    "vietnamese": "Găng tay bảo hộ"
+  },
+  {
+    "korean": "절연장갑",
+    "vietnamese": "Găng tay cách nhiệt"
+  },
+  {
+    "korean": "화학물질용 안전장갑",
+    "vietnamese": "Găng tay bảo hộ khi sử dụng chất hóa học"
+  },
+  {
+    "korean": "안전대 - 매다",
+    "vietnamese": "Đai bảo hộ"
+  },
+  {
+    "korean": "벨트식",
+    "vietnamese": "Dạng dây đai"
+  },
+  {
+    "korean": "안전 그네식",
+    "vietnamese": "Dạng ghế đu"
+  },
+  {
+    "korean": "방열복",
+    "vietnamese": "Quần áo chống nhiệt"
+  },
+  {
+    "korean": "안전모 - 쓰다",
+    "vietnamese": "Mũ bảo hộ"
+  },
+  {
+    "korean": "가죽",
+    "vietnamese": "Da (của động vật)"
+  },
+  {
+    "korean": "방진마스크 - 쓰다",
+    "vietnamese": "Khẩu trang chống bụi"
+  },
+  {
+    "korean": "전면형",
+    "vietnamese": "Dạng toàn mặt"
+  },
+  {
+    "korean": "반면형",
+    "vietnamese": "Dạng nửa mặt"
+  },
+  {
+    "korean": "여과식",
+    "vietnamese": "Dạng có lọc khí"
+  },
+  {
+    "korean": "방독마스크",
+    "vietnamese": "Mặt nạ chống độc"
+  },
+  {
+    "korean": "송기마사크",
+    "vietnamese": "Mặt nạ cấp khí"
+  },
+  {
+    "korean": "고무",
+    "vietnamese": "Cao su"
+  },
+  {
+    "korean": "발등안전화",
+    "vietnamese": "Giày có mũ sắt bảo vệ chân"
+  },
+  {
+    "korean": "절연화",
+    "vietnamese": "Giày cách điện"
+  },
+  {
+    "korean": "절연장화",
+    "vietnamese": "Ủng cách điện"
+  },
+  {
+    "korean": "머리카락",
+    "vietnamese": "Sợi tóc"
+  },
+  {
+    "korean": "제조업",
+    "vietnamese": "Ngành sản xuất chế tạo"
+  },
+  {
+    "korean": "건설업",
+    "vietnamese": "Ngành xây dựng"
+  },
+  {
+    "korean": "서비스업",
+    "vietnamese": "Ngành dịch vụ"
+  },
+  {
+    "korean": "축산업",
+    "vietnamese": "Ngành chăn nuôi gia súc"
+  },
+  {
+    "korean": "농업",
+    "vietnamese": "Nông nghiệp"
+  },
+  {
+    "korean": "어업",
+    "vietnamese": "Ngư nghiệp"
+  },
+  {
+    "korean": "문의하다",
+    "vietnamese": "Thắc mắc, hỏi"
+  },
+  {
+    "korean": "사람을 뽑다",
+    "vietnamese": "Tuyển người"
+  },
+  {
+    "korean": "취업 기간",
+    "vietnamese": "Thời gian xin việc"
+  },
+  {
+    "korean": "재계약을 하다",
+    "vietnamese": "Ký lại hợp đồng"
+  },
+  {
+    "korean": "홈페이지에 자세히 나와 있다",
+    "vietnamese": "Hiện ra chi tiết trên trang chủ"
+  },
+  {
+    "korean": "기출문제을 풀다",
+    "vietnamese": "Giải đề thi cũ"
+  },
+  {
+    "korean": "만점",
+    "vietnamese": "Điểm cao nhất"
+  },
+  {
+    "korean": "자격이 주어지게 되다",
+    "vietnamese": "Tư cách được cấp"
+  },
+  {
+    "korean": "한국어능력시험",
+    "vietnamese": "Kỳ thi năng lực tiếng Hàn"
+  },
+  {
+    "korean": "신분증",
+    "vietnamese": "Giấy tờ tùy thân"
+  },
+  {
+    "korean": "수험료",
+    "vietnamese": "Lệ phí thi"
+  },
+  {
+    "korean": "수험표",
+    "vietnamese": "Giấy dự thi"
+  },
+  {
+    "korean": "접수증",
+    "vietnamese": "Giấy tiếp nhận hồ sơ"
+  },
+  {
+    "korean": "증명사진",
+    "vietnamese": "Ảnh chứng minh"
+  },
+  {
+    "korean": "성적표",
+    "vietnamese": "Bảng điểm"
+  },
+  {
+    "korean": "합격하다",
+    "vietnamese": "Đỗ"
+  },
+  {
+    "korean": "불합격하다",
+    "vietnamese": "Trượt"
+  },
+  {
+    "korean": "공지",
+    "vietnamese": "Thông báo"
+  },
+  {
+    "korean": "점수",
+    "vietnamese": "Điểm số"
+  },
+  {
+    "korean": "구직신청분야",
+    "vietnamese": "Ngành đăng ký tìm việc"
+  },
+  {
+    "korean": "응시번호",
+    "vietnamese": "Số dự thi"
+  },
+  {
+    "korean": "시험일시",
+    "vietnamese": "Ngày thi"
+  },
+  {
+    "korean": "시험장",
+    "vietnamese": "Địa điểm thi"
+  },
+  {
+    "korean": "내국인",
+    "vietnamese": "Người trong nước"
+  },
+  {
+    "korean": "구하다",
+    "vietnamese": "Tìm kiếm"
+  },
+  {
+    "korean": "인력난",
+    "vietnamese": "Khó khăn về nhân lực"
+  },
+  {
+    "korean": "겪다",
+    "vietnamese": "Gặp phải"
+  },
+  {
+    "korean": "일정한 요건",
+    "vietnamese": "Điều kiện nhất định"
+  },
+  {
+    "korean": "합법적으로",
+    "vietnamese": "Một cách hợp pháp"
+  },
+  {
+    "korean": "고용하다",
+    "vietnamese": "Tuyển dụng"
+  },
+  {
+    "korean": "허가하다",
+    "vietnamese": "Cho phép"
+  },
+  {
+    "korean": "제도",
+    "vietnamese": "Chế độ"
+  },
+  {
+    "korean": "절차",
+    "vietnamese": "Trình tự, thủ tục"
+  },
+  {
+    "korean": "일반외국인",
+    "vietnamese": "Người nước ngoài bình thường"
+  },
+  {
+    "korean": "한국어능력시험 실시",
+    "vietnamese": "Tiến hành kỳ thi năng lực tiếng Hàn"
+  },
+  {
+    "korean": "구직자 명부",
+    "vietnamese": "Danh sách người tìm việc"
+  },
+  {
+    "korean": "작성",
+    "vietnamese": "Lập"
+  },
+  {
+    "korean": "송부",
+    "vietnamese": "Gửi"
+  },
+  {
+    "korean": "표준근로계약서",
+    "vietnamese": "Hợp đồng lao động chuẩn"
+  },
+  {
+    "korean": "체결하다",
+    "vietnamese": "Ký kết"
+  },
+  {
+    "korean": "사전취업교육",
+    "vietnamese": "Đạo tào định hướng trước bay"
+  },
+  {
+    "korean": "입국",
+    "vietnamese": "Nhập cảnh"
+  },
+  {
+    "korean": "취업교육",
+    "vietnamese": "Đào tạo định hướng"
+  },
+  {
+    "korean": "사업장 배치",
+    "vietnamese": "Bố trí đến nơi làm việc"
+  },
+  {
+    "korean": "체류 자격",
+    "vietnamese": "Tư cách lưu trú"
+  },
+  {
+    "korean": "업종별",
+    "vietnamese": "Theo từng ngành"
+  },
+  {
+    "korean": "배분",
+    "vietnamese": "Phân bố"
+  },
+  {
+    "korean": "선발과정",
+    "vietnamese": "Quá trình tuyển chọn"
+  },
+  {
+    "korean": "공정성",
+    "vietnamese": "Tính công bằng"
+  },
+  {
+    "korean": "투명성",
+    "vietnamese": "Tính minh bạch"
+  },
+  {
+    "korean": "제고하다",
+    "vietnamese": "Đề cao"
+  },
+  {
+    "korean": "조기 적응",
+    "vietnamese": "Thích ứng giai đoạn đầu"
+  },
+  {
+    "korean": "유도하다",
+    "vietnamese": "Hướng dẫn, dẫn dắt"
+  },
+  {
+    "korean": "한국산업인력공단",
+    "vietnamese": "HRD"
+  },
+  {
+    "korean": "실시하다",
+    "vietnamese": "Thực hiện"
+  },
+  {
+    "korean": "의사소통능력",
+    "vietnamese": "Năng lực giao tiếp xã hội"
+  },
+  {
+    "korean": "산업안전",
+    "vietnamese": "An toàn công nghiệp"
+  },
+  {
+    "korean": "기본지식",
+    "vietnamese": "Kiến thức cơ bản"
+  },
+  {
+    "korean": "총득점",
+    "vietnamese": "Tổng điểm đạt được"
+  },
+  {
+    "korean": "취득자",
+    "vietnamese": "Người đạt được"
+  },
+  {
+    "korean": "고득점자",
+    "vietnamese": "Người có điểm cao nhất"
+  },
+  {
+    "korean": "선발",
+    "vietnamese": "Tuyển chọn"
+  },
+  {
+    "korean": "유효기간",
+    "vietnamese": "Thời gian có hiệu lực"
+  },
+  {
+    "korean": "합격자",
+    "vietnamese": "Người đỗ"
+  },
+  {
+    "korean": "발표일",
+    "vietnamese": "Ngày công bố"
+  },
+  {
+    "korean": "계약 기간",
+    "vietnamese": "Thời gian hợp đồng"
+  },
+  {
+    "korean": "수습 기간",
+    "vietnamese": "Thời gian thử việc"
+  },
+  {
+    "korean": "근무시간",
+    "vietnamese": "Thời gian làm việc"
+  },
+  {
+    "korean": "휴게 시간",
+    "vietnamese": "Thời gian nghỉ"
+  },
+  {
+    "korean": "임금",
+    "vietnamese": "Tiền lương"
+  },
+  {
+    "korean": "지급일",
+    "vietnamese": "Ngày chi trả"
+  },
+  {
+    "korean": "지급 방법",
+    "vietnamese": "Cách thức chi trả"
+  },
+  {
+    "korean": "업무 내용",
+    "vietnamese": "Nội dung công việc"
+  },
+  {
+    "korean": "제공하다",
+    "vietnamese": "Cung cấp"
+  },
+  {
+    "korean": "부담하다",
+    "vietnamese": "Chịu (chi phí)"
+  },
+  {
+    "korean": "숙식",
+    "vietnamese": "Chỗ ăn ở"
+  },
+  {
+    "korean": "연장 근무",
+    "vietnamese": "Làm tăng ca"
+  },
+  {
+    "korean": "야간 근무",
+    "vietnamese": "Làm đêm"
+  },
+  {
+    "korean": "휴일 근무",
+    "vietnamese": "Làm vào ngày nghỉ"
+  },
+  {
+    "korean": "만큼",
+    "vietnamese": "Bằng với"
+  },
+  {
+    "korean": "마음에 들다",
+    "vietnamese": "Hài lòng"
+  },
+  {
+    "korean": "운이 좋다",
+    "vietnamese": "Vận tốt"
+  },
+  {
+    "korean": "근무지",
+    "vietnamese": "Nơi làm việc"
+  },
+  {
+    "korean": "정해지다",
+    "vietnamese": "Được định"
+  },
+  {
+    "korean": "일단",
+    "vietnamese": "Trước mắt"
+  },
+  {
+    "korean": "상태",
+    "vietnamese": "Tình trạng"
+  },
+  {
+    "korean": "알려주다",
+    "vietnamese": "Cho biết"
+  },
+  {
+    "korean": "취업절차",
+    "vietnamese": "Trình tự xin làm việc"
+  },
+  {
+    "korean": "면접을 보다",
+    "vietnamese": "Phỏng vấn"
+  },
+  {
+    "korean": "사업주",
+    "vietnamese": "Chủ lao động"
+  },
+  {
+    "korean": "취업자",
+    "vietnamese": "Người xin việc"
+  },
+  {
+    "korean": "취업하다",
+    "vietnamese": "Xin làm việc"
+  },
+  {
+    "korean": "계약을 하다",
+    "vietnamese": "Ký hợp đồng"
+  },
+  {
+    "korean": "사인하다",
+    "vietnamese": "Ký tên"
+  },
+  {
+    "korean": "서명하다",
+    "vietnamese": "Ký tên"
+  },
+  {
+    "korean": "근무하다",
+    "vietnamese": "Đi làm"
+  },
+  {
+    "korean": "부",
+    "vietnamese": "Bộ, bản"
+  },
+  {
+    "korean": "업체 명",
+    "vietnamese": "Tên công ty"
+  },
+  {
+    "korean": "퇴직하다",
+    "vietnamese": "Nghỉ việc"
+  },
+  {
+    "korean": "해고하다",
+    "vietnamese": "Sa thải"
+  },
+  {
+    "korean": "분쟁",
+    "vietnamese": "Phân tranh"
+  },
+  {
+    "korean": "예방하다",
+    "vietnamese": "Phòng ngừa"
+  },
+  {
+    "korean": "권익",
+    "vietnamese": "Quyền lợi"
+  },
+  {
+    "korean": "보호하다",
+    "vietnamese": "Bảo vệ"
+  },
+  {
+    "korean": "서식",
+    "vietnamese": "Mẫu văn bản"
+  },
+  {
+    "korean": "휴일",
+    "vietnamese": "Ngày nghỉ"
+  },
+  {
+    "korean": "그 밖에",
+    "vietnamese": "Ngoài ra"
+  },
+  {
+    "korean": "상호",
+    "vietnamese": "Tương hỗ"
+  },
+  {
+    "korean": "담다",
+    "vietnamese": "Chưa đựng"
+  },
+  {
+    "korean": "이내",
+    "vietnamese": "Trong vòng"
+  },
+  {
+    "korean": "협의",
+    "vietnamese": "Thỏa thuận"
+  },
+  {
+    "korean": "하에",
+    "vietnamese": "Với..., dưới...."
+  },
+  {
+    "korean": "결정하다",
+    "vietnamese": "Quyết định"
+  },
+  {
+    "korean": "설정하다",
+    "vietnamese": "Thiết lập, thành lập"
+  },
+  {
+    "korean": "대로",
+    "vietnamese": "Theo như"
+  },
+  {
+    "korean": "평균",
+    "vietnamese": "Trung bình"
+  },
+  {
+    "korean": "기재하다",
+    "vietnamese": "Kê khai"
+  },
+  {
+    "korean": "생략하다",
+    "vietnamese": "Lược bỏ"
+  },
+  {
+    "korean": "최저임금",
+    "vietnamese": "Lương tối thiểu"
+  },
+  {
+    "korean": "수준",
+    "vietnamese": "Mức"
+  },
+  {
+    "korean": "오르다",
+    "vietnamese": "Tăng"
+  },
+  {
+    "korean": "적용하다",
+    "vietnamese": "Áp dụng"
+  },
+  {
+    "korean": "항목",
+    "vietnamese": "Hạng mục"
+  },
+  {
+    "korean": "여부",
+    "vietnamese": "Có hay không"
+  },
+  {
+    "korean": "칸",
+    "vietnamese": "Ô trống"
+  },
+  {
+    "korean": "숙실",
+    "vietnamese": "Phòng ngủ"
+  },
+  {
+    "korean": "비용",
+    "vietnamese": "Chi phí"
+  },
+  {
+    "korean": "정도",
+    "vietnamese": "Mức độ"
+  },
+  {
+    "korean": "명시적으로",
+    "vietnamese": "Một cách rõ ràng"
+  },
+  {
+    "korean": "도입",
+    "vietnamese": "Đưa vào"
+  },
+  {
+    "korean": "지원하다",
+    "vietnamese": "Hỗ trợ"
+  },
+  {
+    "korean": "대행하다",
+    "vietnamese": "Làm thay"
+  },
+  {
+    "korean": "입국 절차",
+    "vietnamese": "Thủ tục nhập cảnh"
+  },
+  {
+    "korean": "비자, 사증",
+    "vietnamese": "Visa"
+  },
+  {
+    "korean": "여권",
+    "vietnamese": "Hộ chiếu"
+  },
+  {
+    "korean": "유효 기간",
+    "vietnamese": "Thời gian có hiệu lực"
+  },
+  {
+    "korean": "발급을 신청하다",
+    "vietnamese": "Xin cấp"
+  },
+  {
+    "korean": "발급 받다",
+    "vietnamese": "Nhận cấp"
+  },
+  {
+    "korean": "통역",
+    "vietnamese": "Thông dịch"
+  },
+  {
+    "korean": "입국하다",
+    "vietnamese": "Nhập cảnh"
+  },
+  {
+    "korean": "입국 삼사를 받다",
+    "vietnamese": "Nhận kiểm tra nhập cảnh"
+  },
+  {
+    "korean": "입국이 금지되다",
+    "vietnamese": "Bị cấm nhập cảnh"
+  },
+  {
+    "korean": "취업 교육을 받다",
+    "vietnamese": "Nhận đào tạo định hướng"
+  },
+  {
+    "korean": "작업장에 배치되다",
+    "vietnamese": "Được bố trí đến nơi làm việc"
+  },
+  {
+    "korean": "입국 신고서",
+    "vietnamese": "Tờ khai nhập cảnh"
+  },
+  {
+    "korean": "대기하다",
+    "vietnamese": "Đợi"
+  },
+  {
+    "korean": "손가락을 대다",
+    "vietnamese": "Đặt ngón tay"
+  },
+  {
+    "korean": "외국인 등록",
+    "vietnamese": "Đăng ký người nước ngoài"
+  },
+  {
+    "korean": "출입국관리사무소",
+    "vietnamese": "Văn phòng quản lý xuất nhập cảnh"
+  },
+  {
+    "korean": "외국인 등록을 하다",
+    "vietnamese": "Đăng ký người nước ngoài"
+  },
+  {
+    "korean": "사업자 등록증 사본",
+    "vietnamese": "Bản sao giấy phép kinh doanh"
+  },
+  {
+    "korean": "수수료",
+    "vietnamese": "Lệ phí"
+  },
+  {
+    "korean": "외국인 등록증",
+    "vietnamese": "Chứng minh người nước ngoài"
+  },
+  {
+    "korean": "번호표를 뽑다",
+    "vietnamese": "Lấy phiếu số thứ tự"
+  },
+  {
+    "korean": "지문을 등록하다",
+    "vietnamese": "Đăng ký vân tay"
+  },
+  {
+    "korean": "외국인 등록 신청서",
+    "vietnamese": "Đơn đăng ký người nn"
+  },
+  {
+    "korean": "신분을 보장받다",
+    "vietnamese": "Được bảo vệ bản thân"
+  },
+  {
+    "korean": "만료되다",
+    "vietnamese": "Hết hạn"
+  },
+  {
+    "korean": "갱신하다",
+    "vietnamese": "Làm mới"
+  },
+  {
+    "korean": "알아두다",
+    "vietnamese": "Ghi nhớ"
+  },
+  {
+    "korean": "노사 발전 재단",
+    "vietnamese": "Quỹ phát triển chủ thợ"
+  },
+  {
+    "korean": "DT에 따르면",
+    "vietnamese": "Nếu theo cái gì"
+  },
+  {
+    "korean": "증가하다",
+    "vietnamese": "Tăng"
+  },
+  {
+    "korean": "2박 3일",
+    "vietnamese": "3 ngày 2 đêm"
+  },
+  {
+    "korean": "비롯하다",
+    "vietnamese": "Khởi nguồn, đi đầu"
+  },
+  {
+    "korean": "이사장",
+    "vietnamese": "Tổng giám đốc"
+  },
+  {
+    "korean": "적응",
+    "vietnamese": "Thích ứng"
+  },
+  {
+    "korean": "중소기업",
+    "vietnamese": "Doanh nghiệp vừa và nhỏ"
+  },
+  {
+    "korean": "해소하다",
+    "vietnamese": "Giải quyết"
+  },
+  {
+    "korean": "기여하다",
+    "vietnamese": "Đóng góp"
+  },
+  {
+    "korean": "밝히다",
+    "vietnamese": "Làm rõ"
+  },
+  {
+    "korean": "중요성을 강조하다",
+    "vietnamese": "Nhấn mạnh tầm quan trọng"
+  },
+  {
+    "korean": "초과하다",
+    "vietnamese": "Vượt quá"
+  },
+  {
+    "korean": "장기",
+    "vietnamese": "Dài hạn"
+  },
+  {
+    "korean": "현황",
+    "vietnamese": "Hiện trạng"
+  },
+  {
+    "korean": "신분",
+    "vietnamese": "Nhân thân"
+  },
+  {
+    "korean": "정확히",
+    "vietnamese": "Một cách chính xác"
+  },
+  {
+    "korean": "파악하다",
+    "vietnamese": "Nắm bắt"
+  },
+  {
+    "korean": "행정시책",
+    "vietnamese": "Chính sách hành chính"
+  },
+  {
+    "korean": "반영하다",
+    "vietnamese": "Phản ánh"
+  },
+  {
+    "korean": "국제법상",
+    "vietnamese": "Trên phương diện luật quốc tế"
+  },
+  {
+    "korean": "부여하다",
+    "vietnamese": "Cấp cho"
+  },
+  {
+    "korean": "권리",
+    "vietnamese": "Quyền lợi"
+  },
+  {
+    "korean": "국적",
+    "vietnamese": "Quốc tịch"
+  },
+  {
+    "korean": "상실하다",
+    "vietnamese": "Mất"
+  },
+  {
+    "korean": "취득하다",
+    "vietnamese": "Đạt được"
+  },
+  {
+    "korean": "출생하다",
+    "vietnamese": "Sinh ra, ra đời"
+  },
+  {
+    "korean": "체류자격",
+    "vietnamese": "Tư cách lưu trú"
+  },
+  {
+    "korean": "해당하다",
+    "vietnamese": "Tương ứng"
+  },
+  {
+    "korean": "변경허가",
+    "vietnamese": "Cho phép thay đổi"
+  },
+  {
+    "korean": "즉시",
+    "vietnamese": "Ngay lập tức"
+  },
+  {
+    "korean": "또는",
+    "vietnamese": "Thêm vào đó"
+  },
+  {
+    "korean": "출장소",
+    "vietnamese": "Văn phòng chi nhánh địa phương"
+  },
+  {
+    "korean": "신청 접수",
+    "vietnamese": "Tiếp nhận đăng ký"
+  },
+  {
+    "korean": "신청서",
+    "vietnamese": "Đơn đăng ký"
+  },
+  {
+    "korean": "매",
+    "vietnamese": "cái, tấm (ảnh)"
+  },
+  {
+    "korean": "비전문 취업",
+    "vietnamese": "Làm việc không chuyên môn"
+  },
+  {
+    "korean": "경우",
+    "vietnamese": "Trường hợp"
+  },
+  {
+    "korean": "사업자 등록증",
+    "vietnamese": "Giấy phép đăng ký kinh doanh"
+  },
+  {
+    "korean": "필요하다",
+    "vietnamese": "Cần thiết"
+  },
+  {
+    "korean": "유효 기간이 남다",
+    "vietnamese": "Còn thời gian có hiệu lực"
+  },
+  {
+    "korean": "보험 가입",
+    "vietnamese": "Tham gia bảo hiểm"
+  },
+  {
+    "korean": "상해 보험",
+    "vietnamese": "Bảo hiểm tai nạn ngoài lao động"
+  },
+  {
+    "korean": "산재 보험",
+    "vietnamese": "Bảo hiểm tai nạn lao động"
+  },
+  {
+    "korean": "보험에 가입하다",
+    "vietnamese": "Tham gia bảo hiểm"
+  },
+  {
+    "korean": "보험을 들다",
+    "vietnamese": "Tham gia bảo hiểm"
+  },
+  {
+    "korean": "보험료를 내다",
+    "vietnamese": "Nộp phí bảo hiểm"
+  },
+  {
+    "korean": "보험료를 납입하다",
+    "vietnamese": "Nộp phí bảo hiểm"
+  },
+  {
+    "korean": "질병",
+    "vietnamese": "Bệnh tật"
+  },
+  {
+    "korean": "상해",
+    "vietnamese": "Thương tật"
+  },
+  {
+    "korean": "장해",
+    "vietnamese": "Tàn tật"
+  },
+  {
+    "korean": "사망",
+    "vietnamese": "Chết"
+  },
+  {
+    "korean": "보상을 받다",
+    "vietnamese": "Nhận bồi thường"
+  },
+  {
+    "korean": "보험금을 받다",
+    "vietnamese": "Nhận tiền bảo hiểm"
+  },
+  {
+    "korean": "만기가 되다",
+    "vietnamese": "Hết hạn"
+  },
+  {
+    "korean": "소멸되다",
+    "vietnamese": "Triệt tiêu, mất đi"
+  },
+  {
+    "korean": "업무 상",
+    "vietnamese": "Trên phương diện công việc"
+  },
+  {
+    "korean": "업무 외적인 사고",
+    "vietnamese": "Tai nạn ngoài lao động"
+  },
+  {
+    "korean": "해당자",
+    "vietnamese": "Người tương ứng"
+  },
+  {
+    "korean": "의무적으로",
+    "vietnamese": "Một cách nghĩa vụ"
+  },
+  {
+    "korean": "4대 보험",
+    "vietnamese": "Bảo hiểm 4 loại"
+  },
+  {
+    "korean": "다만",
+    "vietnamese": "Nhưng"
+  },
+  {
+    "korean": "임의 가입",
+    "vietnamese": "Tham gia tùy ý"
+  },
+  {
+    "korean": "국가간 상호주의",
+    "vietnamese": "Chủ nghĩa tương hỗ giữa các quốc gia"
+  },
+  {
+    "korean": "빨려 들어가다",
+    "vietnamese": "Bị cuốn vào"
+  },
+  {
+    "korean": "목격자",
+    "vietnamese": "Người làm chứng"
+  },
+  {
+    "korean": "보험금을 지급하다",
+    "vietnamese": "Chi trả tiền bảo hiểm"
+  },
+  {
+    "korean": "보험금을 타다",
+    "vietnamese": "Nhận tiền bảo hiểm"
+  },
+  {
+    "korean": "청구서",
+    "vietnamese": "Đơn yêu cầu thanh toán"
+  },
+  {
+    "korean": "영수증",
+    "vietnamese": "Hóa đơn"
+  },
+  {
+    "korean": "내역서",
+    "vietnamese": "Nội dung chi tiết"
+  },
+  {
+    "korean": "병원비",
+    "vietnamese": "Viện phí"
+  },
+  {
+    "korean": "치료비",
+    "vietnamese": "Phí điều trị"
+  },
+  {
+    "korean": "요양비",
+    "vietnamese": "Phí điều dưỡng"
+  },
+  {
+    "korean": "휴업 급여",
+    "vietnamese": "Lương nghỉ việc"
+  },
+  {
+    "korean": "장해 보상금",
+    "vietnamese": "Tiền bồi thường thương tật"
+  },
+  {
+    "korean": "근로복지공단",
+    "vietnamese": "Cơ quan phức lợi lao động"
+  },
+  {
+    "korean": "다운로드 받다",
+    "vietnamese": "Tải về"
+  },
+  {
+    "korean": "사업장 소재지 관할 근로복지공단",
+    "vietnamese": "Cơ quan phúc lợi lao động quản lý địa phương của doanh nghiệp"
+  },
+  {
+    "korean": "최초",
+    "vietnamese": "Ban đầu, đầu tiên"
+  },
+  {
+    "korean": "진료 기록",
+    "vietnamese": "Ghi chép điều trị"
+  },
+  {
+    "korean": "진술",
+    "vietnamese": "Trình bày, tường trình"
+  },
+  {
+    "korean": "작성하다",
+    "vietnamese": "Viết"
+  },
+  {
+    "korean": "진단서",
+    "vietnamese": "Đơn khám bệnh"
+  },
+  {
+    "korean": "보험금을 청구하다",
+    "vietnamese": "Yêu cầu thanh toán tiền bảo hiểm"
+  },
+  {
+    "korean": "지급 심사를 받다",
+    "vietnamese": "Nhận thẩm tra chi trả"
+  },
+  {
+    "korean": "외국인 근로자 전용 보험",
+    "vietnamese": "Bảo hiểm dành riêng cho người nước ngoài"
+  },
+  {
+    "korean": "도입 목적",
+    "vietnamese": "Mục đích đưa vào"
+  },
+  {
+    "korean": "근거",
+    "vietnamese": "Căn cứ"
+  },
+  {
+    "korean": "가입 시기",
+    "vietnamese": "Thời kỳ tham gia"
+  },
+  {
+    "korean": "보험금 납부 방법",
+    "vietnamese": "Cách nộp tiền bảo hiểm"
+  },
+  {
+    "korean": "보험금 지급 사유",
+    "vietnamese": "Lý do chi trả tiền bảo hiểm"
+  },
+  {
+    "korean": "부담 완화",
+    "vietnamese": "Giảm nhẹ gánh nặng"
+  },
+  {
+    "korean": "효력 발생일",
+    "vietnamese": "Ngày phát sinh hiệu lực"
+  },
+  {
+    "korean": "매월 적립",
+    "vietnamese": "Tích lũy hàng tháng"
+  },
+  {
+    "korean": "15일 , 보름",
+    "vietnamese": "15 ngày"
+  },
+  {
+    "korean": "이탈 없이",
+    "vietnamese": "Không có bỏ trốn"
+  },
+  {
+    "korean": "항공비",
+    "vietnamese": "Phí hàng không"
+  },
+  {
+    "korean": "충당",
+    "vietnamese": "Sung vào"
+  },
+  {
+    "korean": "일시금 - 한 반에 보험료 납입",
+    "vietnamese": "Tiền nộp 1 lần"
+  },
+  {
+    "korean": "자진 출국",
+    "vietnamese": "Tự nguyện xuất cảnh"
+  },
+  {
+    "korean": "강제 퇴거",
+    "vietnamese": "Cưỡng chế rời bỏ"
+  },
+  {
+    "korean": "전용",
+    "vietnamese": "Dành riêng"
+  },
+  {
+    "korean": "출국 만기 보험",
+    "vietnamese": "Bảo hiểm mãn hạn xuất cảnh"
+  },
+  {
+    "korean": "귀국 비용 보험",
+    "vietnamese": "Bảo hiểm chi phí về nước"
+  },
+  {
+    "korean": "임금 체불 보증보험",
+    "vietnamese": "Bảo hiểm đảm bảo chậm trả lương"
+  },
+  {
+    "korean": "고용보험",
+    "vietnamese": "Bảo hiểm tuyển dụng"
+  },
+  {
+    "korean": "귀국비용 보험",
+    "vietnamese": "Bảo hiểm chi phí về nước"
+  },
+  {
+    "korean": "안정",
+    "vietnamese": "Ổn định"
+  },
+  {
+    "korean": "재취업",
+    "vietnamese": "Tái xin việc"
+  },
+  {
+    "korean": "지원",
+    "vietnamese": "Hỗ trợ"
+  },
+  {
+    "korean": "촉진",
+    "vietnamese": "Tăng cường"
+  },
+  {
+    "korean": "예방",
+    "vietnamese": "Phòng tránh"
+  },
+  {
+    "korean": "실업",
+    "vietnamese": "Thất nghiệp"
+  },
+  {
+    "korean": "보상",
+    "vietnamese": "Bồi thường"
+  },
+  {
+    "korean": "재활",
+    "vietnamese": "Phục hồi chức năng"
+  },
+  {
+    "korean": "부상",
+    "vietnamese": "Vết thương"
+  },
+  {
+    "korean": "진단",
+    "vietnamese": "Khám"
+  },
+  {
+    "korean": "치료",
+    "vietnamese": "Điều trị"
+  },
+  {
+    "korean": "보건증진",
+    "vietnamese": "Tăng cường y tế"
+  },
+  {
+    "korean": "노령",
+    "vietnamese": "Tuổi già"
+  },
+  {
+    "korean": "장애",
+    "vietnamese": "Tàn tật"
+  },
+  {
+    "korean": "소득",
+    "vietnamese": "Thu nhập"
+  },
+  {
+    "korean": "당사자",
+    "vietnamese": "Đương sự"
+  },
+  {
+    "korean": "유족",
+    "vietnamese": "Gia quyến"
+  },
+  {
+    "korean": "생활 보장",
+    "vietnamese": "Đảm bảo sinh hoạt"
+  },
+  {
+    "korean": "귀국",
+    "vietnamese": "Về nước"
+  },
+  {
+    "korean": "대비",
+    "vietnamese": "Đối phó"
+  },
+  {
+    "korean": "발생하다",
+    "vietnamese": "Phát sinh"
+  },
+  {
+    "korean": "고용노동부",
+    "vietnamese": "Bộ lao động tuyển dụng"
+  },
+  {
+    "korean": "사실",
+    "vietnamese": "Sự thật"
+  },
+  {
+    "korean": "고용센터",
+    "vietnamese": "Trung tâm tuyển dụng"
+  },
+  {
+    "korean": "근로감독과",
+    "vietnamese": "Cơ quan giám sát lao động"
+  },
+  {
+    "korean": "신고하다",
+    "vietnamese": "Khai báo"
+  },
+  {
+    "korean": "기타 사유",
+    "vietnamese": "Lý do khác"
+  },
+  {
+    "korean": "급여",
+    "vietnamese": "Lương"
+  },
+  {
+    "korean": "세금",
+    "vietnamese": "Tiền thuế"
+  },
+  {
+    "korean": "급여 명세서",
+    "vietnamese": "Bảng lương chi tiết"
+  },
+  {
+    "korean": "급여 내역",
+    "vietnamese": "Nội dung lương"
+  },
+  {
+    "korean": "기본급",
+    "vietnamese": "Lương cơ bản"
+  },
+  {
+    "korean": "실수령액",
+    "vietnamese": "Lương thực lĩnh"
+  },
+  {
+    "korean": "식대",
+    "vietnamese": "Tiền ăn"
+  },
+  {
+    "korean": "총액",
+    "vietnamese": "Tổng số tiền"
+  },
+  {
+    "korean": "공제하다",
+    "vietnamese": "Trừ"
+  },
+  {
+    "korean": "상여금",
+    "vietnamese": "Tiền thưởng"
+  },
+  {
+    "korean": "퇴직금",
+    "vietnamese": "Tiền thôi việc"
+  },
+  {
+    "korean": "국민여금",
+    "vietnamese": "Bảo hiểm hưu trí quốc dân"
+  },
+  {
+    "korean": "연말정산",
+    "vietnamese": "Quyết toán thuế cuối năm"
+  },
+  {
+    "korean": "일이 몰리다",
+    "vietnamese": "Việc bị dồn lại"
+  },
+  {
+    "korean": "수강",
+    "vietnamese": "Nghe giảng"
+  },
+  {
+    "korean": "법정 근로 시간",
+    "vietnamese": "Thời gian làm việc theo luật định"
+  },
+  {
+    "korean": "연장 근로 시간",
+    "vietnamese": "Thời gian làm tăng ca"
+  },
+  {
+    "korean": "야간 근로 시간",
+    "vietnamese": "Thời gian làm đêm"
+  },
+  {
+    "korean": "휴일 근로 시간",
+    "vietnamese": "Thời gian làm ngày nghỉ"
+  },
+  {
+    "korean": "수당을 받다",
+    "vietnamese": "Nhận trợ cấp"
+  },
+  {
+    "korean": "포함되다",
+    "vietnamese": "Được bao gồm"
+  },
+  {
+    "korean": "별도로 지급하다",
+    "vietnamese": "Chi trả riêng"
+  },
+  {
+    "korean": "가불하다",
+    "vietnamese": "Trả trước,"
+  },
+  {
+    "korean": "시급",
+    "vietnamese": "Lương theo giờ"
+  },
+  {
+    "korean": "대가",
+    "vietnamese": "Giá"
+  },
+  {
+    "korean": "개설하다",
+    "vietnamese": "mở tài khoản"
+  },
+  {
+    "korean": "일당",
+    "vietnamese": "Lương ngày"
+  },
+  {
+    "korean": "경리과",
+    "vietnamese": "Phòng kế toán"
+  },
+  {
+    "korean": "월급",
+    "vietnamese": "Tiền lương"
+  },
+  {
+    "korean": "입금되다",
+    "vietnamese": "Tiền được nộp vào tk"
+  },
+  {
+    "korean": "현금",
+    "vietnamese": "Tiền mặt"
+  },
+  {
+    "korean": "계좌이제",
+    "vietnamese": "Chuyển khoản"
+  },
+  {
+    "korean": "안전하다",
+    "vietnamese": "An toàn"
+  },
+  {
+    "korean": "기재되다",
+    "vietnamese": "Được ghi"
+  },
+  {
+    "korean": "정확하다",
+    "vietnamese": "Chính xác"
+  },
+  {
+    "korean": "구성되다",
+    "vietnamese": "Được cấu thành"
+  },
+  {
+    "korean": "책정되다",
+    "vietnamese": "Được định giá"
+  },
+  {
+    "korean": "기준 시급",
+    "vietnamese": "Lương theo giờ tiêu chuẩn"
+  },
+  {
+    "korean": "배",
+    "vietnamese": "lần"
+  },
+  {
+    "korean": "계산되다",
+    "vietnamese": "Được tính toán"
+  },
+  {
+    "korean": "계산식",
+    "vietnamese": "Công thức tính"
+  },
+  {
+    "korean": "대략",
+    "vietnamese": "Đại khái"
+  },
+  {
+    "korean": "생활 안전",
+    "vietnamese": "An toàn cho cuộc sống"
+  },
+  {
+    "korean": "최저 기준",
+    "vietnamese": "Tiêu chuẩn tối thiểu"
+  },
+  {
+    "korean": "법으로",
+    "vietnamese": "Bằng luật"
+  },
+  {
+    "korean": "보장하다",
+    "vietnamese": "Đảm bảo"
+  },
+  {
+    "korean": "매년",
+    "vietnamese": "Hàng năm"
+  },
+  {
+    "korean": "발표하다",
+    "vietnamese": "Phát biểu, công bố"
+  },
+  {
+    "korean": "금액",
+    "vietnamese": "Số tiền"
+  },
+  {
+    "korean": "다르다",
+    "vietnamese": "Khác"
+  },
+  {
+    "korean": "세금을 빼다",
+    "vietnamese": "Trừ thuế"
+  },
+  {
+    "korean": "월급이 나오다",
+    "vietnamese": "Có lương"
+  },
+  {
+    "korean": "휴가",
+    "vietnamese": "Nghỉ phép"
+  },
+  {
+    "korean": "휴가를 신청하다",
+    "vietnamese": "Đăng ký nghỉ phép"
+  },
+  {
+    "korean": "휴가를 내다",
+    "vietnamese": "Xin nghỉ phép"
+  },
+  {
+    "korean": "휴가를 받다",
+    "vietnamese": "Nhận được nghỉ phép"
+  },
+  {
+    "korean": "휴가를 쓰다",
+    "vietnamese": "Dùng ngày nghỉ phép"
+  },
+  {
+    "korean": "유급 휴일",
+    "vietnamese": "Ngày nghỉ có lương"
+  },
+  {
+    "korean": "무급 휴일",
+    "vietnamese": "Ngày nghỉ không lương"
+  },
+  {
+    "korean": "법정 휴일",
+    "vietnamese": "Ngày nghỉ theo luật định"
+  },
+  {
+    "korean": "약정 휴일",
+    "vietnamese": "Ngày nghỉ theo hợp đồng"
+  },
+  {
+    "korean": "연차 휴가",
+    "vietnamese": "Ngày nghỉ phép năm"
+  },
+  {
+    "korean": "출산 휴가",
+    "vietnamese": "Ngày nghỉ phép thai sản"
+  },
+  {
+    "korean": "공통점",
+    "vietnamese": "Điểm chung"
+  },
+  {
+    "korean": "갖다",
+    "vietnamese": "Có, mang"
+  },
+  {
+    "korean": "근로 의무",
+    "vietnamese": "Nghĩa vụ lao động"
+  },
+  {
+    "korean": "반면",
+    "vietnamese": "Trái ngược lại"
+  },
+  {
+    "korean": "청구",
+    "vietnamese": "Yêu cầu"
+  },
+  {
+    "korean": "특별하다",
+    "vietnamese": "Đặc biệt"
+  },
+  {
+    "korean": "사유",
+    "vietnamese": "Lý do"
+  },
+  {
+    "korean": "충촉",
+    "vietnamese": "Đáp ứng, thỏa mãn"
+  },
+  {
+    "korean": "면제",
+    "vietnamese": "Miễn"
+  },
+  {
+    "korean": "점",
+    "vietnamese": "Điểm"
+  },
+  {
+    "korean": "차이",
+    "vietnamese": "Khác biệt"
+  },
+  {
+    "korean": "눈치를 보다",
+    "vietnamese": "Dò xét"
+  },
+  {
+    "korean": "일반적으로",
+    "vietnamese": "Thông thường"
+  },
+  {
+    "korean": "계획을 세우다",
+    "vietnamese": "Lập kế hoạch"
+  },
+  {
+    "korean": "빨간 날",
+    "vietnamese": "Ngày đỏ"
+  },
+  {
+    "korean": "심하다",
+    "vietnamese": "Nặng nề"
+  },
+  {
+    "korean": "간단하다",
+    "vietnamese": "Đơn giản"
+  },
+  {
+    "korean": "가급적 빨리",
+    "vietnamese": "Càng sớm càng tốt"
+  },
+  {
+    "korean": "병가",
+    "vietnamese": "Nghỉ bệnh"
+  },
+  {
+    "korean": "병가 사유",
+    "vietnamese": "Lý do nghỉ bệnh"
+  },
+  {
+    "korean": "병가 기간",
+    "vietnamese": "Thời gian nghỉ bệnh"
+  },
+  {
+    "korean": "소속",
+    "vietnamese": "Trực thu"
+  },
+  {
+    "korean": "직위",
+    "vietnamese": "Chức vụ"
+  },
+  {
+    "korean": "비상 연락처",
+    "vietnamese": "Liên lạc khi cần thiết"
+  },
+  {
+    "korean": "통원 치료를 하다",
+    "vietnamese": "Điều trị ngoại trú"
+  },
+  {
+    "korean": "입원을 하다",
+    "vietnamese": "Nhập viện"
+  },
+  {
+    "korean": "죄퇴하다",
+    "vietnamese": "Tam làm sớm"
+  },
+  {
+    "korean": "결근하다",
+    "vietnamese": "Nghỉ làm"
+  },
+  {
+    "korean": "무단 결근하다",
+    "vietnamese": "Nghỉ làm không phép"
+  },
+  {
+    "korean": "허리 통증",
+    "vietnamese": "Chứng đau lưng"
+  },
+  {
+    "korean": "진단서 첨부",
+    "vietnamese": "Đính kèm giấy khám bệnh"
+  },
+  {
+    "korean": "근로 기분법",
+    "vietnamese": "Luật tiêu chuẩn lao động"
+  },
+  {
+    "korean": "규정되다",
+    "vietnamese": "Được quy định"
+  },
+  {
+    "korean": "유급 주휴일",
+    "vietnamese": "Ngày nghỉ tuần có lương"
+  },
+  {
+    "korean": "사용자, 사업주",
+    "vietnamese": "Chủ doanh nghiệp"
+  },
+  {
+    "korean": "회",
+    "vietnamese": "Lần"
+  },
+  {
+    "korean": "제정",
+    "vietnamese": "Ban hành"
+  },
+  {
+    "korean": "단체 협약",
+    "vietnamese": "Thỏa thuận tập thể"
+  },
+  {
+    "korean": "시행하다",
+    "vietnamese": "Thi hành"
+  },
+  {
+    "korean": "사항",
+    "vietnamese": "Nội dung"
+  },
+  {
+    "korean": "노사",
+    "vietnamese": "Quỹ chủ thợ"
+  },
+  {
+    "korean": "준수하다",
+    "vietnamese": "Tuân thủ"
+  },
+  {
+    "korean": "주휴일",
+    "vietnamese": "Ngày nghỉ tuần"
+  },
+  {
+    "korean": "근로자의 날",
+    "vietnamese": "Ngày quốc tế lao động"
+  },
+  {
+    "korean": "생리 휴가",
+    "vietnamese": "Ngày nghỉ phép sinh lý"
+  },
+  {
+    "korean": "산 전 후 휴가",
+    "vietnamese": "Ngày nghỉ phép trước - sau sinh"
+  },
+  {
+    "korean": "공휴일",
+    "vietnamese": "Ngày nghỉ lễ"
+  },
+  {
+    "korean": "회사 창립일",
+    "vietnamese": "Ngày sáng lập công ty"
+  },
+  {
+    "korean": "기타 휴무일",
+    "vietnamese": "Ngày nghỉ khác"
+  },
+  {
+    "korean": "하게휴가",
+    "vietnamese": "Ngày nghỉ phép hè"
+  },
+  {
+    "korean": "경조 휴가",
+    "vietnamese": "Nghỉ phép việc hiếu hỉ"
+  },
+  {
+    "korean": "의무",
+    "vietnamese": "Nghĩa vụ"
+  },
+  {
+    "korean": "면제되다",
+    "vietnamese": "Được miễn"
+  },
+  {
+    "korean": "지불되다",
+    "vietnamese": "Được chi trả"
+  },
+  {
+    "korean": "이와 달리",
+    "vietnamese": "Khác với cái này"
+  },
+  {
+    "korean": "집에 들어가다",
+    "vietnamese": "Đi vào/ về nhà"
+  },
+  {
+    "korean": "사업장 변경",
+    "vietnamese": "Thay đổi nơi làm việc"
+  },
+  {
+    "korean": "근로계약이 만료되다",
+    "vietnamese": "Hợp đồng lao động hết hạn"
+  },
+  {
+    "korean": "근로계약이 해지되다",
+    "vietnamese": "Hợp đồng lao đông bị hủy"
+  },
+  {
+    "korean": "계약을 갱신하다",
+    "vietnamese": "Làm mới hợp đồng"
+  },
+  {
+    "korean": "갱신을 거절하다",
+    "vietnamese": "Từ chối làm mới hợp đồng"
+  },
+  {
+    "korean": "사업장 변경 사유",
+    "vietnamese": "Lý do thay đổi nơi làm việc"
+  },
+  {
+    "korean": "임금을 체불하다",
+    "vietnamese": "Chậm trả lương"
+  },
+  {
+    "korean": "휴업하다",
+    "vietnamese": "Tạm dừng kinh doanh"
+  },
+  {
+    "korean": "폐업하다",
+    "vietnamese": "Nghỉ kinh doanh, phá sản"
+  },
+  {
+    "korean": "폭언을 하다",
+    "vietnamese": "Bao lực lời nói"
+  },
+  {
+    "korean": "폭행을 하다",
+    "vietnamese": "Bạo lực tinh thần"
+  },
+  {
+    "korean": "사업장 변경 신청서",
+    "vietnamese": "Đơn xin thay đổi nơi làm việc"
+  },
+  {
+    "korean": "사업장 추가",
+    "vietnamese": "Thêm nơi làm việc"
+  },
+  {
+    "korean": "회사를 옮기다",
+    "vietnamese": "Chuyển công ty"
+  },
+  {
+    "korean": "회사 사정이 안 좋다",
+    "vietnamese": "Tình hình công ty không tốt"
+  },
+  {
+    "korean": "곧 문을 닫다",
+    "vietnamese": "Sắp đóng cửa"
+  },
+  {
+    "korean": "정이 들다",
+    "vietnamese": "Nảy sinh tình cảm"
+  },
+  {
+    "korean": "섭섭하다",
+    "vietnamese": "Tiếc nuối"
+  },
+  {
+    "korean": "조기 귀국",
+    "vietnamese": "Về nước sớm"
+  },
+  {
+    "korean": "일시 출국",
+    "vietnamese": "Về nước tạm thời"
+  },
+  {
+    "korean": "재입국하다",
+    "vietnamese": "Tái nhập cảnh"
+  },
+  {
+    "korean": "개인 사정",
+    "vietnamese": "Lý do cá nhân"
+  },
+  {
+    "korean": "집안 사정",
+    "vietnamese": "Lý do gia đình"
+  },
+  {
+    "korean": "병환",
+    "vietnamese": "Bệnh tật, ốm đau"
+  },
+  {
+    "korean": "편찮으시다",
+    "vietnamese": "Ốm"
+  },
+  {
+    "korean": "재입국 허가 신청서",
+    "vietnamese": "Đơn xin cho phép tái nhập cảnh"
+  },
+  {
+    "korean": "동의서",
+    "vietnamese": "Giấy đồng ý"
+  },
+  {
+    "korean": "허가서",
+    "vietnamese": "Giấy cho phép"
+  },
+  {
+    "korean": "출국 예정 신고서",
+    "vietnamese": "Tờ khai dự kiến xuất cảnh"
+  },
+  {
+    "korean": "본인",
+    "vietnamese": "Bản thân"
+  },
+  {
+    "korean": "일시적으로",
+    "vietnamese": "Một cách tạm thời"
+  },
+  {
+    "korean": "원하다",
+    "vietnamese": "Muốn"
+  },
+  {
+    "korean": "동의하다",
+    "vietnamese": "Đồng ý"
+  },
+  {
+    "korean": "얻다",
+    "vietnamese": "Nhận"
+  },
+  {
+    "korean": "미리",
+    "vietnamese": "Trước"
+  },
+  {
+    "korean": "제출하다",
+    "vietnamese": "Nộp, trình"
+  },
+  {
+    "korean": "아무래도",
+    "vietnamese": "Dù sao đi nữa"
+  },
+  {
+    "korean": "한창",
+    "vietnamese": "Đỉnh điểm, rất"
+  },
+  {
+    "korean": "말을 꺼내다",
+    "vietnamese": "Mở lời"
+  },
+  {
+    "korean": "운영하다",
+    "vietnamese": "Điều hành, vận hành"
+  },
+  {
+    "korean": "퇴사하다",
+    "vietnamese": "Bỏ công ty"
+  },
+  {
+    "korean": "인적 사항",
+    "vietnamese": "Nội dung thông tin cá nhân"
+  },
+  {
+    "korean": "바꾸다",
+    "vietnamese": "Đổi"
+  },
+  {
+    "korean": "개시하다",
+    "vietnamese": "Bắt đầu làm việc gì"
+  },
+  {
+    "korean": "원칙",
+    "vietnamese": "Nguyên tắc"
+  },
+  {
+    "korean": "정상적이다",
+    "vietnamese": "Thông thường"
+  },
+  {
+    "korean": "지속",
+    "vietnamese": "Liên tục"
+  },
+  {
+    "korean": "인정되다",
+    "vietnamese": "Được thừa nhận"
+  },
+  {
+    "korean": "DT에 한해",
+    "vietnamese": "Chỉ với, chỉ trong..."
+  },
+  {
+    "korean": "기본적이다",
+    "vietnamese": "Cơ bản"
+  },
+  {
+    "korean": "인권",
+    "vietnamese": "Nhân quyền"
+  },
+  {
+    "korean": "보장",
+    "vietnamese": "Đảm bảo"
+  },
+  {
+    "korean": "이동",
+    "vietnamese": "Di chuyển"
+  },
+  {
+    "korean": "예외적으로",
+    "vietnamese": "Ngoại lệ"
+  },
+  {
+    "korean": "허용하다",
+    "vietnamese": "Cho phép"
+  },
+  {
+    "korean": "사용자",
+    "vietnamese": "Người sử dụng (lao động)"
+  },
+  {
+    "korean": "정당하다",
+    "vietnamese": "Chính đáng"
+  },
+  {
+    "korean": "해지하다",
+    "vietnamese": "Hủy"
+  },
+  {
+    "korean": "책임",
+    "vietnamese": "Trách nhiệm"
+  },
+  {
+    "korean": "사회 통념상",
+    "vietnamese": "Quan niệm chung của xã hội"
+  },
+  {
+    "korean": "장관",
+    "vietnamese": "Bộ trưởng"
+  },
+  {
+    "korean": "고시하다",
+    "vietnamese": "Công bố"
+  },
+  {
+    "korean": "해당",
+    "vietnamese": "Tương ứng"
+  },
+  {
+    "korean": "부적합하다",
+    "vietnamese": "Không phù hợp"
+  },
+  {
+    "korean": "종료하다",
+    "vietnamese": "Kết thúc"
+  },
+  {
+    "korean": "사업장 소재지 관할 고용센터",
+    "vietnamese": "Trung tâm tuyển dụng quản lý địa phương của doanh nghiệp"
+  },
+  {
+    "korean": "재취업하다",
+    "vietnamese": "Tái xin làm việc"
+  },
+  {
+    "korean": "중단하다",
+    "vietnamese": "Giám đoạn, dừng"
+  },
+  {
+    "korean": "근무지를 옮기다",
+    "vietnamese": "Chuyển nơi làm việc"
+  },
+  {
+    "korean": "체류 기간 연장",
+    "vietnamese": "Gia hạn thời gian lưu trú"
+  },
+  {
+    "korean": "체류하다",
+    "vietnamese": "Lưu trú"
+  },
+  {
+    "korean": "체류 기간",
+    "vietnamese": "Thời gian lưu trú"
+  },
+  {
+    "korean": "체류 가능 기간",
+    "vietnamese": "Thời gian có thể lưu trú"
+  },
+  {
+    "korean": "변경가능횟수",
+    "vietnamese": "Số lần có thể thay đổi nơi làm việc"
+  },
+  {
+    "korean": "연장하다",
+    "vietnamese": "Gia hạn"
+  },
+  {
+    "korean": "체류지 입증 서류",
+    "vietnamese": "Giấy tờ chứng nhận nơi lưu trú"
+  },
+  {
+    "korean": "자진출국각서",
+    "vietnamese": "Đơn cam kết tự nguyện xuất cảnh"
+  },
+  {
+    "korean": "임대차 계약서",
+    "vietnamese": "Hợp đồng thuê nhà"
+  },
+  {
+    "korean": "신원 보증서",
+    "vietnamese": "Đơn bảo lãnh bản thân"
+  },
+  {
+    "korean": "취업활동 기간연장 신청서",
+    "vietnamese": "Đơn xin gia hạn thời gian hoạt động xin việc"
+  },
+  {
+    "korean": "구직등록필증",
+    "vietnamese": "Giấy chứng nhận tìm việc"
+  },
+  {
+    "korean": "자동으로",
+    "vietnamese": "Một cách tự động"
+  },
+  {
+    "korean": "적혀 있다",
+    "vietnamese": "Được viết"
+  },
+  {
+    "korean": "거주하다",
+    "vietnamese": "Cư trú"
+  },
+  {
+    "korean": "증빙하다",
+    "vietnamese": "Chứng minh, chứng nhận"
+  },
+  {
+    "korean": "이것저것",
+    "vietnamese": "Cái này cái kia"
+  },
+  {
+    "korean": "알아보다",
+    "vietnamese": "Tìm hiểu"
+  },
+  {
+    "korean": "벌금을 내다",
+    "vietnamese": "Nộp phạt"
+  },
+  {
+    "korean": "합법 체류",
+    "vietnamese": "Lưu trú hợp pháp"
+  },
+  {
+    "korean": "불법 체류",
+    "vietnamese": "Lưu trú bất hợp pháp"
+  },
+  {
+    "korean": "체류 자격 외 활동",
+    "vietnamese": "Hoạt động ngoài tư cách lưu trú"
+  },
+  {
+    "korean": "자격을 부여하다",
+    "vietnamese": "Cấp cho tư cách"
+  },
+  {
+    "korean": "자격을 획득하다",
+    "vietnamese": "Đạt được tư cách"
+  },
+  {
+    "korean": "자격을 변경하다",
+    "vietnamese": "Thay đổi tư cách lưu trú"
+  },
+  {
+    "korean": "옛날",
+    "vietnamese": "Ngày xưa"
+  },
+  {
+    "korean": "예전",
+    "vietnamese": "Ngày xưa"
+  },
+  {
+    "korean": "재고용 확인서",
+    "vietnamese": "Đơn xác nhận tái tuyển dụng"
+  },
+  {
+    "korean": "범위",
+    "vietnamese": "Phạm vi"
+  },
+  {
+    "korean": "통 시간 안 나다",
+    "vietnamese": "Không có một chút thời gian nào"
+  },
+  {
+    "korean": "스스로",
+    "vietnamese": "Tự"
+  },
+  {
+    "korean": "기억하다",
+    "vietnamese": "Ghi nhớ"
+  },
+  {
+    "korean": "비전문 취업 비자",
+    "vietnamese": "Visa lao động phổ thông"
+  },
+  {
+    "korean": "날인",
+    "vietnamese": "Đóng dấu"
+  },
+  {
+    "korean": "첨부서류",
+    "vietnamese": "Tài liệu đính kèm"
+  },
+  {
+    "korean": "만료 당일",
+    "vietnamese": "Đúng ngày hết hạn"
+  },
+  {
+    "korean": "지나다",
+    "vietnamese": "Đi qua"
+  },
+  {
+    "korean": "부과되다",
+    "vietnamese": "Bị thu (tiền)"
+  },
+  {
+    "korean": "대리인",
+    "vietnamese": "Người đại diện"
+  },
+  {
+    "korean": "단",
+    "vietnamese": "Nhưng"
+  },
+  {
+    "korean": "신청 당일",
+    "vietnamese": "Đúng ngày đăng ký"
+  },
+  {
+    "korean": "국내",
+    "vietnamese": "Trong nước"
+  },
+  {
+    "korean": "머무르다",
+    "vietnamese": "Lưu lại, ở lại"
+  },
+  {
+    "korean": "머물다",
+    "vietnamese": "Lưu lại, ở lại"
+  },
+  {
+    "korean": "강제 출국을 당하게 되다",
+    "vietnamese": "Bị cưỡng chế xuất cảnh"
+  },
+  {
+    "korean": "추방되다",
+    "vietnamese": "Trục xuất"
+  },
+  {
+    "korean": "범칙금을 내다",
+    "vietnamese": "Nộp phạt"
+  },
+  {
+    "korean": "강체출국 당하다",
+    "vietnamese": "Bị cưỡng chế xuất cảnh"
+  },
+  {
+    "korean": "자진 출국하다",
+    "vietnamese": "Tự nguyện xuất cảnh"
+  },
+  {
+    "korean": "이전",
+    "vietnamese": "Trước đó"
+  },
+  {
+    "korean": "건강을 해치다",
+    "vietnamese": "Hại sức khỏe"
+  },
+  {
+    "korean": "몸이 가볍다",
+    "vietnamese": "Cơ thể nhẹ nhõm"
+  },
+  {
+    "korean": "입맛이 좋아지다",
+    "vietnamese": "Khẩu vị trở nên tốt"
+  },
+  {
+    "korean": "건강 증진",
+    "vietnamese": "Tăng cường sức khỏe"
+  },
+  {
+    "korean": "건강을 챙기다",
+    "vietnamese": "Giữ sức khỏe"
+  },
+  {
+    "korean": "표준 체증을 유지하다",
+    "vietnamese": "Duy trì cân nặng tiêu chuẩn"
+  },
+  {
+    "korean": "스트레칭을 하다",
+    "vietnamese": "Kéo giãn cơ thể"
+  },
+  {
+    "korean": "유산소 운동을 하다",
+    "vietnamese": "Tập thể dục nhịp điệu"
+  },
+  {
+    "korean": "골구루 섭취하다",
+    "vietnamese": "Ăn uống đều đặn, đủ chất"
+  },
+  {
+    "korean": "청결을 유지하다",
+    "vietnamese": "Duy trì sự sạch sẽ"
+  },
+  {
+    "korean": "휴식을 취하다",
+    "vietnamese": "Tiến hành nghỉ ngơi"
+  },
+  {
+    "korean": "기분 전환을 하다",
+    "vietnamese": "Làm thay đổi tâm trạng"
+  },
+  {
+    "korean": "간강 검진을 받다",
+    "vietnamese": "Kiểm tra sức khỏe"
+  },
+  {
+    "korean": "놀이공원",
+    "vietnamese": "Công viên vui chơi"
+  },
+  {
+    "korean": "등산화",
+    "vietnamese": "Giày leo núi"
+  },
+  {
+    "korean": "냉방병",
+    "vietnamese": "Bệnh máy lạnh"
+  },
+  {
+    "korean": "대책",
+    "vietnamese": "Đối sách"
+  },
+  {
+    "korean": "실내외 온도차",
+    "vietnamese": "Chênh lệch nhiệt độ trong và ngoài phòng"
+  },
+  {
+    "korean": "긴팔 옷",
+    "vietnamese": "Áo dài tay"
+  },
+  {
+    "korean": "체온",
+    "vietnamese": "Nhiệt độ cơ thể"
+  },
+  {
+    "korean": "절대",
+    "vietnamese": "Tuyệt đối"
+  },
+  {
+    "korean": "밀폐되다",
+    "vietnamese": "Được./ bị đóng kín"
+  },
+  {
+    "korean": "공간",
+    "vietnamese": "Không gian"
+  },
+  {
+    "korean": "깨끗이",
+    "vietnamese": "Một cách sạch sẽ"
+  },
+  {
+    "korean": "습도를 맞추다",
+    "vietnamese": "Làm cho đúng độ ẩm"
+  },
+  {
+    "korean": "종아리",
+    "vietnamese": "Bắp chân"
+  },
+  {
+    "korean": "뻗다",
+    "vietnamese": "Vươn ra, duỗi ra"
+  },
+  {
+    "korean": "오른팔을 펴다",
+    "vietnamese": "Mở cánh tay phải"
+  },
+  {
+    "korean": "팔꿈치",
+    "vietnamese": "Khủy tay"
+  },
+  {
+    "korean": "양손은 깍지를 끼다",
+    "vietnamese": "Đan 2 bàn tay vào nhau"
+  },
+  {
+    "korean": "밀다",
+    "vietnamese": "Đẩy"
+  },
+  {
+    "korean": "상체",
+    "vietnamese": "Thân trên"
+  },
+  {
+    "korean": "당기다",
+    "vietnamese": "Kéo"
+  },
+  {
+    "korean": "불량품이 나오다",
+    "vietnamese": "Xuất hiện sản phẩm lỗi"
+  },
+  {
+    "korean": "대강당",
+    "vietnamese": "Hội trường lớn"
+  },
+  {
+    "korean": "안전 수칙",
+    "vietnamese": "Quy tắc an toàn"
+  },
+  {
+    "korean": "안전 수칙을 지키다",
+    "vietnamese": "Tuân thủ quy tắc an toàn"
+  },
+  {
+    "korean": "안전 수칙을 어기다",
+    "vietnamese": "Vi phạm quy tắc an toàn"
+  },
+  {
+    "korean": "살피다",
+    "vietnamese": "Quan sát"
+  },
+  {
+    "korean": "주의하다",
+    "vietnamese": "Chú ý"
+  },
+  {
+    "korean": "주의를 주다",
+    "vietnamese": "Nhắc nhở"
+  },
+  {
+    "korean": "주의를 당부하다",
+    "vietnamese": "Yêu cầu để ý"
+  },
+  {
+    "korean": "점검하다",
+    "vietnamese": "Kiểm tra"
+  },
+  {
+    "korean": "정비하다",
+    "vietnamese": "Bảo dưỡng"
+  },
+  {
+    "korean": "보수하다",
+    "vietnamese": "Sửa chữa"
+  },
+  {
+    "korean": "개선하다",
+    "vietnamese": "Cải tiến"
+  },
+  {
+    "korean": "조치를 취하다",
+    "vietnamese": "Tiến hành xử lý sự cố"
+  },
+  {
+    "korean": "천만다행이다",
+    "vietnamese": "Rất may mắn"
+  },
+  {
+    "korean": "사고를 막다",
+    "vietnamese": "Chặn được tai nạn"
+  },
+  {
+    "korean": "꼼꼼히",
+    "vietnamese": "Cẩn thận, tỉ mỉ"
+  },
+  {
+    "korean": "기념하다",
+    "vietnamese": "Kỷ niệm"
+  },
+  {
+    "korean": "우수 사원",
+    "vietnamese": "Nhân viên ưu tú"
+  },
+  {
+    "korean": "추천받다",
+    "vietnamese": "Nhận tiến cử"
+  },
+  {
+    "korean": "뽑히다",
+    "vietnamese": "Được bầu chọn"
+  },
+  {
+    "korean": "안색이 안 좋다",
+    "vietnamese": "Sắc mặt không tốt"
+  },
+  {
+    "korean": "적정 습도",
+    "vietnamese": "Độ ẩm phù hợp"
+  },
+  {
+    "korean": "규칙을 준수하다",
+    "vietnamese": "Tuân thủ quy tắc"
+  },
+  {
+    "korean": "상을 받다",
+    "vietnamese": "Nhận được phần thưởng"
+  },
+  {
+    "korean": "창고 관리",
+    "vietnamese": "Quản lý kho"
+  },
+  {
+    "korean": "물류 창고",
+    "vietnamese": "Kho hàng"
+  },
+  {
+    "korean": "냉동 창고",
+    "vietnamese": "Kho lạnh"
+  },
+  {
+    "korean": "컨테이너",
+    "vietnamese": "Công ten nơ"
+  },
+  {
+    "korean": "입고하다",
+    "vietnamese": "Nhập kho"
+  },
+  {
+    "korean": "출고하다",
+    "vietnamese": "Xuất kho"
+  },
+  {
+    "korean": "보관하다, 저장하다",
+    "vietnamese": "Bảo quản"
+  },
+  {
+    "korean": "덮개를 덮다",
+    "vietnamese": "Đậy bạt"
+  },
+  {
+    "korean": "온도를 유지하다",
+    "vietnamese": "Duy trì nhiệt độ"
+  },
+  {
+    "korean": "재고를 파악하다",
+    "vietnamese": "Kiểm tra hàng tồn kho"
+  },
+  {
+    "korean": "관리하다",
+    "vietnamese": "Quản lý"
+  },
+  {
+    "korean": "기록하다",
+    "vietnamese": "Ghi chép"
+  },
+  {
+    "korean": "재고 파악",
+    "vietnamese": "Kiểm tra tồn kho"
+  },
+  {
+    "korean": "식풍 창고",
+    "vietnamese": "Kho thực phẩm"
+  },
+  {
+    "korean": "파손되다",
+    "vietnamese": "Bị hỏng"
+  },
+  {
+    "korean": "담배를 끊다",
+    "vietnamese": "Cai thuốc lá"
+  },
+  {
+    "korean": "제대로",
+    "vietnamese": "Đúng, chuẩn, tử tế"
+  },
+  {
+    "korean": "결심하다",
+    "vietnamese": "Quyết tâm"
+  },
+  {
+    "korean": "실천하다",
+    "vietnamese": "Thực hiện"
+  },
+  {
+    "korean": "성공하다",
+    "vietnamese": "Thành công"
+  },
+  {
+    "korean": "손에 익다",
+    "vietnamese": "Quen tay"
+  },
+  {
+    "korean": "속상하다",
+    "vietnamese": "Buồn, thất vọng"
+  },
+  {
+    "korean": "가구 제조",
+    "vietnamese": "Sản xuất đồ gỗ"
+  },
+  {
+    "korean": "원목을 재단하다",
+    "vietnamese": "Đo cắt tấm gỗ"
+  },
+  {
+    "korean": "홈을 파다",
+    "vietnamese": "Đục rãnh"
+  },
+  {
+    "korean": "구멍을 뚫다",
+    "vietnamese": "Khoan lỗ"
+  },
+  {
+    "korean": "연마하다, 샌딩하다",
+    "vietnamese": "Mài"
+  },
+  {
+    "korean": "사포질하다",
+    "vietnamese": "Đánh giấy ráp"
+  },
+  {
+    "korean": "도장하다",
+    "vietnamese": "Sơn lót"
+  },
+  {
+    "korean": "도색하다",
+    "vietnamese": "Sơn màu"
+  },
+  {
+    "korean": "줄자",
+    "vietnamese": "Thước dây"
+  },
+  {
+    "korean": "직각자",
+    "vietnamese": "Thước ke vuông"
+  },
+  {
+    "korean": "수평대",
+    "vietnamese": "Thước đánh bằng"
+  },
+  {
+    "korean": "칭찬하다",
+    "vietnamese": "Khen ngợi"
+  },
+  {
+    "korean": "문제가 생기다",
+    "vietnamese": "Nảy sinh vấn đề"
+  },
+  {
+    "korean": "탁자",
+    "vietnamese": "Bàn"
+  },
+  {
+    "korean": "매끄럽다",
+    "vietnamese": "Trơn nhẵn"
+  },
+  {
+    "korean": "칭찬 노하우",
+    "vietnamese": "Bí quyết khen ngợi"
+  },
+  {
+    "korean": "결과",
+    "vietnamese": "Kết quả"
+  },
+  {
+    "korean": "역시",
+    "vietnamese": "Đúng là"
+  },
+  {
+    "korean": "안 돌아가다",
+    "vietnamese": "Không chạy được"
+  },
+  {
+    "korean": "차지하다",
+    "vietnamese": "Chiếm"
+  },
+  {
+    "korean": "위",
+    "vietnamese": "Vị trí"
+  },
+  {
+    "korean": "기타",
+    "vietnamese": "Cái khác"
+  },
+  {
+    "korean": "동안이다",
+    "vietnamese": "Khuôn mặt trẻ"
+  },
+  {
+    "korean": "어려 보이다",
+    "vietnamese": "Nhìn trông trẻ trung"
+  },
+  {
+    "korean": "응답",
+    "vietnamese": "Câu trả lời"
+  },
+  {
+    "korean": "평상",
+    "vietnamese": "Bình thường,"
+  },
+  {
+    "korean": "틈틈이",
+    "vietnamese": "Thi thoảng"
+  },
+  {
+    "korean": "뒤를 잇다",
+    "vietnamese": "Nối tiếp sau"
+  },
+  {
+    "korean": "성공적인 인간 관계",
+    "vietnamese": "Mối quan hệ giữa con người với con người thành công"
+  },
+  {
+    "korean": "식료품",
+    "vietnamese": "Đồ ăn uống"
+  },
+  {
+    "korean": "용도",
+    "vietnamese": "Công năng, mục đích sử dụng"
+  },
+  {
+    "korean": "서운하다",
+    "vietnamese": "Tiếc nuối"
+  },
+  {
+    "korean": "착하다",
+    "vietnamese": "Tốt bụng"
+  },
+  {
+    "korean": "늘, 언제나, 항상",
+    "vietnamese": "Luôn luôn"
+  },
+  {
+    "korean": "돼지",
+    "vietnamese": "Lợn"
+  },
+  {
+    "korean": "소",
+    "vietnamese": "bò"
+  },
+  {
+    "korean": "닭",
+    "vietnamese": "Gà"
+  },
+  {
+    "korean": "양",
+    "vietnamese": "Cừu"
+  },
+  {
+    "korean": "오리",
+    "vietnamese": "Vịt"
+  },
+  {
+    "korean": "말",
+    "vietnamese": "lời, lời nhạc, Con ngựa"
+  },
+  {
+    "korean": "토끼",
+    "vietnamese": "Con thỏ"
+  },
+  {
+    "korean": "양돈",
+    "vietnamese": "nuôi lợn"
+  },
+  {
+    "korean": "양우",
+    "vietnamese": "nuôi bò"
+  },
+  {
+    "korean": "양계",
+    "vietnamese": "sự chăn nuôi gà"
+  },
+  {
+    "korean": "축사",
+    "vietnamese": "trại chăn nuôi, chuồng"
+  },
+  {
+    "korean": "사료",
+    "vietnamese": "thức ăn gia súc"
+  },
+  {
+    "korean": "건초",
+    "vietnamese": "Cỏ khô"
+  },
+  {
+    "korean": "그물",
+    "vietnamese": "lưới"
+  },
+  {
+    "korean": "통발",
+    "vietnamese": "cái đó bắt cá"
+  },
+  {
+    "korean": "집어등",
+    "vietnamese": "đèn gom cá, đèn nhử cá"
+  },
+  {
+    "korean": "양망기",
+    "vietnamese": "cái tời (dùng kéo thu lưới cá)"
+  },
+  {
+    "korean": "밧줄",
+    "vietnamese": "dây (thừng, chão)"
+  },
+  {
+    "korean": "쇠사슬",
+    "vietnamese": "dây xích sắt"
+  },
+  {
+    "korean": "고리",
+    "vietnamese": "cái móc khóa"
+  },
+  {
+    "korean": "닻",
+    "vietnamese": "mỏ neo"
+  },
+  {
+    "korean": "도르래",
+    "vietnamese": "cái ròng rọc"
+  },
+  {
+    "korean": "뜰채",
+    "vietnamese": "cái vợt (dùng vợt cá)"
+  },
+  {
+    "korean": "낚시 바늘",
+    "vietnamese": "lưỡi câu cá"
+  },
+  {
+    "korean": "스키드로더",
+    "vietnamese": "máy hót rác"
+  },
+  {
+    "korean": "부표",
+    "vietnamese": "Phao"
+  },
+  {
+    "korean": "바늘대",
+    "vietnamese": "cái ghim cước (dùng cuốn cước đan lưới)"
+  },
+  {
+    "korean": "수중 펌프",
+    "vietnamese": "máy bơm chìm"
+  },
+  {
+    "korean": "수경",
+    "vietnamese": "kính lặn nước"
+  },
+  {
+    "korean": "갈퀴",
+    "vietnamese": "cái cào"
+  },
+  {
+    "korean": "스티로폼 상자",
+    "vietnamese": "thùng xốp"
+  },
+  {
+    "korean": "사료 배합기",
+    "vietnamese": "máy trộn thức ăn gia súc"
+  },
+  {
+    "korean": "방안",
+    "vietnamese": "phương án"
+  },
+  {
+    "korean": "문제",
+    "vietnamese": "vấn đề"
+  },
+  {
+    "korean": "해결하다",
+    "vietnamese": "giải quyết"
+  },
+  {
+    "korean": "원인",
+    "vietnamese": "nguyên nhân"
+  },
+  {
+    "korean": "찾다",
+    "vietnamese": "tìm kiếm"
+  },
+  {
+    "korean": "추천하다",
+    "vietnamese": "giới thiệu"
+  },
+  {
+    "korean": "불룩해지다",
+    "vietnamese": "trướng bụng, phồng"
+  },
+  {
+    "korean": "가스가 차다",
+    "vietnamese": "đầy hơi"
+  },
+  {
+    "korean": "수의사",
+    "vietnamese": "bác sỹ thú y"
+  },
+  {
+    "korean": "단단히",
+    "vietnamese": "cứng"
+  },
+  {
+    "korean": "부르다",
+    "vietnamese": "gọi"
+  },
+  {
+    "korean": "미리미리",
+    "vietnamese": "trước, sẵn"
+  },
+  {
+    "korean": "혼을 내다",
+    "vietnamese": "mắng"
+  },
+  {
+    "korean": "엉키다",
+    "vietnamese": "bị rối"
+  },
+  {
+    "korean": "제때",
+    "vietnamese": "ngay lập tức"
+  },
+  {
+    "korean": "논",
+    "vietnamese": "đồng ruộng, đồng lúa"
+  },
+  {
+    "korean": "낫",
+    "vietnamese": "cái liềm"
+  },
+  {
+    "korean": "밭",
+    "vietnamese": "cánh đồng"
+  },
+  {
+    "korean": "농장",
+    "vietnamese": "nông trường"
+  },
+  {
+    "korean": "호미",
+    "vietnamese": "cuốc ngắn"
+  },
+  {
+    "korean": "과수원",
+    "vietnamese": "Vườn cây ăn quả"
+  },
+  {
+    "korean": "곡괭이",
+    "vietnamese": "cái búa chim"
+  },
+  {
+    "korean": "비닐하우스",
+    "vietnamese": "nhà lợp nilong"
+  },
+  {
+    "korean": "괭이",
+    "vietnamese": "cuốc dài"
+  },
+  {
+    "korean": "삽",
+    "vietnamese": "xẻng"
+  },
+  {
+    "korean": "키우다",
+    "vietnamese": "nuôi dưỡng, chăn nuôi, nuôi nấng"
+  },
+  {
+    "korean": "모종삽",
+    "vietnamese": "xẻng trồng cây con"
+  },
+  {
+    "korean": "쇠스랑",
+    "vietnamese": "cái xỉa rơm rạ"
+  },
+  {
+    "korean": "기르다",
+    "vietnamese": "trồng"
+  },
+  {
+    "korean": "재배하다",
+    "vietnamese": "trồng trọt, canh tác"
+  },
+  {
+    "korean": "거두다",
+    "vietnamese": "thu hoạch"
+  },
+  {
+    "korean": "물뿌리개",
+    "vietnamese": "bình tưới nước"
+  },
+  {
+    "korean": "파종상자",
+    "vietnamese": "khay gieo giống"
+  },
+  {
+    "korean": "따다",
+    "vietnamese": "hái"
+  },
+  {
+    "korean": "농약 분무기",
+    "vietnamese": "bình phun thuốc trừ sâu"
+  },
+  {
+    "korean": "캐다",
+    "vietnamese": "bới , moi , bới"
+  },
+  {
+    "korean": "경운기",
+    "vietnamese": "máy cày"
+  },
+  {
+    "korean": "콤바인",
+    "vietnamese": "máy gặt"
+  },
+  {
+    "korean": "비료를 뿌리다",
+    "vietnamese": "bón phân hóa học"
+  },
+  {
+    "korean": "씨앗을 뿌리다",
+    "vietnamese": "gieo hạt giống"
+  },
+  {
+    "korean": "모종을 심다",
+    "vietnamese": "trồng cây con"
+  },
+  {
+    "korean": "변경하다",
+    "vietnamese": "thay đổi"
+  },
+  {
+    "korean": "물을 주다",
+    "vietnamese": "tưới nước"
+  },
+  {
+    "korean": "요구하다",
+    "vietnamese": "yêu cầu"
+  },
+  {
+    "korean": "거름을 주다",
+    "vietnamese": "bón phân chuồng"
+  },
+  {
+    "korean": "농촌",
+    "vietnamese": "nông thôn"
+  },
+  {
+    "korean": "잡초를 뽑다",
+    "vietnamese": "nhổ cỏ"
+  },
+  {
+    "korean": "사계절",
+    "vietnamese": "bốn mùa"
+  },
+  {
+    "korean": "벌레를 잡다",
+    "vietnamese": "bắt xâu bọ"
+  },
+  {
+    "korean": "농약을 치다",
+    "vietnamese": "phun thuốc trừ sâu"
+  },
+  {
+    "korean": "봄",
+    "vietnamese": "mùa xuân"
+  },
+  {
+    "korean": "여름",
+    "vietnamese": "Hạ"
+  },
+  {
+    "korean": "겨울",
+    "vietnamese": "Đông"
+  },
+  {
+    "korean": "가을",
+    "vietnamese": "Thu"
+  },
+  {
+    "korean": "챙기다",
+    "vietnamese": "Chuẩn bị"
+  },
+  {
+    "korean": "딱딱하다",
+    "vietnamese": "rắn chắc, cứng"
+  },
+  {
+    "korean": "곡류",
+    "vietnamese": "các loại ngũ cốc"
+  },
+  {
+    "korean": "벼",
+    "vietnamese": "cây lúa"
+  },
+  {
+    "korean": "보리",
+    "vietnamese": "lúa mạch"
+  },
+  {
+    "korean": "밀",
+    "vietnamese": "lúa mì"
+  },
+  {
+    "korean": "콩",
+    "vietnamese": "đậu đỗ"
+  },
+  {
+    "korean": "밭을 갈다",
+    "vietnamese": "Cày ruộng"
+  },
+  {
+    "korean": "씨를 뿌리다",
+    "vietnamese": "Gieo hạt"
+  },
+  {
+    "korean": "김장",
+    "vietnamese": "Kim chi ăn mùa đông"
+  },
+  {
+    "korean": "농기구",
+    "vietnamese": "Công cụ nông nghiệp"
+  },
+  {
+    "korean": "다음 해",
+    "vietnamese": "Năm tiếp theo"
+  },
+  {
+    "korean": "농사를 계획하다",
+    "vietnamese": "Lên kế hoạch làm ruộng"
+  },
+  {
+    "korean": "벌레가 생기다",
+    "vietnamese": "Có sâu"
+  },
+  {
+    "korean": "작물",
+    "vietnamese": "Cây hoa màu"
+  },
+  {
+    "korean": "자라다",
+    "vietnamese": "Trưởng thành"
+  },
+  {
+    "korean": "더럽다",
+    "vietnamese": "bẩn"
+  },
+  {
+    "korean": "폐기물",
+    "vietnamese": "rác thải"
+  },
+  {
+    "korean": "깨끗하다",
+    "vietnamese": "sạch sẽ"
+  },
+  {
+    "korean": "엉망이다",
+    "vietnamese": "lộn xộn"
+  },
+  {
+    "korean": "정리가 잘 되어 있다",
+    "vietnamese": "được dọn dẹp"
+  },
+  {
+    "korean": "냄새가 심하다",
+    "vietnamese": "mùi hôi rất nặng"
+  },
+  {
+    "korean": "폐수",
+    "vietnamese": "nước thải"
+  },
+  {
+    "korean": "폐유",
+    "vietnamese": "dầu thải"
+  },
+  {
+    "korean": "분뇨",
+    "vietnamese": "chất thải"
+  },
+  {
+    "korean": "배설물",
+    "vietnamese": "phân gia súc"
+  },
+  {
+    "korean": "소음이 심하다",
+    "vietnamese": "tiếng ồn lớn"
+  },
+  {
+    "korean": "환풍기",
+    "vietnamese": "quạt thông gió"
+  },
+  {
+    "korean": "쾌적하다",
+    "vietnamese": "dễ chịu, thoải mãi"
+  },
+  {
+    "korean": "버리다",
+    "vietnamese": "vứt, loại bỏ"
+  },
+  {
+    "korean": "치우다",
+    "vietnamese": "dọn, cất, thu dọn"
+  },
+  {
+    "korean": "정리하다",
+    "vietnamese": "sắp xếp"
+  },
+  {
+    "korean": "환기하다",
+    "vietnamese": "làm thông gió"
+  },
+  {
+    "korean": "작업장 환경",
+    "vietnamese": "môi trường làm việc"
+  },
+  {
+    "korean": "손수레",
+    "vietnamese": "xe đẩy hàng"
+  },
+  {
+    "korean": "일륜차",
+    "vietnamese": "xe một bánh, xe rùa"
+  },
+  {
+    "korean": "환경",
+    "vietnamese": "Môi trường"
+  },
+  {
+    "korean": "묘사하다",
+    "vietnamese": "mô tả"
+  },
+  {
+    "korean": "사다리",
+    "vietnamese": "cái thang"
+  },
+  {
+    "korean": "말하다",
+    "vietnamese": "nói"
+  },
+  {
+    "korean": "마대",
+    "vietnamese": "bao tải"
+  },
+  {
+    "korean": "정돈하다",
+    "vietnamese": "chỉnh đốn, dọn dẹp"
+  },
+  {
+    "korean": "바구니",
+    "vietnamese": "Rổ"
+  },
+  {
+    "korean": "페인트",
+    "vietnamese": "sơn, màu vẽ"
+  },
+  {
+    "korean": "비닐 끈",
+    "vietnamese": "dây nhựa dẻo, dây nilông"
+  },
+  {
+    "korean": "바로바로",
+    "vietnamese": "ngay lập tức"
+  },
+  {
+    "korean": "처리하다",
+    "vietnamese": "xử lý"
+  },
+  {
+    "korean": "분리하다",
+    "vietnamese": "phân loại"
+  },
+  {
+    "korean": "까다롭다",
+    "vietnamese": "cầu kỳ, rắc rối"
+  },
+  {
+    "korean": "환풍기를 돌리다",
+    "vietnamese": "Bật quạt thông gió"
+  },
+  {
+    "korean": "처리 도구",
+    "vietnamese": "Dụng cụ xử lý"
+  },
+  {
+    "korean": "비닐끈",
+    "vietnamese": "Dây nilon"
+  },
+  {
+    "korean": "고치다, 수리하다",
+    "vietnamese": "Sửa chữa"
+  },
+  {
+    "korean": "지저분하다",
+    "vietnamese": "Bẩn thỉu"
+  },
+  {
+    "korean": "사모님",
+    "vietnamese": "Phu nhân giám đốc"
+  },
+  {
+    "korean": "까다로워지다",
+    "vietnamese": "Trở lên phức tạp"
+  },
+  {
+    "korean": "낭비를 줄이다",
+    "vietnamese": "Giảm lãng phí"
+  },
+  {
+    "korean": "안전사고",
+    "vietnamese": "Tai nạn lao động"
+  },
+  {
+    "korean": "오랫동안",
+    "vietnamese": "Thời gian dài"
+  },
+  {
+    "korean": "품질",
+    "vietnamese": "Chất lượng sản phẩm"
+  },
+  {
+    "korean": "생산 품종",
+    "vietnamese": "Chủng loại sản phẩm sản xuất"
+  },
+  {
+    "korean": "변경되다",
+    "vietnamese": "Được/ bị thay đổi"
+  },
+  {
+    "korean": "손실을 줄이다",
+    "vietnamese": "Giảm thiệt hại"
+  },
+  {
+    "korean": "발전하다",
+    "vietnamese": "Phát triển"
+  },
+  {
+    "korean": "사용 목적",
+    "vietnamese": "Mục đích sử dụng"
+  },
+  {
+    "korean": "본래",
+    "vietnamese": "Vốn lẽ"
+  },
+  {
+    "korean": "목적",
+    "vietnamese": "Mục đích"
+  },
+  {
+    "korean": "이외에",
+    "vietnamese": "Ngoài đó ra"
+  },
+  {
+    "korean": "위험하다",
+    "vietnamese": "Nguy hiểm"
+  },
+  {
+    "korean": "알맞다",
+    "vietnamese": "Đúng"
+  },
+  {
+    "korean": "공구 점검",
+    "vietnamese": "Kiểm tra công cụ"
+  },
+  {
+    "korean": "고장이 나다",
+    "vietnamese": "Hỏng"
+  },
+  {
+    "korean": "폐기하다",
+    "vietnamese": "Bỏ đi"
+  },
+  {
+    "korean": "주변 정리 정도",
+    "vietnamese": "Thu dọn xung quanh"
+  },
+  {
+    "korean": "보관",
+    "vietnamese": "Bảo quản"
+  },
+  {
+    "korean": "벽돌",
+    "vietnamese": "gạch xây dựng"
+  },
+  {
+    "korean": "철근",
+    "vietnamese": "dây thép"
+  },
+  {
+    "korean": "시멘트",
+    "vietnamese": "xi măng"
+  },
+  {
+    "korean": "콘크리트",
+    "vietnamese": "bê tông"
+  },
+  {
+    "korean": "분류하다",
+    "vietnamese": "phân loại"
+  },
+  {
+    "korean": "건설",
+    "vietnamese": "việc xây dựng"
+  },
+  {
+    "korean": "공사장",
+    "vietnamese": "công trường"
+  },
+  {
+    "korean": "비계",
+    "vietnamese": "giàn giáo"
+  },
+  {
+    "korean": "싸다",
+    "vietnamese": "gói, đóng gói"
+  },
+  {
+    "korean": "건물을 짓다",
+    "vietnamese": "xây tòa nhà"
+  },
+  {
+    "korean": "땅을 파다",
+    "vietnamese": "đào đất"
+  },
+  {
+    "korean": "거푸집을 설치하다",
+    "vietnamese": "lắp đặt khuôn"
+  },
+  {
+    "korean": "넣다 == 담다",
+    "vietnamese": "bỏ vào"
+  },
+  {
+    "korean": "묶다",
+    "vietnamese": "buộc"
+  },
+  {
+    "korean": "나르다",
+    "vietnamese": "chở, chuyển, vận chuyển"
+  },
+  {
+    "korean": "쌓다",
+    "vietnamese": "chồng lên, xếp lên"
+  },
+  {
+    "korean": "철근을 조립하다",
+    "vietnamese": "lắp ráp cốt thép"
+  },
+  {
+    "korean": "콘크리트를 타설하다",
+    "vietnamese": "đổ bê tông, rải bê tông"
+  },
+  {
+    "korean": "지게차",
+    "vietnamese": "xe nâng"
+  },
+  {
+    "korean": "싣다",
+    "vietnamese": "chất lên xe"
+  },
+  {
+    "korean": "내리다",
+    "vietnamese": "dỡ hàng"
+  },
+  {
+    "korean": "출하하다",
+    "vietnamese": "xuất hàng"
+  },
+  {
+    "korean": "납품하다",
+    "vietnamese": "giao hàng"
+  },
+  {
+    "korean": "크레인",
+    "vietnamese": "cần cẩu"
+  },
+  {
+    "korean": "건설 현장",
+    "vietnamese": "công trình xây dựng"
+  },
+  {
+    "korean": "트럭",
+    "vietnamese": "xe tải"
+  },
+  {
+    "korean": "굴착기",
+    "vietnamese": "máy xúc"
+  },
+  {
+    "korean": "불도저",
+    "vietnamese": "máy ủi, xe ủi đất"
+  },
+  {
+    "korean": "트랙터",
+    "vietnamese": "máy kéo, xe kéo"
+  },
+  {
+    "korean": "덤프트럭",
+    "vietnamese": "xe tải (có cần nâng đổ ben)"
+  },
+  {
+    "korean": "그레이더",
+    "vietnamese": "máy san, xe san đất"
+  },
+  {
+    "korean": "작업",
+    "vietnamese": "công việc"
+  },
+  {
+    "korean": "레미콘",
+    "vietnamese": "xe trộn bê tông"
+  },
+  {
+    "korean": "지시하다",
+    "vietnamese": "chỉ thị"
+  },
+  {
+    "korean": "확인하다",
+    "vietnamese": "xác nhận"
+  },
+  {
+    "korean": "건설하다",
+    "vietnamese": "xây dựng"
+  },
+  {
+    "korean": "현장",
+    "vietnamese": "hiện trường"
+  },
+  {
+    "korean": "중장비",
+    "vietnamese": "thiết bị"
+  },
+  {
+    "korean": "주문서",
+    "vietnamese": "đơn đặt hàng"
+  },
+  {
+    "korean": "대자",
+    "vietnamese": "cỡ to"
+  },
+  {
+    "korean": "중자",
+    "vietnamese": "loại trung bình"
+  },
+  {
+    "korean": "소자",
+    "vietnamese": "cỡ nhỏ"
+  },
+  {
+    "korean": "기계 작동",
+    "vietnamese": "sự vận hành của máy mọc"
+  },
+  {
+    "korean": "작동하다",
+    "vietnamese": "vận hành"
+  },
+  {
+    "korean": "사용하다",
+    "vietnamese": "dùng,sử dụng"
+  },
+  {
+    "korean": "누르다",
+    "vietnamese": "ấn xuống , đè xuống"
+  },
+  {
+    "korean": "올리다",
+    "vietnamese": "bật,gạt lên, đưa lên"
+  },
+  {
+    "korean": "돌리다",
+    "vietnamese": "xoay"
+  },
+  {
+    "korean": "끼우다",
+    "vietnamese": "lắp, gắn"
+  },
+  {
+    "korean": "꽂다",
+    "vietnamese": "cắm"
+  },
+  {
+    "korean": "걸다",
+    "vietnamese": "treo , mắc"
+  },
+  {
+    "korean": "적재하다",
+    "vietnamese": "xếp"
+  },
+  {
+    "korean": "포장 작업",
+    "vietnamese": "công việc đóng gói bao bì"
+  },
+  {
+    "korean": "재다",
+    "vietnamese": "đo đạc"
+  },
+  {
+    "korean": "자르다",
+    "vietnamese": "cắt"
+  },
+  {
+    "korean": "오리다",
+    "vietnamese": "cắt, xén"
+  },
+  {
+    "korean": "목재",
+    "vietnamese": "nguyên liệu bằng gỗ"
+  },
+  {
+    "korean": "접다",
+    "vietnamese": "gấp lại"
+  },
+  {
+    "korean": "붙이다",
+    "vietnamese": "dán"
+  },
+  {
+    "korean": "골판지",
+    "vietnamese": "giấy cát tông"
+  },
+  {
+    "korean": "달다",
+    "vietnamese": "đính, nắp, thêm vào"
+  },
+  {
+    "korean": "조절하다",
+    "vietnamese": "điều chỉnh"
+  },
+  {
+    "korean": "완성하다",
+    "vietnamese": "hoàn thành"
+  },
+  {
+    "korean": "충분하다",
+    "vietnamese": "đầy đủ"
+  },
+  {
+    "korean": "제작하다",
+    "vietnamese": "chế tác, chế tạo"
+  },
+  {
+    "korean": "남다",
+    "vietnamese": "còn lại"
+  },
+  {
+    "korean": "옮기다",
+    "vietnamese": "Chuyển, dời"
+  },
+  {
+    "korean": "반장",
+    "vietnamese": "tổ trưởng"
+  },
+  {
+    "korean": "안전한",
+    "vietnamese": "an toàn"
+  },
+  {
+    "korean": "도구",
+    "vietnamese": "Công cụ"
+  },
+  {
+    "korean": "사용법",
+    "vietnamese": "cách dùng"
+  },
+  {
+    "korean": "확실",
+    "vietnamese": "chắc chắn"
+  },
+  {
+    "korean": "펜치",
+    "vietnamese": "kìm"
+  },
+  {
+    "korean": "니퍼",
+    "vietnamese": "cái kìm cắt"
+  },
+  {
+    "korean": "플라이어",
+    "vietnamese": "kìm có răng pliers"
+  },
+  {
+    "korean": "드라이버",
+    "vietnamese": "tô vít"
+  },
+  {
+    "korean": "전기 드릴",
+    "vietnamese": "máy khoan điện"
+  },
+  {
+    "korean": "끊다",
+    "vietnamese": "cắt, chặt, bỏ, từ bỏ"
+  },
+  {
+    "korean": "톱",
+    "vietnamese": "cái cưa"
+  },
+  {
+    "korean": "펴다",
+    "vietnamese": "uốn thẳng"
+  },
+  {
+    "korean": "망치",
+    "vietnamese": "cái búa"
+  },
+  {
+    "korean": "박다",
+    "vietnamese": "đóng"
+  },
+  {
+    "korean": "스패너",
+    "vietnamese": "cờ lê"
+  },
+  {
+    "korean": "못",
+    "vietnamese": "cái đinh"
+  },
+  {
+    "korean": "나사못",
+    "vietnamese": "đinh vít, đinh xoắn"
+  },
+  {
+    "korean": "두드리다",
+    "vietnamese": "đóng, gõ"
+  },
+  {
+    "korean": "볼트",
+    "vietnamese": "bulong"
+  },
+  {
+    "korean": "너트",
+    "vietnamese": "đai ốc (êcu)"
+  },
+  {
+    "korean": "풀다",
+    "vietnamese": "Tháo"
+  },
+  {
+    "korean": "절곡기",
+    "vietnamese": "kìm cộng lực, máy cắt"
+  },
+  {
+    "korean": "제조업 기계",
+    "vietnamese": "sản xuất chế tạo máy móc"
+  },
+  {
+    "korean": "전기 절단기",
+    "vietnamese": "máy cắt điện"
+  },
+  {
+    "korean": "에어 콤프레서",
+    "vietnamese": "máy nén khí"
+  },
+  {
+    "korean": "전기 용접기",
+    "vietnamese": "máy hàn điện"
+  },
+  {
+    "korean": "가스 용접기",
+    "vietnamese": "máy hàn khí ga"
+  },
+  {
+    "korean": "용접봉",
+    "vietnamese": "que hàn"
+  },
+  {
+    "korean": "결속핸들",
+    "vietnamese": "xoắn cầm tay (dùng xoắn dây thép)"
+  },
+  {
+    "korean": "밴딩기",
+    "vietnamese": "máy đóng đai"
+  },
+  {
+    "korean": "쇠지레",
+    "vietnamese": "xà cầy"
+  },
+  {
+    "korean": "파이프 렌치",
+    "vietnamese": "kìm vặn tuýp nước"
+  },
+  {
+    "korean": "호이스트",
+    "vietnamese": "cần trục, tời"
+  },
+  {
+    "korean": "컨트롤 판넬",
+    "vietnamese": "bảng điều khiển"
+  },
+  {
+    "korean": "핸드카",
+    "vietnamese": "xe đẩy tay"
+  },
+  {
+    "korean": "전선 릴",
+    "vietnamese": "cuộn dây ổ điện"
+  },
+  {
+    "korean": "그라인더(연삭기)",
+    "vietnamese": "máy mài"
+  },
+  {
+    "korean": "대패",
+    "vietnamese": "cái bào"
+  },
+  {
+    "korean": "사포",
+    "vietnamese": "giấy ráp"
+  },
+  {
+    "korean": "줄",
+    "vietnamese": "cái dũa"
+  },
+  {
+    "korean": "정",
+    "vietnamese": "cái đục"
+  },
+  {
+    "korean": "송곳",
+    "vietnamese": "cái dùi"
+  },
+  {
+    "korean": "바이스",
+    "vietnamese": "cái ê tô (bàn kẹp)"
+  },
+  {
+    "korean": "롱노즈 플라이어",
+    "vietnamese": "kìm phanh"
+  },
+  {
+    "korean": "제조업 수공구",
+    "vietnamese": "dụng cụ cầm tay cho sản xuất chế tạo"
+  },
+  {
+    "korean": "작업에 필요한 도구",
+    "vietnamese": "công cụ cho công việc"
+  },
+  {
+    "korean": "공구함",
+    "vietnamese": "hòm công cụ"
+  },
+  {
+    "korean": "거래처",
+    "vietnamese": "khách hàng, người giao dịch"
+  },
+  {
+    "korean": "들여오다",
+    "vietnamese": "cầm vào, mang vào"
+  },
+  {
+    "korean": "운반하다",
+    "vietnamese": "vận chuyển"
+  },
+  {
+    "korean": "불쾌감",
+    "vietnamese": "cảm giác ko thoải mái"
+  },
+  {
+    "korean": "수치심",
+    "vietnamese": "hổ thẹn, mất thể diện"
+  },
+  {
+    "korean": "거부감",
+    "vietnamese": "cảm giác khó tiếp nhận"
+  },
+  {
+    "korean": "성적 농담",
+    "vietnamese": "đùa cợt giới tính"
+  },
+  {
+    "korean": "신체 접촉",
+    "vietnamese": "tiếp xúc cơ thể"
+  },
+  {
+    "korean": "음담패설",
+    "vietnamese": "chuyện dâm ô"
+  },
+  {
+    "korean": "음란물",
+    "vietnamese": "văn hóa phẩm đồi trụy"
+  },
+  {
+    "korean": "동영상",
+    "vietnamese": "video, clips"
+  },
+  {
+    "korean": "가해자",
+    "vietnamese": "người gây hại"
+  },
+  {
+    "korean": "피해자",
+    "vietnamese": "người bị hại"
+  },
+  {
+    "korean": "증거",
+    "vietnamese": "chứng cứ"
+  },
+  {
+    "korean": "증인",
+    "vietnamese": "người làm chứng"
+  },
+  {
+    "korean": "성희롱 대처 방법",
+    "vietnamese": "cách đối phó với quấy rồi tình dục"
+  },
+  {
+    "korean": "성범죄",
+    "vietnamese": "tội phạm tình dục"
+  },
+  {
+    "korean": "의사를 표현하다",
+    "vietnamese": "biểu hiện ý đồ"
+  },
+  {
+    "korean": "강요하다",
+    "vietnamese": "ép buộc, cưỡng ép"
+  },
+  {
+    "korean": "불이익을 주다",
+    "vietnamese": "gây bất lợi"
+  },
+  {
+    "korean": "농담",
+    "vietnamese": "câu đùa"
+  },
+  {
+    "korean": "의도",
+    "vietnamese": "ý đồ"
+  },
+  {
+    "korean": "예민하다",
+    "vietnamese": "nhạy cảm"
+  },
+  {
+    "korean": "사건을 기록하다",
+    "vietnamese": "ghi lại sự việc"
+  },
+  {
+    "korean": "증거를 확보하다",
+    "vietnamese": "đảm bảo chứng cứ"
+  },
+  {
+    "korean": "경고",
+    "vietnamese": "sự cảnh báo"
+  },
+  {
+    "korean": "견책",
+    "vietnamese": "sự khiển trách"
+  },
+  {
+    "korean": "정직",
+    "vietnamese": "sự chính trực,sự ngay thẳng / sự đình chỉ"
+  },
+  {
+    "korean": "감봉",
+    "vietnamese": "cắt giảm lương"
+  },
+  {
+    "korean": "해고",
+    "vietnamese": "sự sa thải"
+  },
+  {
+    "korean": "징계",
+    "vietnamese": "sự trừng phạt"
+  },
+  {
+    "korean": "행정적 책임",
+    "vietnamese": "trách nhiệm hành chính"
+  },
+  {
+    "korean": "과태료",
+    "vietnamese": "tiền phạt"
+  },
+  {
+    "korean": "민사 책임",
+    "vietnamese": "trách nhiệm dân sự"
+  },
+  {
+    "korean": "손해배상",
+    "vietnamese": "bồi thường thiệt hại"
+  },
+  {
+    "korean": "발생",
+    "vietnamese": "sự phát sinh"
+  },
+  {
+    "korean": "도덕적 비난",
+    "vietnamese": "sự phê bình đạo đức"
+  },
+  {
+    "korean": "명예 손상",
+    "vietnamese": "tổn hại danh dự"
+  },
+  {
+    "korean": "회식을 하다",
+    "vietnamese": "làm liên hoan"
+  },
+  {
+    "korean": "참석하다",
+    "vietnamese": "tham dự"
+  },
+  {
+    "korean": "빠지다",
+    "vietnamese": "thiếu, vắng"
+  },
+  {
+    "korean": "한턱내다",
+    "vietnamese": "chiêu đãi"
+  },
+  {
+    "korean": "한잔하다",
+    "vietnamese": "uống 1 chén"
+  },
+  {
+    "korean": "2차에 가다",
+    "vietnamese": "đi tăng 2, đi thêm lần nữa"
+  },
+  {
+    "korean": "술을 받다",
+    "vietnamese": "nhận rượu"
+  },
+  {
+    "korean": "건배하다",
+    "vietnamese": "nâng ly , cụm ly"
+  },
+  {
+    "korean": "환영하다",
+    "vietnamese": "chào mừng hoan nghênh"
+  },
+  {
+    "korean": "환송하다",
+    "vietnamese": "chào tạm biệt"
+  },
+  {
+    "korean": "축하하다",
+    "vietnamese": "chúc mừng"
+  },
+  {
+    "korean": "친해지다",
+    "vietnamese": "trở nên thân thiết"
+  },
+  {
+    "korean": "직장에서의 모임",
+    "vietnamese": "tụ họp nơi làm việc"
+  },
+  {
+    "korean": "단합 대회",
+    "vietnamese": "đại hội công ty"
+  },
+  {
+    "korean": "등반 대회",
+    "vietnamese": "hội leo trèo (leo núi)"
+  },
+  {
+    "korean": "야유회",
+    "vietnamese": "chuyến dã ngoại"
+  },
+  {
+    "korean": "체육대회",
+    "vietnamese": "đại hội thể dục thể thao"
+  },
+  {
+    "korean": "새 직원 소개하기",
+    "vietnamese": "giới thiệu nhân viên mới"
+  },
+  {
+    "korean": "치맥",
+    "vietnamese": "bia và thịt gà"
+  },
+  {
+    "korean": "배 터지게 먹다",
+    "vietnamese": "ăn no vỡ bụng ra"
+  },
+  {
+    "korean": "포식하다",
+    "vietnamese": "ăn no căng"
+  },
+  {
+    "korean": "공장장",
+    "vietnamese": "Quản đốc"
+  },
+  {
+    "korean": "상사",
+    "vietnamese": "lãnh đạo, cấp trên"
+  },
+  {
+    "korean": "술",
+    "vietnamese": "rượu"
+  },
+  {
+    "korean": "받다",
+    "vietnamese": "nhận"
+  },
+  {
+    "korean": "따르다",
+    "vietnamese": "rót"
+  },
+  {
+    "korean": "술자리 예절",
+    "vietnamese": "nghi lễ nơi bàn rượu"
+  },
+  {
+    "korean": "부하",
+    "vietnamese": "cấp dưới, thuộc hạ"
+  },
+  {
+    "korean": "자유롭다",
+    "vietnamese": "tự do, thoải mãi"
+  },
+  {
+    "korean": "사이가 좋다",
+    "vietnamese": "quan hệ tốt"
+  },
+  {
+    "korean": "사이가 나쁘다",
+    "vietnamese": "mỗi quan hệ xấu"
+  },
+  {
+    "korean": "격려하다",
+    "vietnamese": "động viên , cổ vũ , khích lệ"
+  },
+  {
+    "korean": "서로 위해주다",
+    "vietnamese": "quan tâm lấn nhau"
+  },
+  {
+    "korean": "직장의 분위기",
+    "vietnamese": "bầu không khí nơi làm việc"
+  },
+  {
+    "korean": "분위기가 좋다",
+    "vietnamese": "bầu không khí tốt"
+  },
+  {
+    "korean": "분위기가 나쁘다",
+    "vietnamese": "bầu không khí xấu"
+  },
+  {
+    "korean": "규율이 엄격하다",
+    "vietnamese": "kỷ luật nghiêm ngặt"
+  },
+  {
+    "korean": "동료와의 갈등",
+    "vietnamese": "bất hòa với đồng nghiệp"
+  },
+  {
+    "korean": "때리다",
+    "vietnamese": "tát,đánh"
+  },
+  {
+    "korean": "욕을 하다",
+    "vietnamese": "chửi, mắng chửi"
+  },
+  {
+    "korean": "짜증을 내다",
+    "vietnamese": "bực tức"
+  },
+  {
+    "korean": "화가 나다",
+    "vietnamese": "nổi nóng, phát cáu"
+  },
+  {
+    "korean": "화를 내다",
+    "vietnamese": "mắng"
+  },
+  {
+    "korean": "싸움을 하다",
+    "vietnamese": "đánh nhau"
+  },
+  {
+    "korean": "말다툼을 하다",
+    "vietnamese": "cãi nhau"
+  },
+  {
+    "korean": "오해하다",
+    "vietnamese": "hiểu lầm"
+  },
+  {
+    "korean": "오해를 풀다",
+    "vietnamese": "xóa bỏ hiểu lầm"
+  },
+  {
+    "korean": "사과하다",
+    "vietnamese": "xin lỗi (hành động xin lỗi)"
+  },
+  {
+    "korean": "화해하다",
+    "vietnamese": "giải hòa, làm lành"
+  },
+  {
+    "korean": "직장 내에서의 호칭",
+    "vietnamese": "xưng hô nơi làm việc"
+  },
+  {
+    "korean": "갈등 해결 방법",
+    "vietnamese": "phương pháp giải quyết bất hòa"
+  },
+  {
+    "korean": "일할 맛이 나다",
+    "vietnamese": "hứng thú làm việc"
+  },
+  {
+    "korean": "일이 더 잘되다",
+    "vietnamese": "làm việc tốt hơn"
+  },
+  {
+    "korean": "윗사람",
+    "vietnamese": "cấp trên,người bề trên"
+  },
+  {
+    "korean": "아랫사람",
+    "vietnamese": "cấp dưới"
+  },
+  {
+    "korean": "간접화법",
+    "vietnamese": "cách nói gián tiếp"
+  },
+  {
+    "korean": "방",
+    "vietnamese": "căn phòng"
+  },
+  {
+    "korean": "복도",
+    "vietnamese": "hành lang"
+  },
+  {
+    "korean": "계단",
+    "vietnamese": "cầu thang, bậc thang"
+  },
+  {
+    "korean": "출입문",
+    "vietnamese": "cửa ra vào"
+  },
+  {
+    "korean": "세탁실",
+    "vietnamese": "phòng giặt"
+  },
+  {
+    "korean": "샤워실",
+    "vietnamese": "nhà tắm"
+  },
+  {
+    "korean": "룸메이트",
+    "vietnamese": "bạn cùng phòng"
+  },
+  {
+    "korean": "관리인",
+    "vietnamese": "người quản lý"
+  },
+  {
+    "korean": "냉난방기",
+    "vietnamese": "điều hòa không khí"
+  },
+  {
+    "korean": "냉방",
+    "vietnamese": "phòng lạnh , phòng máy lạnh"
+  },
+  {
+    "korean": "에어컨",
+    "vietnamese": "điều hòa"
+  },
+  {
+    "korean": "선풍기",
+    "vietnamese": "quạt điện"
+  },
+  {
+    "korean": "난방",
+    "vietnamese": "sưởi ấm"
+  },
+  {
+    "korean": "전기난로",
+    "vietnamese": "lò sưởi điện"
+  },
+  {
+    "korean": "전기장판",
+    "vietnamese": "chăn điện"
+  },
+  {
+    "korean": "보고하다",
+    "vietnamese": "báo cáo"
+  },
+  {
+    "korean": "스위치를 켜다",
+    "vietnamese": "bật công tắc"
+  },
+  {
+    "korean": "스위치를 끄다",
+    "vietnamese": "tắt công tắc"
+  },
+  {
+    "korean": "플러그를 꽂다",
+    "vietnamese": "căm phích cắm điện"
+  },
+  {
+    "korean": "플러그를 뽑다",
+    "vietnamese": "rút phích cắm điện"
+  },
+  {
+    "korean": "규칙을 지키다",
+    "vietnamese": "tuân thủ nguyên tắc"
+  },
+  {
+    "korean": "규칙을 어기다",
+    "vietnamese": "trái quy tắc"
+  },
+  {
+    "korean": "조리 기구",
+    "vietnamese": "đồ dùng nấu ăn"
+  },
+  {
+    "korean": "외부인",
+    "vietnamese": "người ngoài, người không liên quan"
+  },
+  {
+    "korean": "외출하다",
+    "vietnamese": "đi ra ngoài"
+  },
+  {
+    "korean": "시설물",
+    "vietnamese": "công trình tòa nhà, công trình thiết bị"
+  },
+  {
+    "korean": "아무도",
+    "vietnamese": "bất cứ ai"
+  },
+  {
+    "korean": "깜짝 놀라다",
+    "vietnamese": "ngạc nhiên"
+  },
+  {
+    "korean": "신경 쓰다",
+    "vietnamese": "chú ý, quan tâm"
+  },
+  {
+    "korean": "아파트",
+    "vietnamese": "chung cư"
+  },
+  {
+    "korean": "주택",
+    "vietnamese": "nhà riêng"
+  },
+  {
+    "korean": "원룸",
+    "vietnamese": "phòng đơn"
+  },
+  {
+    "korean": "대청소",
+    "vietnamese": "tổng vệ sinh"
+  },
+  {
+    "korean": "복장",
+    "vietnamese": "áo quần , trang phục"
+  },
+  {
+    "korean": "작업복",
+    "vietnamese": "áo quần lao động"
+  },
+  {
+    "korean": "유니폼",
+    "vietnamese": "đồng phục"
+  },
+  {
+    "korean": "단정하다",
+    "vietnamese": "chỉnh tề"
+  },
+  {
+    "korean": "깔끔하다",
+    "vietnamese": "tươm tất, gọn gàng"
+  },
+  {
+    "korean": "단추를 잠그다",
+    "vietnamese": "cài khuy"
+  },
+  {
+    "korean": "단추를 풀다",
+    "vietnamese": "tháo cúc, cởi cúc"
+  },
+  {
+    "korean": "지퍼를 올리다",
+    "vietnamese": "kéo dây khóa lên"
+  },
+  {
+    "korean": "지퍼를 내리다",
+    "vietnamese": "kéo dây khóa xuống"
+  },
+  {
+    "korean": "넥타이를 매다",
+    "vietnamese": "đeo cà vạt"
+  },
+  {
+    "korean": "넥타이를 풀다",
+    "vietnamese": "tháo cà vạt"
+  },
+  {
+    "korean": "예의가 있다",
+    "vietnamese": "có lễ phép"
+  },
+  {
+    "korean": "예의가 없다",
+    "vietnamese": "không lễ phép"
+  },
+  {
+    "korean": "반말을 하다",
+    "vietnamese": "nói trống không"
+  },
+  {
+    "korean": "존댓말을 하다",
+    "vietnamese": "nói năng kính trọng"
+  },
+  {
+    "korean": "존중하다",
+    "vietnamese": "tôn trọng, quý"
+  },
+  {
+    "korean": "배려하다",
+    "vietnamese": "quan tâm"
+  },
+  {
+    "korean": "함부로 하다",
+    "vietnamese": "tùy tiện"
+  },
+  {
+    "korean": "피해를 주다",
+    "vietnamese": "gây thiệt hại"
+  },
+  {
+    "korean": "불쾌하다",
+    "vietnamese": "khó chịu"
+  },
+  {
+    "korean": "무시하다",
+    "vietnamese": "Khinh thường, coi thường"
+  },
+  {
+    "korean": "용접",
+    "vietnamese": "hàn xì"
+  },
+  {
+    "korean": "밀링 작업",
+    "vietnamese": "ngành phay"
+  },
+  {
+    "korean": "유통업",
+    "vietnamese": "ngành phân phối"
+  },
+  {
+    "korean": "제품 포장",
+    "vietnamese": "đóng gói sản phẩm"
+  },
+  {
+    "korean": "태도",
+    "vietnamese": "Thái độ"
+  },
+  {
+    "korean": "불편하다",
+    "vietnamese": "không thoải mái"
+  },
+  {
+    "korean": "작업하다",
+    "vietnamese": "làm việc, tác nghiệp"
+  },
+  {
+    "korean": "익숙하다",
+    "vietnamese": "quen thuộc, thân thuộc"
+  },
+  {
+    "korean": "툭툭 차다",
+    "vietnamese": "đạp mạnh, đạp tung tóe"
+  },
+  {
+    "korean": "조금씩",
+    "vietnamese": "dần dần, một chút"
+  },
+  {
+    "korean": "한류",
+    "vietnamese": "làn sóng Hàn Quốc"
+  },
+  {
+    "korean": "케이팝(K-pop)",
+    "vietnamese": "k-pop"
+  },
+  {
+    "korean": "드라마",
+    "vietnamese": "phim truyền hình"
+  },
+  {
+    "korean": "영화",
+    "vietnamese": "phim"
+  },
+  {
+    "korean": "음악",
+    "vietnamese": "âm nhạc"
+  },
+  {
+    "korean": "예능 프로그램",
+    "vietnamese": "chương trình giải trí"
+  },
+  {
+    "korean": "예능",
+    "vietnamese": "tài năng nghệ thuật"
+  },
+  {
+    "korean": "연예인",
+    "vietnamese": "nghệ sĩ"
+  },
+  {
+    "korean": "가수",
+    "vietnamese": "Ca sỹ"
+  },
+  {
+    "korean": "영화배우",
+    "vietnamese": "diễn viên điện ảnh"
+  },
+  {
+    "korean": "아이돌",
+    "vietnamese": "idol"
+  },
+  {
+    "korean": "경제 및 산업",
+    "vietnamese": "nên kinh tế và công nghiệp"
+  },
+  {
+    "korean": "수출하다",
+    "vietnamese": "xuất khẩu"
+  },
+  {
+    "korean": "수입하다",
+    "vietnamese": "nhập khẩu"
+  },
+  {
+    "korean": "수출품",
+    "vietnamese": "hàng xuất khẩu"
+  },
+  {
+    "korean": "수입품",
+    "vietnamese": "hàng nhập khẩu"
+  },
+  {
+    "korean": "선진국",
+    "vietnamese": "nước tiên tiến"
+  },
+  {
+    "korean": "개발도상국",
+    "vietnamese": "nước đang phát triển"
+  },
+  {
+    "korean": "무역",
+    "vietnamese": "thương mại"
+  },
+  {
+    "korean": "경제 발전",
+    "vietnamese": "kinh tế phát triển"
+  },
+  {
+    "korean": "이유 말하기",
+    "vietnamese": "nói lý do"
+  },
+  {
+    "korean": "추측하기",
+    "vietnamese": "phỏng đoán"
+  },
+  {
+    "korean": "스마트폰",
+    "vietnamese": "điện thoại thông minh"
+  },
+  {
+    "korean": "신제품",
+    "vietnamese": "sản phẩm mới ra"
+  },
+  {
+    "korean": "기능",
+    "vietnamese": "tính năng"
+  },
+  {
+    "korean": "화면",
+    "vietnamese": "Màn hình"
+  },
+  {
+    "korean": "수입",
+    "vietnamese": "nhập khẩu"
+  },
+  {
+    "korean": "대표",
+    "vietnamese": "đại diện"
+  },
+  {
+    "korean": "삼성전자",
+    "vietnamese": "điện tử sam sung"
+  },
+  {
+    "korean": "줄어들다",
+    "vietnamese": "giảm, giảm thiểu"
+  },
+  {
+    "korean": "관심",
+    "vietnamese": "mối quan tâm (lợi ích)"
+  },
+  {
+    "korean": "모델",
+    "vietnamese": "Người mẫu"
+  },
+  {
+    "korean": "다른 데",
+    "vietnamese": "Nơi khác, việc khác"
+  },
+  {
+    "korean": "편리한 기능",
+    "vietnamese": "Chức năng tiện lợi"
+  },
+  {
+    "korean": "수입되다",
+    "vietnamese": "Được nhập khẩu"
+  },
+  {
+    "korean": "대표적이다",
+    "vietnamese": "Tiêu biểu"
+  },
+  {
+    "korean": "경제",
+    "vietnamese": "Kinh tế"
+  },
+  {
+    "korean": "산업",
+    "vietnamese": "Công nghiệp"
+  },
+  {
+    "korean": "방금",
+    "vietnamese": "Vừa mới (dùng cho quá khứ)"
+  },
+  {
+    "korean": "친구가 한 명 없다",
+    "vietnamese": "Không có 1 bạn nào"
+  },
+  {
+    "korean": "경제연구원",
+    "vietnamese": "Viện nghiên cứu kinh tế"
+  },
+  {
+    "korean": "보고서",
+    "vietnamese": "Bản báo cáo"
+  },
+  {
+    "korean": "Dt에 따르면",
+    "vietnamese": "Nếu theo cái gì đó"
+  },
+  {
+    "korean": "별에서 온 그대",
+    "vietnamese": "Những vì sao đưa anh tới"
+  },
+  {
+    "korean": "인기를 끌다",
+    "vietnamese": "Lôi kéo được sự yêu thích"
+  },
+  {
+    "korean": "명소",
+    "vietnamese": "Địa điểm nổi tiếng"
+  },
+  {
+    "korean": "떠오르다",
+    "vietnamese": "Nổi lên"
+  },
+  {
+    "korean": "외",
+    "vietnamese": "Ngoài"
+  },
+  {
+    "korean": "ĐT, TT + 을/ㄹ 수록 + ~",
+    "vietnamese": "Càng...càng"
+  },
+  {
+    "korean": "늘어나다",
+    "vietnamese": "Tăng lên"
+  },
+  {
+    "korean": "모델을 하다",
+    "vietnamese": "Làm mẫu đại diện"
+  },
+  {
+    "korean": "최근 5년간",
+    "vietnamese": "Trong 5 năm gần đây"
+  },
+  {
+    "korean": "꾸준히",
+    "vietnamese": "Bền vững"
+  },
+  {
+    "korean": "한류 여행",
+    "vietnamese": "Du lịch làn sóng HQ"
+  },
+  {
+    "korean": "한류 열풍",
+    "vietnamese": "Cơn sốt HQ"
+  },
+  {
+    "korean": "Dt (으)로 인해",
+    "vietnamese": "Vì cái gì"
+  },
+  {
+    "korean": "2000년대",
+    "vietnamese": "Những năm 2000"
+  },
+  {
+    "korean": "초반",
+    "vietnamese": "Nửa đầu"
+  },
+  {
+    "korean": "방영되다",
+    "vietnamese": "Được trình chiếu"
+  },
+  {
+    "korean": "겨울연가",
+    "vietnamese": "Bản tình ca mùa đông"
+  },
+  {
+    "korean": "사랑을 받다",
+    "vietnamese": "Nhận được yêu mến"
+  },
+  {
+    "korean": "남이섬",
+    "vietnamese": "Đảo Nami"
+  },
+  {
+    "korean": "주인공",
+    "vietnamese": "Diễn viên chính"
+  },
+  {
+    "korean": "치킨 전문점",
+    "vietnamese": "Quán gà rán"
+  },
+  {
+    "korean": "코스",
+    "vietnamese": "Lộ trình"
+  },
+  {
+    "korean": "팬",
+    "vietnamese": "Fan hâm mộ"
+  },
+  {
+    "korean": "관심을 보이다",
+    "vietnamese": "Cho thấy sự quan tâm"
+  },
+  {
+    "korean": "선보이다",
+    "vietnamese": "Ra mắt, trình làng"
+  },
+  {
+    "korean": "여행 상품",
+    "vietnamese": "Sản phẩm du lịch"
+  },
+  {
+    "korean": "내 놓다",
+    "vietnamese": "Chìa ra, đặt ra, bày ra"
+  },
+  {
+    "korean": "상품을 개발하다",
+    "vietnamese": "Phát triển sản phẩm"
+  },
+  {
+    "korean": "한국 전쟁",
+    "vietnamese": "Chiến tranh Hàn Quốc"
+  },
+  {
+    "korean": "가난하다",
+    "vietnamese": "Nghèo"
+  },
+  {
+    "korean": "우연히",
+    "vietnamese": "Tình cờ"
+  },
+  {
+    "korean": "DT에 반하다",
+    "vietnamese": "Phải lòng ai, cái gì"
+  },
+  {
+    "korean": "단순한 조립 제품",
+    "vietnamese": "Sản phẩm lắp ráp đơn giản"
+  },
+  {
+    "korean": "첫번째",
+    "vietnamese": "Lần thứ nhất"
+  },
+  {
+    "korean": "특별한 날",
+    "vietnamese": "Ngày đặc biệt"
+  },
+  {
+    "korean": "생일",
+    "vietnamese": "Sinh nhật"
+  },
+  {
+    "korean": "백일",
+    "vietnamese": "100 ngày"
+  },
+  {
+    "korean": "돌",
+    "vietnamese": "Sinh nhật 1 tuổi"
+  },
+  {
+    "korean": "집들이",
+    "vietnamese": "Tân gia"
+  },
+  {
+    "korean": "어버이날",
+    "vietnamese": "Ngày bố mẹ"
+  },
+  {
+    "korean": "스승의 날",
+    "vietnamese": "Ngày nhà giáo"
+  },
+  {
+    "korean": "어린이날",
+    "vietnamese": "Ngày trẻ em"
+  },
+  {
+    "korean": "결혼기념일",
+    "vietnamese": "Ngày kỷ niệm kết hôn"
+  },
+  {
+    "korean": "환갑",
+    "vietnamese": "Sinh nhật 60 tuổi"
+  },
+  {
+    "korean": "칠순",
+    "vietnamese": "Sinh nhật 70 tuổi"
+  },
+  {
+    "korean": "어울리다",
+    "vietnamese": "Hợp"
+  },
+  {
+    "korean": "친척",
+    "vietnamese": "Họ hàng"
+  },
+  {
+    "korean": "결혼문화",
+    "vietnamese": "Văn hóa kết hôn"
+  },
+  {
+    "korean": "결혼식",
+    "vietnamese": "Lễ kết hôn"
+  },
+  {
+    "korean": "청첩장",
+    "vietnamese": "Thiệp mời đám cưới"
+  },
+  {
+    "korean": "축의금",
+    "vietnamese": "Tiền mừng"
+  },
+  {
+    "korean": "신랑",
+    "vietnamese": "Chú rể"
+  },
+  {
+    "korean": "신부",
+    "vietnamese": "Cô dâu"
+  },
+  {
+    "korean": "주례",
+    "vietnamese": "Chủ lễ"
+  },
+  {
+    "korean": "하객",
+    "vietnamese": "Khách tham dự"
+  },
+  {
+    "korean": "사진 촬영을 하다",
+    "vietnamese": "Quay phim chụp ảnh"
+  },
+  {
+    "korean": "피로연을 하다",
+    "vietnamese": "Uống rượu mừng"
+  },
+  {
+    "korean": "폐백을 드리다",
+    "vietnamese": "Làm lễ vái lạy ra mắt nhà chồng"
+  },
+  {
+    "korean": "입장하다",
+    "vietnamese": "Đi vào lễ đường"
+  },
+  {
+    "korean": "경조사",
+    "vietnamese": "Việc hiếu hỉ"
+  },
+  {
+    "korean": "태어나다",
+    "vietnamese": "Được sinh ra"
+  },
+  {
+    "korean": "돌잡이",
+    "vietnamese": "Nghi thức chọn đồ"
+  },
+  {
+    "korean": "미래",
+    "vietnamese": "Tương lai"
+  },
+  {
+    "korean": "ĐT + 기 위해 + md",
+    "vietnamese": "Làm gì ĐỂ là gì"
+  },
+  {
+    "korean": "잡게 하다",
+    "vietnamese": "Cho chọn"
+  },
+  {
+    "korean": "전통 혼례",
+    "vietnamese": "Hôn lễ truyền thống"
+  },
+  {
+    "korean": "현대적인 결혼식",
+    "vietnamese": "Lễ kết hôn kiểu hiện đại"
+  },
+  {
+    "korean": "결혼식장",
+    "vietnamese": "Nơi tổ chức hôn lễ"
+  },
+  {
+    "korean": "모습",
+    "vietnamese": "Diện mạo"
+  },
+  {
+    "korean": "제사",
+    "vietnamese": "Cúng (cúng giỗ + cúng lễ )"
+  },
+  {
+    "korean": "돌아가시다",
+    "vietnamese": "Mất (chết)"
+  },
+  {
+    "korean": "제사를 지내다",
+    "vietnamese": "Cúng giỗ"
+  },
+  {
+    "korean": "간소화 되다",
+    "vietnamese": "Được đơn giản hóa"
+  },
+  {
+    "korean": "제사상",
+    "vietnamese": "Ban thờ"
+  },
+  {
+    "korean": "전",
+    "vietnamese": "Bánh bột mì rán"
+  },
+  {
+    "korean": "나물",
+    "vietnamese": "Rau trộn"
+  },
+  {
+    "korean": "정성스럽게",
+    "vietnamese": "Một cách thành kính"
+  },
+  {
+    "korean": "장례",
+    "vietnamese": "Tang lễ"
+  },
+  {
+    "korean": "장례식장",
+    "vietnamese": "Nơi tổ chức tang lễ"
+  },
+  {
+    "korean": "검은색, 검정색, 까만색",
+    "vietnamese": "Màu đen"
+  },
+  {
+    "korean": "묵념하다",
+    "vietnamese": "Mặc niệm"
+  },
+  {
+    "korean": "장을 치르다",
+    "vietnamese": "Tổ chức lễ tang"
+  },
+  {
+    "korean": "소식",
+    "vietnamese": "Tin tức"
+  },
+  {
+    "korean": "사귀다",
+    "vietnamese": "Kết bạn, hẹn hò"
+  },
+  {
+    "korean": "서양식",
+    "vietnamese": "Kiểu phương tây"
+  },
+  {
+    "korean": "웨딩드레스",
+    "vietnamese": "Váy cưới"
+  },
+  {
+    "korean": "풍습",
+    "vietnamese": "Phong tục"
+  },
+  {
+    "korean": "함",
+    "vietnamese": "Hòm (đựng sính lễ cho nhà gái)"
+  },
+  {
+    "korean": "맞선",
+    "vietnamese": "Buổi xem mắt"
+  },
+  {
+    "korean": "상견례",
+    "vietnamese": "Chạm ngõ"
+  },
+  {
+    "korean": "이사가다",
+    "vietnamese": "Đi chuyển nhà"
+  },
+  {
+    "korean": "잔치",
+    "vietnamese": "Bữa tiệc"
+  },
+  {
+    "korean": "설날",
+    "vietnamese": "tết nguyên đán, tết âm lịch"
+  },
+  {
+    "korean": "한복을 입다",
+    "vietnamese": "mặc Hàn phục"
+  },
+  {
+    "korean": "세배하다",
+    "vietnamese": "lạy chào"
+  },
+  {
+    "korean": "덕담을 하다",
+    "vietnamese": "chúc lời chúc tốt lành"
+  },
+  {
+    "korean": "덕담을 듣다",
+    "vietnamese": "nghe lời chúc"
+  },
+  {
+    "korean": "세뱃돈을 주다",
+    "vietnamese": "cho tiền mừng tuổi"
+  },
+  {
+    "korean": "세뱃돈을 받다",
+    "vietnamese": "nhận tiền mừng tuổi"
+  },
+  {
+    "korean": "떡국을 먹다",
+    "vietnamese": "ăn canh bánh gạo"
+  },
+  {
+    "korean": "윷놀이를 하다",
+    "vietnamese": "chơi Yut"
+  },
+  {
+    "korean": "추석",
+    "vietnamese": "rằm trung thu, tết trung thu"
+  },
+  {
+    "korean": "고향에 내려가다",
+    "vietnamese": "đi về quê"
+  },
+  {
+    "korean": "친척집에 가다",
+    "vietnamese": "đến nhà họ hàng"
+  },
+  {
+    "korean": "차례를 지내다",
+    "vietnamese": "cúng, cúng bái"
+  },
+  {
+    "korean": "절하다",
+    "vietnamese": "lạy"
+  },
+  {
+    "korean": "성묘하다",
+    "vietnamese": "thăm mộ"
+  },
+  {
+    "korean": "송편을 만들다",
+    "vietnamese": "làm bánh gạo hấp lá thông"
+  },
+  {
+    "korean": "보름달을 보다",
+    "vietnamese": "ngăm trăng rằm"
+  },
+  {
+    "korean": "소원을 빌다",
+    "vietnamese": "cầu ước nguyện"
+  },
+  {
+    "korean": "오랜만에",
+    "vietnamese": "lâu lắm rồi"
+  },
+  {
+    "korean": "겠",
+    "vietnamese": "sẽ"
+  },
+  {
+    "korean": "전통 놀이",
+    "vietnamese": "trò chơi truyền thống"
+  },
+  {
+    "korean": "뜨겁다",
+    "vietnamese": "nóng"
+  },
+  {
+    "korean": "차다",
+    "vietnamese": "lạnh giá"
+  },
+  {
+    "korean": "차갑다",
+    "vietnamese": "lạnh buốt, lạnh cóng"
+  },
+  {
+    "korean": "여름 음식",
+    "vietnamese": "thực phẩm mùa hè"
+  },
+  {
+    "korean": "삼계탕",
+    "vietnamese": "gà hầm sâm"
+  },
+  {
+    "korean": "냉면",
+    "vietnamese": "mì lạnh"
+  },
+  {
+    "korean": "콩국수",
+    "vietnamese": "mỳ đậu nành"
+  },
+  {
+    "korean": "팥빙수",
+    "vietnamese": "trè đậu đỏ"
+  },
+  {
+    "korean": "겨울 음식",
+    "vietnamese": "thực phẩm mùa đông"
+  },
+  {
+    "korean": "팥죽",
+    "vietnamese": "cháo đậu đỏ"
+  },
+  {
+    "korean": "군고구마",
+    "vietnamese": "khoai nướng"
+  },
+  {
+    "korean": "찐빵",
+    "vietnamese": "bánh bao nhân đậu đỏ"
+  },
+  {
+    "korean": "호떡",
+    "vietnamese": "bánh ngọt"
+  },
+  {
+    "korean": "재료 및 조리법",
+    "vietnamese": "nguyên liệu và nấu ăn"
+  },
+  {
+    "korean": "고기",
+    "vietnamese": "thịt"
+  },
+  {
+    "korean": "생선",
+    "vietnamese": "cá"
+  },
+  {
+    "korean": "채소",
+    "vietnamese": "rau"
+  },
+  {
+    "korean": "소고기",
+    "vietnamese": "thịt bò"
+  },
+  {
+    "korean": "돼지고기",
+    "vietnamese": "thịt lợn"
+  },
+  {
+    "korean": "닭고기",
+    "vietnamese": "thịt gà"
+  },
+  {
+    "korean": "양고기",
+    "vietnamese": "thịt cừu"
+  },
+  {
+    "korean": "파",
+    "vietnamese": "hành lá"
+  },
+  {
+    "korean": "양파",
+    "vietnamese": "hành tây"
+  },
+  {
+    "korean": "마늘",
+    "vietnamese": "tỏi"
+  },
+  {
+    "korean": "감자",
+    "vietnamese": "khoai tây"
+  },
+  {
+    "korean": "당 근",
+    "vietnamese": "cà rốt"
+  },
+  {
+    "korean": "끓이다",
+    "vietnamese": "đun sôi"
+  },
+  {
+    "korean": "삶다",
+    "vietnamese": "luộc"
+  },
+  {
+    "korean": "굽다",
+    "vietnamese": "nướng"
+  },
+  {
+    "korean": "볶다",
+    "vietnamese": "xào, rang"
+  },
+  {
+    "korean": "튀기다",
+    "vietnamese": "chiên"
+  },
+  {
+    "korean": "복날",
+    "vietnamese": "ngày nóng nhất mùa hè"
+  },
+  {
+    "korean": "더위를 이기다",
+    "vietnamese": "chiến thắng cái nóng"
+  },
+  {
+    "korean": "힘이 없다",
+    "vietnamese": "không có sức"
+  },
+  {
+    "korean": "삼겹살",
+    "vietnamese": "thịt ba chỉ"
+  },
+  {
+    "korean": "불",
+    "vietnamese": "lửa"
+  },
+  {
+    "korean": "무섭다",
+    "vietnamese": "sợ hãi"
+  },
+  {
+    "korean": "재료",
+    "vietnamese": "nguyên liệu"
+  },
+  {
+    "korean": "날씨",
+    "vietnamese": "thời tiết"
+  },
+  {
+    "korean": "일년 내내",
+    "vietnamese": "Quanh năm"
+  },
+  {
+    "korean": "기온",
+    "vietnamese": "Nhiệt độ"
+  },
+  {
+    "korean": "영상",
+    "vietnamese": "Trên 0"
+  },
+  {
+    "korean": "영하",
+    "vietnamese": "Dưới 0"
+  },
+  {
+    "korean": "습도",
+    "vietnamese": "Độ ẩm"
+  },
+  {
+    "korean": "최고기온",
+    "vietnamese": "Nhiệt độ cao nhất"
+  },
+  {
+    "korean": "최저기온",
+    "vietnamese": "Nhiệt độ thấp nhất"
+  },
+  {
+    "korean": "기온이 높다",
+    "vietnamese": "Nhiệt độ cao"
+  },
+  {
+    "korean": "기온이 낮다",
+    "vietnamese": "Nhiệt độ thấp"
+  },
+  {
+    "korean": "기온이 올라가다",
+    "vietnamese": "Nhiệt độ tăng lên"
+  },
+  {
+    "korean": "기온이 내려가다",
+    "vietnamese": "Nhiệt độ giảm xuống"
+  },
+  {
+    "korean": "습하다",
+    "vietnamese": "Ẩm"
+  },
+  {
+    "korean": "건조하다",
+    "vietnamese": "Khô"
+  },
+  {
+    "korean": "비슷하다",
+    "vietnamese": "Giống nhau"
+  },
+  {
+    "korean": "도시의 특성",
+    "vietnamese": "Đặc tính của đô thị"
+  },
+  {
+    "korean": "인구가 많다",
+    "vietnamese": "Dân số nhiều"
+  },
+  {
+    "korean": "인구가 적다",
+    "vietnamese": "Dân số ít"
+  },
+  {
+    "korean": "복잡하다",
+    "vietnamese": "Phức tạp"
+  },
+  {
+    "korean": "한적하다",
+    "vietnamese": "Yên tĩnh"
+  },
+  {
+    "korean": "교통이 편리하다",
+    "vietnamese": "Giao thông thuận tiện"
+  },
+  {
+    "korean": "교통이 불편하다",
+    "vietnamese": "Giao thông bất tiện"
+  },
+  {
+    "korean": "시끄럽다",
+    "vietnamese": "Ồn ào"
+  },
+  {
+    "korean": "조용하다",
+    "vietnamese": "Yên tĩnh"
+  },
+  {
+    "korean": "공기가 맑다",
+    "vietnamese": "Không khí trong lành"
+  },
+  {
+    "korean": "유명하다",
+    "vietnamese": "Nổi tiếng"
+  },
+  {
+    "korean": "친절하다",
+    "vietnamese": "Thân thiện"
+  },
+  {
+    "korean": "행정구역",
+    "vietnamese": "Khu vực hành chính"
+  },
+  {
+    "korean": "특별시",
+    "vietnamese": "Thành phố đặc biệt"
+  },
+  {
+    "korean": "광역시",
+    "vietnamese": "Thành phố vệ tinh"
+  },
+  {
+    "korean": "도",
+    "vietnamese": "Tỉnh, đảo"
+  },
+  {
+    "korean": "특별자치시",
+    "vietnamese": "Thành phố tự trị đặc biệt"
+  },
+  {
+    "korean": "특별자치도",
+    "vietnamese": "Đảo tự trị đặc biệt"
+  },
+  {
+    "korean": "수도권",
+    "vietnamese": "Vùng thủ đô"
+  },
+  {
+    "korean": "불리다",
+    "vietnamese": "Được gọi"
+  },
+  {
+    "korean": "이루어지다",
+    "vietnamese": "Được hình thành"
+  },
+  {
+    "korean": "절반을 넘다",
+    "vietnamese": "Quá nửa"
+  },
+  {
+    "korean": "산지",
+    "vietnamese": "Đất đồi núi"
+  },
+  {
+    "korean": "관광객",
+    "vietnamese": "Khách du lịch"
+  },
+  {
+    "korean": "이어주다",
+    "vietnamese": "Kết nối"
+  },
+  {
+    "korean": "역할을 하다",
+    "vietnamese": "Đóng vai trò"
+  },
+  {
+    "korean": "과학",
+    "vietnamese": "Khoa học"
+  },
+  {
+    "korean": "중심지",
+    "vietnamese": "Điểm trung tâm"
+  },
+  {
+    "korean": "최대",
+    "vietnamese": "Lớn nhất"
+  },
+  {
+    "korean": "생산지",
+    "vietnamese": "Nơi sản xuất"
+  },
+  {
+    "korean": "모여 있다",
+    "vietnamese": "Đang tập trung"
+  },
+  {
+    "korean": "을/를 중심으로",
+    "vietnamese": "Lấy cái gì làm trọng tâm"
+  },
+  {
+    "korean": "공업",
+    "vietnamese": "Ngành công nghiệp"
+  },
+  {
+    "korean": "발달하다",
+    "vietnamese": "Phát triển"
+  },
+  {
+    "korean": "수도",
+    "vietnamese": "Thủ đô"
+  },
+  {
+    "korean": "전통문화",
+    "vietnamese": "Văn hóa truyền thống"
+  },
+  {
+    "korean": "세계 문화유산",
+    "vietnamese": "Di sản văn hóa thế giới"
+  },
+  {
+    "korean": "지정되다",
+    "vietnamese": "Được chỉ định"
+  },
+  {
+    "korean": "관광지",
+    "vietnamese": "Điểm du lịch"
+  },
+  {
+    "korean": "독특하다",
+    "vietnamese": "Đặc biệt"
+  },
+  {
+    "korean": "자연환경",
+    "vietnamese": "Môi trường tự nhiên"
+  },
+  {
+    "korean": "간직하다",
+    "vietnamese": "Lưu giữ, bảo tồn"
+  },
+  {
+    "korean": "국제 자유 도시",
+    "vietnamese": "Thành phố tự do quốc tế"
+  },
+  {
+    "korean": "~뿐만 아니라~",
+    "vietnamese": "Không những ...mà còn"
+  },
+  {
+    "korean": "거듭나다",
+    "vietnamese": "Nổi lên"
+  },
+  {
+    "korean": "섬",
+    "vietnamese": "Đảo"
+  },
+  {
+    "korean": "연평균",
+    "vietnamese": "Trung bình năm"
+  },
+  {
+    "korean": "교육",
+    "vietnamese": "sự giáo dục"
+  },
+  {
+    "korean": "컴퓨터 교육",
+    "vietnamese": "giáo dục về máy tính"
+  },
+  {
+    "korean": "한국어 교육",
+    "vietnamese": "giáo dục tiếng hàn"
+  },
+  {
+    "korean": "태권도 교육",
+    "vietnamese": "dạy taekwondo"
+  },
+  {
+    "korean": "안전 교육",
+    "vietnamese": "giáo dục an toàn lao động"
+  },
+  {
+    "korean": "국악 교육",
+    "vietnamese": "dạy nhạc truyền thống"
+  },
+  {
+    "korean": "금융 교육",
+    "vietnamese": "giáo dục tài chính"
+  },
+  {
+    "korean": "영양 교육",
+    "vietnamese": "giáo dục dinh dương"
+  },
+  {
+    "korean": "양방 진료",
+    "vietnamese": "điều trị y học phương tây"
+  },
+  {
+    "korean": "법률 교육",
+    "vietnamese": "giáo dục pháp luật"
+  },
+  {
+    "korean": "진료",
+    "vietnamese": "điều trị"
+  },
+  {
+    "korean": "한방 진료",
+    "vietnamese": "điều trị đông y"
+  },
+  {
+    "korean": "상담을 받다",
+    "vietnamese": "nghe tư vấn"
+  },
+  {
+    "korean": "교육을 받다",
+    "vietnamese": "được đào tạo"
+  },
+  {
+    "korean": "예약하다",
+    "vietnamese": "đặt(nhà hàng, khách sạn)"
+  },
+  {
+    "korean": "이용하다",
+    "vietnamese": "sử dụng"
+  },
+  {
+    "korean": "교육을 신청하다",
+    "vietnamese": "đăng ký đào tạo"
+  },
+  {
+    "korean": "행사에 참여하다",
+    "vietnamese": "tham dự sự kiện"
+  },
+  {
+    "korean": "문화 체험을 하다",
+    "vietnamese": "trải nghiệm văn hóa"
+  },
+  {
+    "korean": "이용자",
+    "vietnamese": "người sử dụng"
+  },
+  {
+    "korean": "자원 봉사를 하다",
+    "vietnamese": "hoạt động tình nguyện"
+  },
+  {
+    "korean": "공공",
+    "vietnamese": "công cộng"
+  },
+  {
+    "korean": "기관",
+    "vietnamese": "cơ quan"
+  },
+  {
+    "korean": "다양하다",
+    "vietnamese": "đa dạng"
+  },
+  {
+    "korean": "모르다",
+    "vietnamese": "Không biết"
+  },
+  {
+    "korean": "도움",
+    "vietnamese": "sự trợ giúp"
+  },
+  {
+    "korean": "예약 상담",
+    "vietnamese": "tư vấn đặt trước"
+  },
+  {
+    "korean": "전화 상담",
+    "vietnamese": "tư vấn điện thoại"
+  },
+  {
+    "korean": "게시판",
+    "vietnamese": "bảng tin, thông báo"
+  },
+  {
+    "korean": "남기다",
+    "vietnamese": "để lại, bỏ lại, bảo tồn"
+  },
+  {
+    "korean": "상담사",
+    "vietnamese": "người tư vấn"
+  },
+  {
+    "korean": "서비스",
+    "vietnamese": "dịch vụ"
+  },
+  {
+    "korean": "엘리베이터",
+    "vietnamese": "thang máy"
+  },
+  {
+    "korean": "에스컬레이터",
+    "vietnamese": "thang cuốn"
+  },
+  {
+    "korean": "자동차 전용",
+    "vietnamese": "đường chuyên dụng cho otô"
+  },
+  {
+    "korean": "자전거 전용",
+    "vietnamese": "đường dành cho xe đạp"
+  },
+  {
+    "korean": "다치다",
+    "vietnamese": "bị thương"
+  },
+  {
+    "korean": "표지판",
+    "vietnamese": "biển chỉ dẫn, biển hiệu, biển báo"
+  },
+  {
+    "korean": "금지 표지판",
+    "vietnamese": "biển cấm"
+  },
+  {
+    "korean": "횡단보도",
+    "vietnamese": "đường cho người đi bộ"
+  },
+  {
+    "korean": "차",
+    "vietnamese": "xe"
+  },
+  {
+    "korean": "구역",
+    "vietnamese": "khu vực"
+  },
+  {
+    "korean": "벌다",
+    "vietnamese": "kiếm tiền"
+  },
+  {
+    "korean": "공연장",
+    "vietnamese": "nơi diễn tập"
+  },
+  {
+    "korean": "미술관",
+    "vietnamese": "phòng triển lãm"
+  },
+  {
+    "korean": "그림",
+    "vietnamese": "bức tranh"
+  },
+  {
+    "korean": "사진을 찍다",
+    "vietnamese": "chụp ảnh"
+  },
+  {
+    "korean": "과속",
+    "vietnamese": "quá tốc độ"
+  },
+  {
+    "korean": "새치기",
+    "vietnamese": "việc chen ngang"
+  },
+  {
+    "korean": "노약자석",
+    "vietnamese": "ghế cho người cao tuổi"
+  },
+  {
+    "korean": "노약자",
+    "vietnamese": "người cao tuổi"
+  },
+  {
+    "korean": "장애인",
+    "vietnamese": "người khuyết tật"
+  },
+  {
+    "korean": "양보하다",
+    "vietnamese": "nhường"
+  },
+  {
+    "korean": "임산부",
+    "vietnamese": "sản phụ"
+  },
+  {
+    "korean": "어린 아이",
+    "vietnamese": "trẻ nhỏ"
+  },
+  {
+    "korean": "자리",
+    "vietnamese": "chỗ"
+  },
+  {
+    "korean": "비워두다",
+    "vietnamese": "để trống"
+  },
+  {
+    "korean": "장소",
+    "vietnamese": "nơi, địa điểm"
+  },
+  {
+    "korean": "사고",
+    "vietnamese": "tai nạn"
+  },
+  {
+    "korean": "만지다",
+    "vietnamese": "chạm, sờ vào(chạm vào hoa)"
+  },
+  {
+    "korean": "금지",
+    "vietnamese": "sự ngăn cấm"
+  },
+  {
+    "korean": "금연",
+    "vietnamese": "cấm hút thuốc"
+  },
+  {
+    "korean": "음식물 반입 금지",
+    "vietnamese": "cấm mang đồ ăn thức uống vào"
+  },
+  {
+    "korean": "휴대전화 사용 금지",
+    "vietnamese": "cấm sử dụng điện thoại"
+  },
+  {
+    "korean": "사진촬영금지",
+    "vietnamese": "cấm quay phim chụp ảnh"
+  },
+  {
+    "korean": "드라마 촬영지",
+    "vietnamese": "địa điểm quay phim"
+  },
+  {
+    "korean": "실내 정숙",
+    "vietnamese": "sự yên tĩnh trong phòng"
+  },
+  {
+    "korean": "출입 금지",
+    "vietnamese": "cấm ra vào"
+  },
+  {
+    "korean": "접근 금지",
+    "vietnamese": "cấm tiếp cận"
+  },
+  {
+    "korean": "무단 횡단 금지",
+    "vietnamese": "cấm sang đường tuỳ tiện"
+  },
+  {
+    "korean": "주차 금지",
+    "vietnamese": "cấm đỗ xe"
+  },
+  {
+    "korean": "과속 금지",
+    "vietnamese": "cấm vượt quá tốc độ"
+  },
+  {
+    "korean": "담배를 피우다",
+    "vietnamese": "hút thuốc lá"
+  },
+  {
+    "korean": "담배꽁초를 버리다",
+    "vietnamese": "bỏ đầu thuốc lá"
+  },
+  {
+    "korean": "쓰레기를 버리다",
+    "vietnamese": "vứt rác"
+  },
+  {
+    "korean": "침을 뱉다",
+    "vietnamese": "nhổ nước bọt"
+  },
+  {
+    "korean": "뛰어다니다",
+    "vietnamese": "chạy vòng quanh"
+  },
+  {
+    "korean": "떠들다",
+    "vietnamese": "làm ầm"
+  },
+  {
+    "korean": "새치기를 하다",
+    "vietnamese": "chen ngang"
+  },
+  {
+    "korean": "자리를 차지하다",
+    "vietnamese": "chiếm chỗ"
+  },
+  {
+    "korean": "다리를 벌려서 앉다",
+    "vietnamese": "ngồi dạng chân"
+  },
+  {
+    "korean": "공중전화",
+    "vietnamese": "điện thoại công cộng"
+  },
+  {
+    "korean": "주차장",
+    "vietnamese": "bãi đỗ xe"
+  },
+  {
+    "korean": "지하철역",
+    "vietnamese": "ga tàu điện ngầm"
+  },
+  {
+    "korean": "기차역",
+    "vietnamese": "ga xe lửa"
+  },
+  {
+    "korean": "택시 정류장",
+    "vietnamese": "bến xe taxi"
+  },
+  {
+    "korean": "버스 정류장",
+    "vietnamese": "bến xe bus"
+  },
+  {
+    "korean": "약속",
+    "vietnamese": "lời hứa, cuộc hẹn"
+  },
+  {
+    "korean": "약속을 하다",
+    "vietnamese": "hứa, hứa hẹn"
+  },
+  {
+    "korean": "약속을 지키다",
+    "vietnamese": "giữ đúng lời hẹn"
+  },
+  {
+    "korean": "약속을 어기다",
+    "vietnamese": "lỡ hẹn"
+  },
+  {
+    "korean": "약속에 늦다",
+    "vietnamese": "trễ cuộc hẹn"
+  },
+  {
+    "korean": "방문을 하다",
+    "vietnamese": "tới thăm"
+  },
+  {
+    "korean": "안내하다",
+    "vietnamese": "hướng dẫn"
+  },
+  {
+    "korean": "안내를 받다",
+    "vietnamese": "được hướng dẫn"
+  },
+  {
+    "korean": "기다리다",
+    "vietnamese": "chờ đợi"
+  },
+  {
+    "korean": "초대",
+    "vietnamese": "lời mời"
+  },
+  {
+    "korean": "초대하다",
+    "vietnamese": "mời(mời ai đó)"
+  },
+  {
+    "korean": "초대를 받다",
+    "vietnamese": "nhận lời mời"
+  },
+  {
+    "korean": "선물을 준비하다",
+    "vietnamese": "chuẩn bị quà tặng"
+  },
+  {
+    "korean": "집을 찾다",
+    "vietnamese": "tìm kiếm nhà"
+  },
+  {
+    "korean": "마중 나가다",
+    "vietnamese": "ra đón"
+  },
+  {
+    "korean": "음식을 장만하다",
+    "vietnamese": "chuẩn bị / sắm sửa món ăn"
+  },
+  {
+    "korean": "상을 차리다",
+    "vietnamese": "bày biện bàn ăn"
+  },
+  {
+    "korean": "상을 치우다",
+    "vietnamese": "thu dọn bàn ăn"
+  },
+  {
+    "korean": "이야기를 나누다",
+    "vietnamese": "chia sẻ câu chuyện"
+  },
+  {
+    "korean": "배웅하다",
+    "vietnamese": "tiến chân"
+  },
+  {
+    "korean": "세제",
+    "vietnamese": "chất tẩy"
+  },
+  {
+    "korean": "휴지",
+    "vietnamese": "giấy vệ sinh"
+  },
+  {
+    "korean": "화분",
+    "vietnamese": "chậu hoa"
+  },
+  {
+    "korean": "커피 잔",
+    "vietnamese": "cốc caffe"
+  },
+  {
+    "korean": "수저",
+    "vietnamese": "đũa và thìa"
+  },
+  {
+    "korean": "시계",
+    "vietnamese": "đồng hồ"
+  },
+  {
+    "korean": "비서",
+    "vietnamese": "thư ký"
+  },
+  {
+    "korean": "사장님",
+    "vietnamese": "giám đôc"
+  },
+  {
+    "korean": "바쁘다",
+    "vietnamese": "bận"
+  },
+  {
+    "korean": "없다",
+    "vietnamese": "không có"
+  },
+  {
+    "korean": "가다",
+    "vietnamese": "đi"
+  },
+  {
+    "korean": "결혼을하다",
+    "vietnamese": "kết hôn"
+  },
+  {
+    "korean": "이사하다",
+    "vietnamese": "chuyển nhà"
+  },
+  {
+    "korean": "동료",
+    "vietnamese": "đồng nghiệp"
+  },
+  {
+    "korean": "선물",
+    "vietnamese": "quà tặng"
+  },
+  {
+    "korean": "인기",
+    "vietnamese": "được ngưỡng mộ, nhiều người biết đến"
+  },
+  {
+    "korean": "생기다",
+    "vietnamese": "phát sinh"
+  },
+  {
+    "korean": "의미",
+    "vietnamese": "ý nghĩa"
+  },
+  {
+    "korean": "부자",
+    "vietnamese": "người giàu"
+  },
+  {
+    "korean": "물어보다",
+    "vietnamese": "hỏi"
+  },
+  {
+    "korean": "새",
+    "vietnamese": "con chim"
+  },
+  {
+    "korean": "장식",
+    "vietnamese": "trang trí"
+  },
+  {
+    "korean": "용품",
+    "vietnamese": "đồ vật"
+  },
+  {
+    "korean": "신혼부부",
+    "vietnamese": "vợ chồng tân hôn"
+  },
+  {
+    "korean": "잔",
+    "vietnamese": "ly, cốc"
+  },
+  {
+    "korean": "수저 세트",
+    "vietnamese": "bộ đũa thìa"
+  },
+  {
+    "korean": "선물하다",
+    "vietnamese": "tặng quà"
+  },
+  {
+    "korean": "여러분",
+    "vietnamese": "các bạn"
+  },
+  {
+    "korean": "지난 주말",
+    "vietnamese": "cuối tuần trước"
+  },
+  {
+    "korean": "집안",
+    "vietnamese": "trong nhà"
+  },
+  {
+    "korean": "오후",
+    "vietnamese": "buổi chiều"
+  },
+  {
+    "korean": "여러 가지",
+    "vietnamese": "nhiều loại"
+  },
+  {
+    "korean": "장만하다",
+    "vietnamese": "sắm sửa, chuẩn bị"
+  },
+  {
+    "korean": "집들이를 하다",
+    "vietnamese": "mở tiệc tân gia"
+  },
+  {
+    "korean": "청소",
+    "vietnamese": "dọn dẹp, lau dọn"
+  },
+  {
+    "korean": "어지럽다",
+    "vietnamese": "bừa bộn"
+  },
+  {
+    "korean": "정돈되어 있다",
+    "vietnamese": "có sắp xếp gọn gàng"
+  },
+  {
+    "korean": "청소를 하다",
+    "vietnamese": "làm vệ sinh, lau dọn"
+  },
+  {
+    "korean": "청소기를 돌리다",
+    "vietnamese": "vận hành máy hút bụi"
+  },
+  {
+    "korean": "먼지를 떨다",
+    "vietnamese": "phủi bụi"
+  },
+  {
+    "korean": "쓸다",
+    "vietnamese": "quét"
+  },
+  {
+    "korean": "닦다",
+    "vietnamese": "lau chùi"
+  },
+  {
+    "korean": "청소 도구",
+    "vietnamese": "công cụ dọn vệ sinh"
+  },
+  {
+    "korean": "빗자루",
+    "vietnamese": "cái chổi"
+  },
+  {
+    "korean": "걸레",
+    "vietnamese": "giẻ lau"
+  },
+  {
+    "korean": "휴지통",
+    "vietnamese": "thùng rác"
+  },
+  {
+    "korean": "집안일",
+    "vietnamese": "công viêc nhà"
+  },
+  {
+    "korean": "장을 보다",
+    "vietnamese": "đi chợ"
+  },
+  {
+    "korean": "밥을 하다",
+    "vietnamese": "nấu cơm"
+  },
+  {
+    "korean": "밥을 짓다",
+    "vietnamese": "làm cơm"
+  },
+  {
+    "korean": "음식을 만들다",
+    "vietnamese": "làm đồ ăn"
+  },
+  {
+    "korean": "설거지를 하다",
+    "vietnamese": "rửa bát"
+  },
+  {
+    "korean": "밥솥",
+    "vietnamese": "nồi cơm"
+  },
+  {
+    "korean": "냄비",
+    "vietnamese": "nồi, xoong"
+  },
+  {
+    "korean": "프라이팬",
+    "vietnamese": "chảo rán"
+  },
+  {
+    "korean": "주방세제",
+    "vietnamese": "nước rửa chén"
+  },
+  {
+    "korean": "빨래를 하다",
+    "vietnamese": "giặt quần áo"
+  },
+  {
+    "korean": "세탁기를 돌리다",
+    "vietnamese": "chạy máy giặt"
+  },
+  {
+    "korean": "빨래를 널다",
+    "vietnamese": "phơi quần áo"
+  },
+  {
+    "korean": "빨래를 걷다",
+    "vietnamese": "cầt quần áo"
+  },
+  {
+    "korean": "옷을 다리다",
+    "vietnamese": "là quần áo, ủi quần áo"
+  },
+  {
+    "korean": "옷을 개다",
+    "vietnamese": "gấp quần áo"
+  },
+  {
+    "korean": "세탁세제",
+    "vietnamese": "bột giặt"
+  },
+  {
+    "korean": "다리미",
+    "vietnamese": "bàn là"
+  },
+  {
+    "korean": "같이",
+    "vietnamese": "cùng"
+  },
+  {
+    "korean": "바빠서",
+    "vietnamese": "vì bận, bận rộn nên"
+  },
+  {
+    "korean": "친구",
+    "vietnamese": "bạn bè"
+  },
+  {
+    "korean": "재미있다",
+    "vietnamese": "hay ,thú vị"
+  },
+  {
+    "korean": "쓰레기 분리수거",
+    "vietnamese": "việc phân loại rác"
+  },
+  {
+    "korean": "일반 쓰레기",
+    "vietnamese": "rác thông thường"
+  },
+  {
+    "korean": "음식물 쓰레기",
+    "vietnamese": "rác đồ ăn"
+  },
+  {
+    "korean": "대형 쓰레기",
+    "vietnamese": "rác lớn, rác công nghiệp"
+  },
+  {
+    "korean": "재활용 쓰레기",
+    "vietnamese": "rác tái sử dụng"
+  },
+  {
+    "korean": "헌 옷",
+    "vietnamese": "quần áo cũ"
+  },
+  {
+    "korean": "형광등",
+    "vietnamese": "Đèn huỳnh quang"
+  },
+  {
+    "korean": "건전지",
+    "vietnamese": "pin"
+  },
+  {
+    "korean": "옥상",
+    "vietnamese": "sân thượng"
+  },
+  {
+    "korean": "우편물",
+    "vietnamese": "bưu phẩm, bưu kiện"
+  },
+  {
+    "korean": "편지",
+    "vietnamese": "bức thư"
+  },
+  {
+    "korean": "편지 봉투",
+    "vietnamese": "phong bì thư"
+  },
+  {
+    "korean": "엽서",
+    "vietnamese": "bưu thiếp"
+  },
+  {
+    "korean": "카드",
+    "vietnamese": "thiệp, card"
+  },
+  {
+    "korean": "편지를 쓰다",
+    "vietnamese": "viết thư"
+  },
+  {
+    "korean": "편지를 보내다",
+    "vietnamese": "gửi thư"
+  },
+  {
+    "korean": "우표를 붙이다",
+    "vietnamese": "dán tem"
+  },
+  {
+    "korean": "저울에 올려놓다",
+    "vietnamese": "đặt lên cân"
+  },
+  {
+    "korean": "소포를 보내다",
+    "vietnamese": "gửi bưu phẩm"
+  },
+  {
+    "korean": "무게를 재다",
+    "vietnamese": "đo trọng lượng"
+  },
+  {
+    "korean": "소포를 보내다:",
+    "vietnamese": "gửi bưu phẩm"
+  },
+  {
+    "korean": "소포를 받다",
+    "vietnamese": "nhận bưu phẩm"
+  },
+  {
+    "korean": "일반 우편",
+    "vietnamese": "thư thường"
+  },
+  {
+    "korean": "등기 우편",
+    "vietnamese": "bưu phẩm bảo đảm"
+  },
+  {
+    "korean": "소포",
+    "vietnamese": "Bưu phẩm, bưu kiện"
+  },
+  {
+    "korean": "택배",
+    "vietnamese": "vận chuyển , giao hàng"
+  },
+  {
+    "korean": "보내다",
+    "vietnamese": "Gửi"
+  },
+  {
+    "korean": "화장품",
+    "vietnamese": "mỹ phẩm"
+  },
+  {
+    "korean": "서류",
+    "vietnamese": "hồ sơ, tài liệu"
+  },
+  {
+    "korean": "음식물",
+    "vietnamese": "món ăn"
+  },
+  {
+    "korean": "동물류",
+    "vietnamese": "loài động vật"
+  },
+  {
+    "korean": "한약",
+    "vietnamese": "thuốc Đông y, thuốc bắc"
+  },
+  {
+    "korean": "식물류",
+    "vietnamese": "loài thực vật"
+  },
+  {
+    "korean": "신용카드",
+    "vietnamese": "Thẻ tín dụng"
+  },
+  {
+    "korean": "지폐",
+    "vietnamese": "tiền giấy"
+  },
+  {
+    "korean": "동전",
+    "vietnamese": "tiền xu"
+  },
+  {
+    "korean": "항공권",
+    "vietnamese": "Vé máy bay"
+  },
+  {
+    "korean": "여행자 수표",
+    "vietnamese": "séc du lịch"
+  },
+  {
+    "korean": "가연성 물질",
+    "vietnamese": "vật có tính dễ cháy"
+  },
+  {
+    "korean": "물품",
+    "vietnamese": "vật phẩm, hàng hóa"
+  },
+  {
+    "korean": "폭발성",
+    "vietnamese": "vật có tính phát nổ"
+  },
+  {
+    "korean": "이메일",
+    "vietnamese": "Email"
+  },
+  {
+    "korean": "은행",
+    "vietnamese": "ngân hàng"
+  },
+  {
+    "korean": "창구",
+    "vietnamese": "quầy, quầy tính tiền"
+  },
+  {
+    "korean": "통장",
+    "vietnamese": "sổ tiết kiệm"
+  },
+  {
+    "korean": "주소",
+    "vietnamese": "Địa chỉ"
+  },
+  {
+    "korean": "계좌 번호",
+    "vietnamese": "số tài khoản"
+  },
+  {
+    "korean": "비밀번호",
+    "vietnamese": "mã số bí mật, mật khẩu"
+  },
+  {
+    "korean": "서명",
+    "vietnamese": "chữ ký"
+  },
+  {
+    "korean": "인터넷뱅킹",
+    "vietnamese": "dịch vụ ngân hàng qua internet"
+  },
+  {
+    "korean": "체크카드",
+    "vietnamese": "thẻ tín dụng trả trước"
+  },
+  {
+    "korean": "현금인출기(ATM)",
+    "vietnamese": "cây AMT, cây rút tiền"
+  },
+  {
+    "korean": "송금하다",
+    "vietnamese": "chuyển tiền"
+  },
+  {
+    "korean": "입금하다",
+    "vietnamese": "gửi (gửi tiền)"
+  },
+  {
+    "korean": "출금하다",
+    "vietnamese": "rút ra(rút tiền)"
+  },
+  {
+    "korean": "대출하다",
+    "vietnamese": "chi trả , cho vay , cho mượn"
+  },
+  {
+    "korean": "계좌 이체",
+    "vietnamese": "chuyển tiền qua tài khoản"
+  },
+  {
+    "korean": "환전하다",
+    "vietnamese": "đổi tiền"
+  },
+  {
+    "korean": "잔액 조회",
+    "vietnamese": "kiểm tra số dư"
+  },
+  {
+    "korean": "통장 정리",
+    "vietnamese": "kiểm tra sổ tiết kiệm"
+  },
+  {
+    "korean": "병원",
+    "vietnamese": "bệnh viện"
+  },
+  {
+    "korean": "내과",
+    "vietnamese": "khoa nội"
+  },
+  {
+    "korean": "정형외과",
+    "vietnamese": "khoa chấn thương chỉnh hình"
+  },
+  {
+    "korean": "치과",
+    "vietnamese": "khoa răng hàm mặt"
+  },
+  {
+    "korean": "안과",
+    "vietnamese": "khoa mắt"
+  },
+  {
+    "korean": "이비인후과",
+    "vietnamese": "khoa tai ,mũi ,họng"
+  },
+  {
+    "korean": "피부과",
+    "vietnamese": "khoa da liễu"
+  },
+  {
+    "korean": "산부인과",
+    "vietnamese": "khoa sản"
+  },
+  {
+    "korean": "소아과",
+    "vietnamese": "khoa nhi"
+  },
+  {
+    "korean": "치료를 하다",
+    "vietnamese": "điều trị"
+  },
+  {
+    "korean": "수술하다",
+    "vietnamese": "phẫu thuật"
+  },
+  {
+    "korean": "주사를 맞다",
+    "vietnamese": "tiêm"
+  },
+  {
+    "korean": "약을 먹다",
+    "vietnamese": "uống thuốc"
+  },
+  {
+    "korean": "소독을 하다",
+    "vietnamese": "sát trùng"
+  },
+  {
+    "korean": "연고를 바르다",
+    "vietnamese": "bôi thuốc mỡ"
+  },
+  {
+    "korean": "파스를 붙이다",
+    "vietnamese": "dán cao dán"
+  },
+  {
+    "korean": "밴드를 붙이다",
+    "vietnamese": "dán băng"
+  },
+  {
+    "korean": "찜질을 하다",
+    "vietnamese": "chườm vào"
+  },
+  {
+    "korean": "주무르다",
+    "vietnamese": "xoa bóp"
+  },
+  {
+    "korean": "깁스를 하다",
+    "vietnamese": "bó bột"
+  },
+  {
+    "korean": "걷다",
+    "vietnamese": "đi bộ"
+  },
+  {
+    "korean": "위치",
+    "vietnamese": "vị trí"
+  },
+  {
+    "korean": "면",
+    "vietnamese": "nếu, giả sử"
+  },
+  {
+    "korean": "아프다",
+    "vietnamese": "đau"
+  },
+  {
+    "korean": "처방하다",
+    "vietnamese": "kê đơn thuốc"
+  },
+  {
+    "korean": "센터명",
+    "vietnamese": "tên trung tâm"
+  },
+  {
+    "korean": "붕대를 감다",
+    "vietnamese": "quấn băng"
+  },
+  {
+    "korean": "코",
+    "vietnamese": "mũi"
+  },
+  {
+    "korean": "신체",
+    "vietnamese": "thân thể ,cơ thể"
+  },
+  {
+    "korean": "머리",
+    "vietnamese": "đầu ,tóc"
+  },
+  {
+    "korean": "입",
+    "vietnamese": "miệng"
+  },
+  {
+    "korean": "눈",
+    "vietnamese": "Mắt"
+  },
+  {
+    "korean": "얼굴",
+    "vietnamese": "khuôn mặt"
+  },
+  {
+    "korean": "귀",
+    "vietnamese": "tai"
+  },
+  {
+    "korean": "어깨",
+    "vietnamese": "vai"
+  },
+  {
+    "korean": "팔",
+    "vietnamese": "Cánh tay"
+  },
+  {
+    "korean": "몸",
+    "vietnamese": "cơ thể"
+  },
+  {
+    "korean": "손",
+    "vietnamese": "bàn tay"
+  },
+  {
+    "korean": "무릎",
+    "vietnamese": "đầu gối"
+  },
+  {
+    "korean": "발",
+    "vietnamese": "bàn chân"
+  },
+  {
+    "korean": "허리",
+    "vietnamese": "eo ,thắt lưng"
+  },
+  {
+    "korean": "손목",
+    "vietnamese": "cổ tay"
+  },
+  {
+    "korean": "손가락",
+    "vietnamese": "ngón tay"
+  },
+  {
+    "korean": "다리",
+    "vietnamese": "chân"
+  },
+  {
+    "korean": "발목",
+    "vietnamese": "cổ chân"
+  },
+  {
+    "korean": "증상",
+    "vietnamese": "chứng , triệu chứng"
+  },
+  {
+    "korean": "감기에 걸리다",
+    "vietnamese": "bị cảm (nhức đầu, sổ mũi)"
+  },
+  {
+    "korean": "열이 나다",
+    "vietnamese": "bị sốt"
+  },
+  {
+    "korean": "기침을 하다",
+    "vietnamese": "bị ho"
+  },
+  {
+    "korean": "콧물이 나다",
+    "vietnamese": "bị sổ mũi"
+  },
+  {
+    "korean": "배탈이 나다",
+    "vietnamese": "bị bệnh về tiêu hóa"
+  },
+  {
+    "korean": "설사를 하다",
+    "vietnamese": "bị tiêu chảy"
+  },
+  {
+    "korean": "토하다",
+    "vietnamese": "nôn mửa, khạc nhổ, ọe ra"
+  },
+  {
+    "korean": "소화가 안 되다",
+    "vietnamese": "không tiêu hóa được"
+  },
+  {
+    "korean": "손을 베다",
+    "vietnamese": "đứt tay"
+  },
+  {
+    "korean": "손을 데다",
+    "vietnamese": "bỏng tay"
+  },
+  {
+    "korean": "발목을 삐다",
+    "vietnamese": "trẹo chân, trật cổ chân"
+  },
+  {
+    "korean": "다리가 부러지다",
+    "vietnamese": "gãy chân"
+  },
+  {
+    "korean": "연고",
+    "vietnamese": "thuốc mỡ"
+  },
+  {
+    "korean": "붕대",
+    "vietnamese": "cuộn bó vết thương"
+  },
+  {
+    "korean": "파스",
+    "vietnamese": "cao dán"
+  },
+  {
+    "korean": "밴드",
+    "vietnamese": "băng thun"
+  },
+  {
+    "korean": "반창고",
+    "vietnamese": "băng gô"
+  },
+  {
+    "korean": "안약",
+    "vietnamese": "thuốc mắt"
+  },
+  {
+    "korean": "소독약",
+    "vietnamese": "thuốc sát trùng"
+  },
+  {
+    "korean": "영양제",
+    "vietnamese": "thuốc dinh dưỡng"
+  },
+  {
+    "korean": "알약",
+    "vietnamese": "thuốc viên"
+  },
+  {
+    "korean": "감기약",
+    "vietnamese": "thuốc cảm cúm"
+  },
+  {
+    "korean": "진통제",
+    "vietnamese": "thuốc giảm đau"
+  },
+  {
+    "korean": "해열제",
+    "vietnamese": "thuốc hạ sốt"
+  },
+  {
+    "korean": "소화제",
+    "vietnamese": "thuốc tiêu hóa"
+  },
+  {
+    "korean": "회식",
+    "vietnamese": "tiệc công ty"
+  },
+  {
+    "korean": "후에",
+    "vietnamese": "vào sau khi"
+  },
+  {
+    "korean": "유제품",
+    "vietnamese": "sản phẩm từ sữa"
+  },
+  {
+    "korean": "어젯밤",
+    "vietnamese": "đêm qua"
+  },
+  {
+    "korean": "때문",
+    "vietnamese": "vì, bởi vì"
+  },
+  {
+    "korean": "~ 지 마세요",
+    "vietnamese": "hãy đừng"
+  },
+  {
+    "korean": "종교",
+    "vietnamese": "tôn giáo"
+  },
+  {
+    "korean": "불교",
+    "vietnamese": "phật giáo, đạo phật"
+  },
+  {
+    "korean": "기독교",
+    "vietnamese": "đạo cơ đốc, đạo tin lành"
+  },
+  {
+    "korean": "천주교",
+    "vietnamese": "thiên chúa giáo"
+  },
+  {
+    "korean": "가톨릭 == 천주교",
+    "vietnamese": "đạo công giáo"
+  },
+  {
+    "korean": "이슬람교",
+    "vietnamese": "hồi giáo"
+  },
+  {
+    "korean": "절",
+    "vietnamese": "chùa"
+  },
+  {
+    "korean": "교회",
+    "vietnamese": "nhà thờ tin lành"
+  },
+  {
+    "korean": "성당",
+    "vietnamese": "thánh đường, nhà thờ công giáo"
+  },
+  {
+    "korean": "모스크",
+    "vietnamese": "nhà thờ hồi giáo"
+  },
+  {
+    "korean": "사원",
+    "vietnamese": "đền thờ"
+  },
+  {
+    "korean": "스님",
+    "vietnamese": "nhà sư"
+  },
+  {
+    "korean": "목사님",
+    "vietnamese": "mục sư"
+  },
+  {
+    "korean": "신부님",
+    "vietnamese": "linh mục"
+  },
+  {
+    "korean": "이맘",
+    "vietnamese": "thầy tế (hồi giáo)"
+  },
+  {
+    "korean": "종교 활동",
+    "vietnamese": "hoạt động tôn giáo"
+  },
+  {
+    "korean": "믿다",
+    "vietnamese": "tin tưởng"
+  },
+  {
+    "korean": "기도하다",
+    "vietnamese": "cầu nguyện"
+  },
+  {
+    "korean": "신자(교인)",
+    "vietnamese": "tín đồ"
+  },
+  {
+    "korean": "예불을 드리다",
+    "vietnamese": "lễ bái phật, lạy phật"
+  },
+  {
+    "korean": "미사를 드리다",
+    "vietnamese": "dâng lễ Misa, đi lễ ( nhà thờ công giáo)"
+  },
+  {
+    "korean": "예배를 드리다",
+    "vietnamese": "dâng lễ, đi lễ(đạo tin lành)"
+  },
+  {
+    "korean": "찬불가",
+    "vietnamese": "bai ca phật giáo"
+  },
+  {
+    "korean": "불전",
+    "vietnamese": "chính điện thờ phật"
+  },
+  {
+    "korean": "성가를 부르다",
+    "vietnamese": "hát thánh ca"
+  },
+  {
+    "korean": "헌금을 내다",
+    "vietnamese": "quyên góp tiền công đức"
+  },
+  {
+    "korean": "성지 순례를 가다",
+    "vietnamese": "hành hương tới thánh địa"
+  },
+  {
+    "korean": "불경",
+    "vietnamese": "kinh phật"
+  },
+  {
+    "korean": "성경",
+    "vietnamese": "kinh thánh"
+  },
+  {
+    "korean": "코란",
+    "vietnamese": "kinh Cô-ran"
+  },
+  {
+    "korean": "마다",
+    "vietnamese": "hàng, mỗi"
+  },
+  {
+    "korean": "주말",
+    "vietnamese": "cuối tuần"
+  },
+  {
+    "korean": "토요일",
+    "vietnamese": "thứ 7"
+  },
+  {
+    "korean": "공부",
+    "vietnamese": "sự học tập"
+  },
+  {
+    "korean": "쉽다",
+    "vietnamese": "dễ, dễ dàng,"
+  },
+  {
+    "korean": "어렵다",
+    "vietnamese": "khó khăn"
+  },
+  {
+    "korean": "공부하다",
+    "vietnamese": "học"
+  },
+  {
+    "korean": "사전을 찾다",
+    "vietnamese": "tra từ điển"
+  },
+  {
+    "korean": "학원에 다니다",
+    "vietnamese": "đi tới trung tâm"
+  },
+  {
+    "korean": "예습하다",
+    "vietnamese": "luyện tập trước, học bai trước"
+  },
+  {
+    "korean": "복습하다",
+    "vietnamese": "ôn tập"
+  },
+  {
+    "korean": "인터넷 강의를 듣다",
+    "vietnamese": "nghe bai giảng trên internet"
+  },
+  {
+    "korean": "CD를 듣다",
+    "vietnamese": "nghe đĩa CD"
+  },
+  {
+    "korean": "따라 하다",
+    "vietnamese": "bắt trước, làm theo"
+  },
+  {
+    "korean": "과정",
+    "vietnamese": "khóa học"
+  },
+  {
+    "korean": "수업",
+    "vietnamese": "Tiết học"
+  },
+  {
+    "korean": "과목",
+    "vietnamese": "môn học"
+  },
+  {
+    "korean": "일정",
+    "vietnamese": "lịch trình"
+  },
+  {
+    "korean": "교실",
+    "vietnamese": "phòng học"
+  },
+  {
+    "korean": "자격증",
+    "vietnamese": "Giấy chứng nhận, chứng chỉ"
+  },
+  {
+    "korean": "개강",
+    "vietnamese": "khai giảng"
+  },
+  {
+    "korean": "종강",
+    "vietnamese": "kết thúc kì học, bế giảng"
+  },
+  {
+    "korean": "도움이 되다",
+    "vietnamese": "được giúp đỡ"
+  },
+  {
+    "korean": "이해하다",
+    "vietnamese": "Hiểu"
+  },
+  {
+    "korean": "초급",
+    "vietnamese": "sơ cấp"
+  },
+  {
+    "korean": "중급",
+    "vietnamese": "trung cấp"
+  },
+  {
+    "korean": "고급",
+    "vietnamese": "cao cấp"
+  },
+  {
+    "korean": "무료",
+    "vietnamese": "miễn phí"
+  },
+  {
+    "korean": "수업료",
+    "vietnamese": "học phí"
+  },
+  {
+    "korean": "문의",
+    "vietnamese": "việc hỏi, việc tìm hiểu"
+  },
+  {
+    "korean": "신청",
+    "vietnamese": "đăng ký"
+  },
+  {
+    "korean": "센터",
+    "vietnamese": "Trung tâm"
+  },
+  {
+    "korean": "직접",
+    "vietnamese": "trực tiếp"
+  },
+  {
+    "korean": "안내문",
+    "vietnamese": "tờ chỉ dẫn"
+  },
+  {
+    "korean": "어른",
+    "vietnamese": "người lớn"
+  },
+  {
+    "korean": "물건",
+    "vietnamese": "đồ, vậtot phẩm"
+  },
+  {
+    "korean": "들어가다",
+    "vietnamese": "đi vào, bước vào"
+  },
+  {
+    "korean": "신발",
+    "vietnamese": "giày, dép"
+  },
+  {
+    "korean": "벗다",
+    "vietnamese": "tháo ra, cởi bỏ"
+  },
+  {
+    "korean": "조용히",
+    "vietnamese": "yên lặng, yên tĩnh"
+  },
+  {
+    "korean": "처음",
+    "vietnamese": "lần đầu tiên"
+  },
+  {
+    "korean": "나이",
+    "vietnamese": "tuổi"
+  },
+  {
+    "korean": "당황하다",
+    "vietnamese": "bối rối, hốt hoảng"
+  },
+  {
+    "korean": "실례하다",
+    "vietnamese": "thất lễ"
+  },
+  {
+    "korean": "행동",
+    "vietnamese": "hành động"
+  },
+  {
+    "korean": "왜냐하면",
+    "vietnamese": "bởi vì, tại vì, là do"
+  },
+  {
+    "korean": "예의",
+    "vietnamese": "lịch sự, lễ độ"
+  },
+  {
+    "korean": "높임말",
+    "vietnamese": "lời nói, kính trọng"
+  },
+  {
+    "korean": "지키다",
+    "vietnamese": "bảo vệ, giữ gìn"
+  },
+  {
+    "korean": "마시다",
+    "vietnamese": "Uống"
+  },
+  {
+    "korean": "먹다",
+    "vietnamese": "Ăn"
+  },
+  {
+    "korean": "주다",
+    "vietnamese": "Cho, đưa"
+  },
+  {
+    "korean": "잡수시다",
+    "vietnamese": "ăn(dạng tôn trọng)"
+  },
+  {
+    "korean": "댁",
+    "vietnamese": "nhà( dạng tôn kính)"
+  },
+  {
+    "korean": "성함",
+    "vietnamese": "danh tính, quý danh ( dạng tôn trọng)"
+  },
+  {
+    "korean": "연세",
+    "vietnamese": "tuổi"
+  },
+  {
+    "korean": "생활 예절",
+    "vietnamese": "cách cư sử hàng ngày"
+  },
+  {
+    "korean": "신발을 신고 들어가다",
+    "vietnamese": "đi giày dép vào trong nhà"
+  },
+  {
+    "korean": "한 손으로 물건을 주다",
+    "vietnamese": "đưa đồ bằng một tay"
+  },
+  {
+    "korean": "다리를 떨다",
+    "vietnamese": "rung đùi"
+  },
+  {
+    "korean": "다리를 꼬고 앉다",
+    "vietnamese": "ngồi vắt chéo chân"
+  },
+  {
+    "korean": "밥에 숟가락을 꽂다",
+    "vietnamese": "cắm thìa vào cơm"
+  },
+  {
+    "korean": "밥그릇을 들고 먹다",
+    "vietnamese": "nhấc bát cơm lên ăn"
+  },
+  {
+    "korean": "소리를 크게 내다",
+    "vietnamese": "phát ra âm thanh lớn"
+  },
+  {
+    "korean": "허리를 숙이다",
+    "vietnamese": "cúi mình, cúi đầu"
+  },
+  {
+    "korean": "자리를 양보하다",
+    "vietnamese": "nhường chỗ"
+  },
+  {
+    "korean": "식사 예절",
+    "vietnamese": "nghi lễ ăn uống"
+  },
+  {
+    "korean": "놓고 먹다",
+    "vietnamese": "đặt và ăn"
+  },
+  {
+    "korean": "학생",
+    "vietnamese": "Học sinh"
+  },
+  {
+    "korean": "선생님",
+    "vietnamese": "Giáo viên"
+  },
+  {
+    "korean": "회사원",
+    "vietnamese": "nhân viên công ty"
+  },
+  {
+    "korean": "주부",
+    "vietnamese": "nội trợ"
+  },
+  {
+    "korean": "소방관",
+    "vietnamese": "lính cứu hỏa"
+  },
+  {
+    "korean": "경찰관",
+    "vietnamese": "Cảnh sát"
+  },
+  {
+    "korean": "공무원",
+    "vietnamese": "Công chức nhà nước"
+  },
+  {
+    "korean": "점원",
+    "vietnamese": "nhân viên cửa hàng"
+  },
+  {
+    "korean": "의사",
+    "vietnamese": "bác sỹ"
+  },
+  {
+    "korean": "간호사",
+    "vietnamese": "y tá"
+  },
+  {
+    "korean": "요리사:",
+    "vietnamese": "Đầu bếp"
+  },
+  {
+    "korean": "운전기사",
+    "vietnamese": "tài xế, lái xe"
+  },
+  {
+    "korean": "기술자:",
+    "vietnamese": "kỹ sư"
+  },
+  {
+    "korean": "목수",
+    "vietnamese": "thợ mộc"
+  },
+  {
+    "korean": "농부",
+    "vietnamese": "nông dân"
+  },
+  {
+    "korean": "어부",
+    "vietnamese": "ngư dân"
+  },
+  {
+    "korean": "자기소개:",
+    "vietnamese": "tự giới thiệu"
+  },
+  {
+    "korean": "나라:",
+    "vietnamese": "Đất nước"
+  },
+  {
+    "korean": "직업:",
+    "vietnamese": "nghề nghiệp"
+  },
+  {
+    "korean": "인사 예절:",
+    "vietnamese": "nghi lễ chào hỏi"
+  },
+  {
+    "korean": "저:",
+    "vietnamese": "tôi ( khiêm tốn )"
+  },
+  {
+    "korean": "사람:",
+    "vietnamese": "người"
+  },
+  {
+    "korean": "어느:",
+    "vietnamese": "nào (nước nào)"
+  },
+  {
+    "korean": "회사:",
+    "vietnamese": "Công ty"
+  },
+  {
+    "korean": "발음:",
+    "vietnamese": "phát âm"
+  },
+  {
+    "korean": "보기",
+    "vietnamese": "ví dụ"
+  },
+  {
+    "korean": "문장",
+    "vietnamese": "Câu văn"
+  },
+  {
+    "korean": "연결하다",
+    "vietnamese": "nối, kết nối"
+  },
+  {
+    "korean": "알맞",
+    "vietnamese": "như, giống như"
+  },
+  {
+    "korean": "이름",
+    "vietnamese": "tên"
+  },
+  {
+    "korean": "묻다",
+    "vietnamese": "Hỏi"
+  },
+  {
+    "korean": "대답하다",
+    "vietnamese": "trả lời"
+  },
+  {
+    "korean": "만나다",
+    "vietnamese": "Gặp"
+  },
+  {
+    "korean": "인사하다",
+    "vietnamese": "Chào hỏi"
+  },
+  {
+    "korean": "직장 동료",
+    "vietnamese": "đồng nghiệp công ty"
+  },
+  {
+    "korean": "친한 사람",
+    "vietnamese": "người thân"
+  },
+  {
+    "korean": "괜찮아요",
+    "vietnamese": "không sao"
+  },
+  {
+    "korean": "감사합니다",
+    "vietnamese": "cảm ơn"
+  },
+  {
+    "korean": "여기",
+    "vietnamese": "đây, chỗ này"
+  },
+  {
+    "korean": "저기",
+    "vietnamese": "đằng kia, chỗ kia"
+  },
+  {
+    "korean": "거기",
+    "vietnamese": "ở đó, tại đó, chỗ đó"
+  },
+  {
+    "korean": "어디",
+    "vietnamese": "đâu, chỗ nào"
+  },
+  {
+    "korean": "회사",
+    "vietnamese": "Công ty"
+  },
+  {
+    "korean": "사무실",
+    "vietnamese": "văn phòng"
+  },
+  {
+    "korean": "화장실",
+    "vietnamese": "nhà vệ sinh"
+  },
+  {
+    "korean": "식당",
+    "vietnamese": "quán ăn"
+  },
+  {
+    "korean": "집",
+    "vietnamese": "nhà"
+  },
+  {
+    "korean": "세탁소",
+    "vietnamese": "Tiệm giặt là"
+  },
+  {
+    "korean": "기숙사",
+    "vietnamese": "ký túc xá"
+  },
+  {
+    "korean": "미용실",
+    "vietnamese": "Tiệm cắt tóc, làm đầu"
+  },
+  {
+    "korean": "슈퍼마켓",
+    "vietnamese": "siêu thị"
+  },
+  {
+    "korean": "시장",
+    "vietnamese": "Chợ"
+  },
+  {
+    "korean": "편의점",
+    "vietnamese": "Cửa hàng tiện ích"
+  },
+  {
+    "korean": "마트",
+    "vietnamese": "cửa hàng"
+  },
+  {
+    "korean": "열쇠",
+    "vietnamese": "Chìa khóa"
+  },
+  {
+    "korean": "가족사진",
+    "vietnamese": "ảnh gia đình"
+  },
+  {
+    "korean": "지갑",
+    "vietnamese": "Ví tiền"
+  },
+  {
+    "korean": "가방",
+    "vietnamese": "túi sách"
+  },
+  {
+    "korean": "우산",
+    "vietnamese": "ô , dù"
+  },
+  {
+    "korean": "거울",
+    "vietnamese": "gương soi"
+  },
+  {
+    "korean": "빗",
+    "vietnamese": "cái lược"
+  },
+  {
+    "korean": "헤어드라이어",
+    "vietnamese": "máy sấy tóc"
+  },
+  {
+    "korean": "이불",
+    "vietnamese": "Chăn"
+  },
+  {
+    "korean": "베개",
+    "vietnamese": "cái gối"
+  },
+  {
+    "korean": "린스",
+    "vietnamese": "Dầu xả tóc"
+  },
+  {
+    "korean": "샴푸",
+    "vietnamese": "dầu gội đầu"
+  },
+  {
+    "korean": "문화",
+    "vietnamese": "văn hóa"
+  },
+  {
+    "korean": "비누",
+    "vietnamese": "xa bông tắm"
+  },
+  {
+    "korean": "칫솔",
+    "vietnamese": "bàn chải răng"
+  },
+  {
+    "korean": "앉다",
+    "vietnamese": "Ngồi"
+  },
+  {
+    "korean": "생활하다",
+    "vietnamese": "sinh hoạt"
+  },
+  {
+    "korean": "그래서",
+    "vietnamese": "vì thế, chính vì vậy"
+  },
+  {
+    "korean": "대부분",
+    "vietnamese": "đại đa số"
+  },
+  {
+    "korean": "식사를 하다",
+    "vietnamese": "ăn uống"
+  },
+  {
+    "korean": "언제",
+    "vietnamese": "khi nào"
+  },
+  {
+    "korean": "누구",
+    "vietnamese": "ai"
+  },
+  {
+    "korean": "무슨",
+    "vietnamese": "gì (cái gì)"
+  },
+  {
+    "korean": "왜",
+    "vietnamese": "tại sao"
+  },
+  {
+    "korean": "뭐",
+    "vietnamese": "gì"
+  },
+  {
+    "korean": "텔레비전을 보다",
+    "vietnamese": "xem ti vi"
+  },
+  {
+    "korean": "일어나다",
+    "vietnamese": "thức dậy"
+  },
+  {
+    "korean": "자다",
+    "vietnamese": "Ngủ"
+  },
+  {
+    "korean": "쉬다",
+    "vietnamese": "Nghỉ ngơi"
+  },
+  {
+    "korean": "씻다",
+    "vietnamese": "Rửa"
+  },
+  {
+    "korean": "커피를 마시다",
+    "vietnamese": "uống caffe"
+  },
+  {
+    "korean": "아침을 먹다",
+    "vietnamese": "ăn sáng"
+  },
+  {
+    "korean": "점심을 먹다",
+    "vietnamese": "ăn bữa trưa"
+  },
+  {
+    "korean": "저녁을 먹다",
+    "vietnamese": "ăn bữa tối"
+  },
+  {
+    "korean": "일하다",
+    "vietnamese": "làm việc"
+  },
+  {
+    "korean": "요리하다",
+    "vietnamese": "nấu"
+  },
+  {
+    "korean": "운동하다",
+    "vietnamese": "Tập thể dục"
+  },
+  {
+    "korean": "전화하다",
+    "vietnamese": "Gọi điện"
+  },
+  {
+    "korean": "회사에 가다",
+    "vietnamese": "đi đến công ty"
+  },
+  {
+    "korean": "집에 오다",
+    "vietnamese": "về nhà"
+  },
+  {
+    "korean": "지금",
+    "vietnamese": "bây giờ"
+  },
+  {
+    "korean": "오늘",
+    "vietnamese": "hôm nay"
+  },
+  {
+    "korean": "어제",
+    "vietnamese": "hôm qua"
+  },
+  {
+    "korean": "아침",
+    "vietnamese": "buổi sáng"
+  },
+  {
+    "korean": "점심",
+    "vietnamese": "buổi trưa"
+  },
+  {
+    "korean": "저녁",
+    "vietnamese": "chiều tối"
+  },
+  {
+    "korean": "새벽",
+    "vietnamese": "sáng sớm,Bình mình"
+  },
+  {
+    "korean": "오전",
+    "vietnamese": "buổi sáng(trước 12h)"
+  },
+  {
+    "korean": "일과",
+    "vietnamese": "ban ngày"
+  },
+  {
+    "korean": "밤",
+    "vietnamese": "ban đêm"
+  },
+  {
+    "korean": "시간",
+    "vietnamese": "thời gian"
+  },
+  {
+    "korean": "에",
+    "vietnamese": "vào lúc"
+  },
+  {
+    "korean": "분",
+    "vietnamese": "phút"
+  },
+  {
+    "korean": "직장",
+    "vietnamese": "cơ quan,nơi làm việc, chỗ làm"
+  },
+  {
+    "korean": "영, 공",
+    "vietnamese": "không, số không"
+  },
+  {
+    "korean": "일",
+    "vietnamese": "Một (th)"
+  },
+  {
+    "korean": "한나 (한)",
+    "vietnamese": "một (thuần hàn)"
+  },
+  {
+    "korean": "십일",
+    "vietnamese": "Mười một (th)"
+  },
+  {
+    "korean": "열한나 , (열한)",
+    "vietnamese": "mười một (thuần hàn)"
+  },
+  {
+    "korean": "백",
+    "vietnamese": "Một trăm"
+  },
+  {
+    "korean": "둘 (두)",
+    "vietnamese": "hai (thuần hàn)"
+  },
+  {
+    "korean": "이",
+    "vietnamese": "Hai (th)"
+  },
+  {
+    "korean": "이십",
+    "vietnamese": "Hai mươi (th)"
+  },
+  {
+    "korean": "스물 , (스무)",
+    "vietnamese": "hai mươi (thuần hàn)"
+  },
+  {
+    "korean": "셋 (세)",
+    "vietnamese": "ba (thuần hàn)"
+  },
+  {
+    "korean": "서른",
+    "vietnamese": "Ba mươi (hh)"
+  },
+  {
+    "korean": "삼",
+    "vietnamese": "Ba (th)"
+  },
+  {
+    "korean": "넷 (네)",
+    "vietnamese": "bốn (thuần hàn)"
+  },
+  {
+    "korean": "마흔",
+    "vietnamese": "Bốn mươi (hh)"
+  },
+  {
+    "korean": "사",
+    "vietnamese": "Bốn (th)"
+  },
+  {
+    "korean": "다섯",
+    "vietnamese": "Năm (hh)"
+  },
+  {
+    "korean": "오",
+    "vietnamese": "Năm (th)"
+  },
+  {
+    "korean": "쉰",
+    "vietnamese": "Năm mươi (hh)"
+  },
+  {
+    "korean": "여섯",
+    "vietnamese": "Sáu (hh)"
+  },
+  {
+    "korean": "육",
+    "vietnamese": "Sáu (th)"
+  },
+  {
+    "korean": "여순",
+    "vietnamese": "sáu mươi (thuần hàn)"
+  },
+  {
+    "korean": "칠",
+    "vietnamese": "Bảy (th)"
+  },
+  {
+    "korean": "일흔",
+    "vietnamese": "Bảy mươi (hh)"
+  },
+  {
+    "korean": "일곱",
+    "vietnamese": "Bảy (hh)"
+  },
+  {
+    "korean": "여덟",
+    "vietnamese": "Tám (hh)"
+  },
+  {
+    "korean": "여든",
+    "vietnamese": "Tám mươi (hh)"
+  },
+  {
+    "korean": "아홉",
+    "vietnamese": "Chín (hh)"
+  },
+  {
+    "korean": "아흔",
+    "vietnamese": "Chín mươi (hh)"
+  },
+  {
+    "korean": "십",
+    "vietnamese": "Mười (th)"
+  },
+  {
+    "korean": "열",
+    "vietnamese": "Mười (hh)"
+  },
+  {
+    "korean": "만",
+    "vietnamese": "Mười ngàn"
+  },
+  {
+    "korean": "요일",
+    "vietnamese": "thứ"
+  },
+  {
+    "korean": "수요일",
+    "vietnamese": "thứ 4"
+  },
+  {
+    "korean": "화요일",
+    "vietnamese": "thứ 3"
+  },
+  {
+    "korean": "월요일",
+    "vietnamese": "thứ 2"
+  },
+  {
+    "korean": "금요일",
+    "vietnamese": "thứ 6"
+  },
+  {
+    "korean": "목요일",
+    "vietnamese": "thứ 5"
+  },
+  {
+    "korean": "일요일",
+    "vietnamese": "chủ nhật"
+  },
+  {
+    "korean": "야근을 하다",
+    "vietnamese": "làm thêm giờ"
+  },
+  {
+    "korean": "출근 시간",
+    "vietnamese": "thời gian đi làm"
+  },
+  {
+    "korean": "있다",
+    "vietnamese": "có"
+  },
+  {
+    "korean": "많다",
+    "vietnamese": "nhiều"
+  },
+  {
+    "korean": "살다",
+    "vietnamese": "sống"
+  },
+  {
+    "korean": "할아버지",
+    "vietnamese": "Ông"
+  },
+  {
+    "korean": "할머니",
+    "vietnamese": "Bà"
+  },
+  {
+    "korean": "아버지",
+    "vietnamese": "Ba ,bố"
+  },
+  {
+    "korean": "어머니",
+    "vietnamese": "Mẹ ,má"
+  },
+  {
+    "korean": "형",
+    "vietnamese": "Anh (em trai gọi)"
+  },
+  {
+    "korean": "누나",
+    "vietnamese": "Chị (em trai gọi)"
+  },
+  {
+    "korean": "나",
+    "vietnamese": "Tôi"
+  },
+  {
+    "korean": "부인",
+    "vietnamese": "vợ"
+  },
+  {
+    "korean": "여동생",
+    "vietnamese": "Em gái"
+  },
+  {
+    "korean": "남동생",
+    "vietnamese": "Em trai"
+  },
+  {
+    "korean": "오빠",
+    "vietnamese": "Anh (em gái gọi)"
+  },
+  {
+    "korean": "언니",
+    "vietnamese": "Chị (em gái gọi)"
+  },
+  {
+    "korean": "남편",
+    "vietnamese": "Chồng"
+  },
+  {
+    "korean": "아들",
+    "vietnamese": "con trai"
+  },
+  {
+    "korean": "딸",
+    "vietnamese": "con gái"
+  },
+  {
+    "korean": "예쁘다",
+    "vietnamese": "đẹp(nữ)"
+  },
+  {
+    "korean": "멋있다",
+    "vietnamese": "phong độ, bảnh bao"
+  },
+  {
+    "korean": "키가 크다",
+    "vietnamese": "người cao"
+  },
+  {
+    "korean": "키가 작다",
+    "vietnamese": "người lùn"
+  },
+  {
+    "korean": "날씬하다",
+    "vietnamese": "thon thả"
+  },
+  {
+    "korean": "뚱뚱하다",
+    "vietnamese": "béo,mập"
+  },
+  {
+    "korean": "똑똑하다",
+    "vietnamese": "thông minh"
+  },
+  {
+    "korean": "활발하다",
+    "vietnamese": "năng động"
+  },
+  {
+    "korean": "얌전하다",
+    "vietnamese": "ngoan ngoãn, điềm đạm"
+  },
+  {
+    "korean": "부지런하다",
+    "vietnamese": "siêng năng, cần cù"
+  },
+  {
+    "korean": "반말",
+    "vietnamese": "nói trống không"
+  },
+  {
+    "korean": "가족",
+    "vietnamese": "gia đình"
+  },
+  {
+    "korean": "외모",
+    "vietnamese": "ngoại hình"
+  },
+  {
+    "korean": "성격",
+    "vietnamese": "tính cách"
+  },
+  {
+    "korean": "하고",
+    "vietnamese": "và"
+  },
+  {
+    "korean": "사는 곳",
+    "vietnamese": "nơi sống"
+  },
+  {
+    "korean": "한국어",
+    "vietnamese": "tiếng hàn quốc"
+  },
+  {
+    "korean": "자신",
+    "vietnamese": "bản thân"
+  },
+  {
+    "korean": "어린 사람",
+    "vietnamese": "người nhỏ tuổi"
+  },
+  {
+    "korean": "어린다",
+    "vietnamese": "nhỏ"
+  },
+  {
+    "korean": "별로",
+    "vietnamese": "đặc biệt"
+  },
+  {
+    "korean": "가깝다",
+    "vietnamese": "gần"
+  },
+  {
+    "korean": "월",
+    "vietnamese": "tháng"
+  },
+  {
+    "korean": "일월",
+    "vietnamese": "tháng một"
+  },
+  {
+    "korean": "이월",
+    "vietnamese": "tháng hai"
+  },
+  {
+    "korean": "삼월",
+    "vietnamese": "tháng ba"
+  },
+  {
+    "korean": "사월",
+    "vietnamese": "tháng bốn"
+  },
+  {
+    "korean": "오월",
+    "vietnamese": "tháng năm"
+  },
+  {
+    "korean": "유월",
+    "vietnamese": "tháng 6"
+  },
+  {
+    "korean": "칠월",
+    "vietnamese": "tháng bảy"
+  },
+  {
+    "korean": "팔월",
+    "vietnamese": "tháng tám"
+  },
+  {
+    "korean": "구월",
+    "vietnamese": "tháng chín"
+  },
+  {
+    "korean": "시월",
+    "vietnamese": "tháng 10"
+  },
+  {
+    "korean": "십일월",
+    "vietnamese": "tháng mười một"
+  },
+  {
+    "korean": "십이월",
+    "vietnamese": "tháng mười hai"
+  },
+  {
+    "korean": "일일",
+    "vietnamese": "1 ngày"
+  },
+  {
+    "korean": "이일",
+    "vietnamese": "2 ngày"
+  },
+  {
+    "korean": "삼일",
+    "vietnamese": "3 ngày"
+  },
+  {
+    "korean": "사일",
+    "vietnamese": "4 ngày"
+  },
+  {
+    "korean": "오일",
+    "vietnamese": "5 ngày"
+  },
+  {
+    "korean": "육일",
+    "vietnamese": "6 ngày"
+  },
+  {
+    "korean": "칠일",
+    "vietnamese": "7 ngày"
+  },
+  {
+    "korean": "팔일",
+    "vietnamese": "8 ngày"
+  },
+  {
+    "korean": "구일",
+    "vietnamese": "9 ngày"
+  },
+  {
+    "korean": "공원",
+    "vietnamese": "Công viên"
+  },
+  {
+    "korean": "커피숍",
+    "vietnamese": "Quán cà phê"
+  },
+  {
+    "korean": "서점",
+    "vietnamese": "Hiệu sách"
+  },
+  {
+    "korean": "도서관",
+    "vietnamese": "Thư viện"
+  },
+  {
+    "korean": "백화점",
+    "vietnamese": "cửa hàng bách hóa, siêu thị"
+  },
+  {
+    "korean": "노래방",
+    "vietnamese": "Quán karaoke"
+  },
+  {
+    "korean": "PC방",
+    "vietnamese": "Quán game"
+  },
+  {
+    "korean": "영화관",
+    "vietnamese": "Rạp chiếu phim"
+  },
+  {
+    "korean": "노래하다",
+    "vietnamese": "Hát"
+  },
+  {
+    "korean": "게임하다",
+    "vietnamese": "chơi game"
+  },
+  {
+    "korean": "산책하다",
+    "vietnamese": "đi dạo"
+  },
+  {
+    "korean": "쇼핑하다",
+    "vietnamese": "đi mua sắm"
+  },
+  {
+    "korean": "책을 읽다",
+    "vietnamese": "đọc sách"
+  },
+  {
+    "korean": "영화를 보다",
+    "vietnamese": "xem phim"
+  },
+  {
+    "korean": "한국어를 공부하다",
+    "vietnamese": "học tiếng hàn"
+  },
+  {
+    "korean": "친구를 만나다",
+    "vietnamese": "gặp bạn bè"
+  },
+  {
+    "korean": "날짜",
+    "vietnamese": "ngày"
+  },
+  {
+    "korean": "동작",
+    "vietnamese": "động tác, hành động"
+  },
+  {
+    "korean": "지난달",
+    "vietnamese": "tháng trước"
+  },
+  {
+    "korean": "이번 달",
+    "vietnamese": "tháng này"
+  },
+  {
+    "korean": "다음달",
+    "vietnamese": "tháng sau"
+  },
+  {
+    "korean": "내일",
+    "vietnamese": "ngày mai"
+  },
+  {
+    "korean": "지난주",
+    "vietnamese": "tuần trước"
+  },
+  {
+    "korean": "이번 주",
+    "vietnamese": "tuần này"
+  },
+  {
+    "korean": "다음 주",
+    "vietnamese": "tuần sau"
+  },
+  {
+    "korean": "주중",
+    "vietnamese": "trong tuần"
+  },
+  {
+    "korean": "작년",
+    "vietnamese": "năm ngoái"
+  },
+  {
+    "korean": "올해",
+    "vietnamese": "năm nay"
+  },
+  {
+    "korean": "내년",
+    "vietnamese": "năm sau"
+  },
+  {
+    "korean": "에서",
+    "vietnamese": "ở"
+  },
+  {
+    "korean": "신정",
+    "vietnamese": "tết dương lịch"
+  },
+  {
+    "korean": "삼일절",
+    "vietnamese": "ngày độc lập"
+  },
+  {
+    "korean": "오렌지",
+    "vietnamese": "cam"
+  },
+  {
+    "korean": "수박",
+    "vietnamese": "dưa hấu"
+  },
+  {
+    "korean": "포도",
+    "vietnamese": "nho"
+  },
+  {
+    "korean": "물",
+    "vietnamese": "Nước"
+  },
+  {
+    "korean": "주스",
+    "vietnamese": "nước hoa quả"
+  },
+  {
+    "korean": "우유",
+    "vietnamese": "sữa"
+  },
+  {
+    "korean": "빵",
+    "vietnamese": "bánh mì"
+  },
+  {
+    "korean": "라면",
+    "vietnamese": "mì gói"
+  },
+  {
+    "korean": "과자",
+    "vietnamese": "bim bim, kẹo, bánh ăn vặt"
+  },
+  {
+    "korean": "초콜릿",
+    "vietnamese": "sô cô la"
+  },
+  {
+    "korean": "아이스크림",
+    "vietnamese": "kem"
+  },
+  {
+    "korean": "돈",
+    "vietnamese": "Tiền"
+  },
+  {
+    "korean": "값",
+    "vietnamese": "giá tiền"
+  },
+  {
+    "korean": "가격",
+    "vietnamese": "giá cả"
+  },
+  {
+    "korean": "비싸다",
+    "vietnamese": "đắt"
+  },
+  {
+    "korean": "넣다",
+    "vietnamese": "để vào, đặt vào"
+  },
+  {
+    "korean": "싸다(포장하다)",
+    "vietnamese": "đóng gói"
+  },
+  {
+    "korean": "바지",
+    "vietnamese": "quần"
+  },
+  {
+    "korean": "치마",
+    "vietnamese": "Váy"
+  },
+  {
+    "korean": "의류",
+    "vietnamese": "quần áo"
+  },
+  {
+    "korean": "티셔츠",
+    "vietnamese": "Áo sơ mi"
+  },
+  {
+    "korean": "잠바",
+    "vietnamese": "Áo khoác ngoài"
+  },
+  {
+    "korean": "운동화",
+    "vietnamese": "giày thể thao"
+  },
+  {
+    "korean": "슬리퍼",
+    "vietnamese": "dép"
+  },
+  {
+    "korean": "구두",
+    "vietnamese": "giày da"
+  },
+  {
+    "korean": "장화",
+    "vietnamese": "ủng"
+  },
+  {
+    "korean": "양말",
+    "vietnamese": "tất"
+  },
+  {
+    "korean": "장갑",
+    "vietnamese": "găng tay"
+  },
+  {
+    "korean": "목도리",
+    "vietnamese": "khăn quàng cổ"
+  },
+  {
+    "korean": "넥타이",
+    "vietnamese": "cái nơ , cái cà vạt"
+  },
+  {
+    "korean": "모자",
+    "vietnamese": "cái mũ"
+  },
+  {
+    "korean": "선글라스",
+    "vietnamese": "kính râm"
+  },
+  {
+    "korean": "안경",
+    "vietnamese": "đeo mắt"
+  },
+  {
+    "korean": "과일",
+    "vietnamese": "hoa quả"
+  },
+  {
+    "korean": "화폐",
+    "vietnamese": "tiền tệ"
+  },
+  {
+    "korean": "구매하다",
+    "vietnamese": "mua, mua sắm"
+  },
+  {
+    "korean": "대",
+    "vietnamese": "chiếc"
+  },
+  {
+    "korean": "권",
+    "vietnamese": "quyển"
+  },
+  {
+    "korean": "그릇",
+    "vietnamese": "Bát"
+  },
+  {
+    "korean": "포대",
+    "vietnamese": "bao"
+  },
+  {
+    "korean": "개",
+    "vietnamese": "cái"
+  },
+  {
+    "korean": "장",
+    "vietnamese": "tờ"
+  },
+  {
+    "korean": "켤레",
+    "vietnamese": "đôi"
+  },
+  {
+    "korean": "자루",
+    "vietnamese": "cây"
+  },
+  {
+    "korean": "송이",
+    "vietnamese": "bông, chùm"
+  },
+  {
+    "korean": "봉지",
+    "vietnamese": "túi"
+  },
+  {
+    "korean": "병",
+    "vietnamese": "chai"
+  },
+  {
+    "korean": "박스",
+    "vietnamese": "thùng cát ton"
+  },
+  {
+    "korean": "벌",
+    "vietnamese": "bộ"
+  },
+  {
+    "korean": "명",
+    "vietnamese": "người"
+  },
+  {
+    "korean": "마리",
+    "vietnamese": "con"
+  },
+  {
+    "korean": "내려가다",
+    "vietnamese": "Xuống"
+  },
+  {
+    "korean": "내려오다",
+    "vietnamese": "đi xuống đây"
+  },
+  {
+    "korean": "올라가다",
+    "vietnamese": "Lên"
+  },
+  {
+    "korean": "올라오다",
+    "vietnamese": "lên đến, lên tới"
+  },
+  {
+    "korean": "나가다",
+    "vietnamese": "đi ra ngoài"
+  },
+  {
+    "korean": "나오다",
+    "vietnamese": "ra ngoài đi"
+  },
+  {
+    "korean": "돌아가다",
+    "vietnamese": "trở đi"
+  },
+  {
+    "korean": "돌아오다",
+    "vietnamese": "trở về"
+  },
+  {
+    "korean": "들어오다",
+    "vietnamese": "đi vào trong này"
+  },
+  {
+    "korean": "아래",
+    "vietnamese": "bên dưới"
+  },
+  {
+    "korean": "앞",
+    "vietnamese": "phía trước"
+  },
+  {
+    "korean": "뒤",
+    "vietnamese": "sau"
+  },
+  {
+    "korean": "안",
+    "vietnamese": "trong"
+  },
+  {
+    "korean": "밖",
+    "vietnamese": "ngoài"
+  },
+  {
+    "korean": "왼쪽",
+    "vietnamese": "bên trái"
+  },
+  {
+    "korean": "오 른 쪽",
+    "vietnamese": "bên phải"
+  },
+  {
+    "korean": "맞은편(건너편)",
+    "vietnamese": "phía đối diện"
+  },
+  {
+    "korean": "옆",
+    "vietnamese": "bên cạnh"
+  },
+  {
+    "korean": "사이(중간)",
+    "vietnamese": "ở giữa"
+  },
+  {
+    "korean": "가운데",
+    "vietnamese": "chính giữa, bên trong"
+  },
+  {
+    "korean": "이동 동사",
+    "vietnamese": "đông từ chuyển động"
+  },
+  {
+    "korean": "길",
+    "vietnamese": "con đường"
+  },
+  {
+    "korean": "찾기",
+    "vietnamese": "tìm"
+  },
+  {
+    "korean": "길거리",
+    "vietnamese": "đường, đường phố"
+  },
+  {
+    "korean": "건물",
+    "vietnamese": "toà nhà (sự xây dựng)"
+  },
+  {
+    "korean": "층",
+    "vietnamese": "tầng"
+  },
+  {
+    "korean": "지하",
+    "vietnamese": "tầng hầm"
+  },
+  {
+    "korean": "육교",
+    "vietnamese": "cầu vượt"
+  },
+  {
+    "korean": "이정표",
+    "vietnamese": "bảng chỉ dẫn trên đường(hướng A,hướng B)"
+  },
+  {
+    "korean": "신호등",
+    "vietnamese": "đèn (tín hiệu) giao thông"
+  },
+  {
+    "korean": "골목",
+    "vietnamese": "ngõ, hẻm"
+  },
+  {
+    "korean": "도로",
+    "vietnamese": "đại lộ"
+  },
+  {
+    "korean": "코미디 영화",
+    "vietnamese": "phim hài"
+  },
+  {
+    "korean": "멜로 영화",
+    "vietnamese": "phim tình cảm"
+  },
+  {
+    "korean": "액션 영화",
+    "vietnamese": "phim hành động"
+  },
+  {
+    "korean": "공포 영화",
+    "vietnamese": "phim kinh dị"
+  },
+  {
+    "korean": "시간(이) 있다",
+    "vietnamese": "có thời gian"
+  },
+  {
+    "korean": "시간(이) 없다",
+    "vietnamese": "không có thời gian"
+  },
+  {
+    "korean": "약속(이) 있다",
+    "vietnamese": "có cuộc hẹn"
+  },
+  {
+    "korean": "약속(이) 없다",
+    "vietnamese": "không có cuộc hẹn"
+  },
+  {
+    "korean": "일이 많다",
+    "vietnamese": "có nhiều việc"
+  },
+  {
+    "korean": "일이 적다",
+    "vietnamese": "ít việc"
+  },
+  {
+    "korean": "한가하다",
+    "vietnamese": "rảnh rỗi"
+  },
+  {
+    "korean": "재미없다",
+    "vietnamese": "không hay, không thú vị"
+  },
+  {
+    "korean": "좋다",
+    "vietnamese": "tốt, được"
+  },
+  {
+    "korean": "괜찮다",
+    "vietnamese": "ổn, không sao"
+  },
+  {
+    "korean": "도청",
+    "vietnamese": "ủy ban tỉnh"
+  },
+  {
+    "korean": "시청",
+    "vietnamese": "toà nhà thị chính"
+  },
+  {
+    "korean": "구청",
+    "vietnamese": "uỷ ban quận"
+  },
+  {
+    "korean": "경찰서",
+    "vietnamese": "đồn cảnh sát"
+  },
+  {
+    "korean": "소방서",
+    "vietnamese": "sở phòng cháy chữa cháy"
+  },
+  {
+    "korean": "보건소",
+    "vietnamese": "sở y tế"
+  },
+  {
+    "korean": "주민센터",
+    "vietnamese": "trung tâm cư trú"
+  },
+  {
+    "korean": "이르다 == 빠르다",
+    "vietnamese": "nhanh"
+  },
+  {
+    "korean": "늦다",
+    "vietnamese": "chậm, muộn"
+  },
+  {
+    "korean": "멀다",
+    "vietnamese": "xa"
+  },
+  {
+    "korean": "같다",
+    "vietnamese": "giống nhau"
+  },
+  {
+    "korean": "편하다",
+    "vietnamese": "tiện lợi"
+  },
+  {
+    "korean": "가능하다",
+    "vietnamese": "có thể"
+  },
+  {
+    "korean": "불가능하다",
+    "vietnamese": "không thể"
+  },
+  {
+    "korean": "자리가 있다",
+    "vietnamese": "còn chỗ"
+  },
+  {
+    "korean": "자리가 없다",
+    "vietnamese": "hết chỗ"
+  },
+  {
+    "korean": "메뉴 == 메뉴판",
+    "vietnamese": "thực đơn"
+  },
+  {
+    "korean": "국",
+    "vietnamese": "Canh"
+  },
+  {
+    "korean": "밥",
+    "vietnamese": "cơm"
+  },
+  {
+    "korean": "반찬",
+    "vietnamese": "thức ăn"
+  },
+  {
+    "korean": "숟가락",
+    "vietnamese": "Thìa"
+  },
+  {
+    "korean": "젓가락",
+    "vietnamese": "đôi đũa"
+  },
+  {
+    "korean": "고르다",
+    "vietnamese": "chọn, lựa chọn"
+  },
+  {
+    "korean": "시키다 == 주문하다",
+    "vietnamese": "gọi món"
+  },
+  {
+    "korean": "주문하다 == 시키다",
+    "vietnamese": "đặt hàng, gọi món"
+  },
+  {
+    "korean": "배달하다",
+    "vietnamese": "giao hàng"
+  },
+  {
+    "korean": "맛있다",
+    "vietnamese": "ngon"
+  },
+  {
+    "korean": "맛없다",
+    "vietnamese": "không ngon"
+  },
+  {
+    "korean": "맵다",
+    "vietnamese": "cay"
+  },
+  {
+    "korean": "짜다",
+    "vietnamese": "mặn"
+  },
+  {
+    "korean": "싱겁다",
+    "vietnamese": "nhạt"
+  },
+  {
+    "korean": "쓰다",
+    "vietnamese": "đắng"
+  },
+  {
+    "korean": "시다",
+    "vietnamese": "chua"
+  },
+  {
+    "korean": "김치찌개",
+    "vietnamese": "canh kim chi"
+  },
+  {
+    "korean": "된장찌개",
+    "vietnamese": "canh tương đậu"
+  },
+  {
+    "korean": "순두부찌개",
+    "vietnamese": "canh đậu phụ cay"
+  },
+  {
+    "korean": "갈비탕",
+    "vietnamese": "canh sườn"
+  },
+  {
+    "korean": "감자탕",
+    "vietnamese": "canh khoai tây"
+  },
+  {
+    "korean": "불고기",
+    "vietnamese": "thịt bò nướng"
+  },
+  {
+    "korean": "비빔밥",
+    "vietnamese": "cơm trộn"
+  },
+  {
+    "korean": "초밥",
+    "vietnamese": "món sushi"
+  },
+  {
+    "korean": "돈가스",
+    "vietnamese": "cơm thịt rán tẩm bột"
+  },
+  {
+    "korean": "우동",
+    "vietnamese": "mì udong"
+  },
+  {
+    "korean": "인분",
+    "vietnamese": "xuất ăn"
+  },
+  {
+    "korean": "김밥",
+    "vietnamese": "cơm cuộn rong biển"
+  },
+  {
+    "korean": "튀김",
+    "vietnamese": "đồ rán, đồ chiên"
+  },
+  {
+    "korean": "순대",
+    "vietnamese": "lòng , dồi"
+  },
+  {
+    "korean": "치킨",
+    "vietnamese": "gà rán"
+  },
+  {
+    "korean": "족발",
+    "vietnamese": "chân giò"
+  },
+  {
+    "korean": "피자",
+    "vietnamese": "bánh pizza"
+  },
+  {
+    "korean": "자장면",
+    "vietnamese": "mì tương đen"
+  },
+  {
+    "korean": "짬뽕",
+    "vietnamese": "mỳ hải sản"
+  },
+  {
+    "korean": "탕수육",
+    "vietnamese": "thịt chiên chua ngọt"
+  },
+  {
+    "korean": "군만두",
+    "vietnamese": "bánh bao nướng"
+  },
+  {
+    "korean": "접시",
+    "vietnamese": "Đĩa"
+  },
+  {
+    "korean": "음식의 맛",
+    "vietnamese": "vị của món ăn"
+  },
+  {
+    "korean": "음식 주문하기",
+    "vietnamese": "đặt món ăn"
+  },
+  {
+    "korean": "음식",
+    "vietnamese": "món ăn"
+  },
+  {
+    "korean": "공기",
+    "vietnamese": "không khí"
+  },
+  {
+    "korean": "비가 오다",
+    "vietnamese": "mưa"
+  },
+  {
+    "korean": "눈이 오다",
+    "vietnamese": "trời mưa tuyết"
+  },
+  {
+    "korean": "바람이 불다",
+    "vietnamese": "gió thổi"
+  },
+  {
+    "korean": "그치다",
+    "vietnamese": "tạnh, ngừng, kết thúc"
+  },
+  {
+    "korean": "날씨가 좋다",
+    "vietnamese": "thời tiết tốt, ngày đẹp trời"
+  },
+  {
+    "korean": "날씨가 나쁘다",
+    "vietnamese": "thời tiết xấu"
+  },
+  {
+    "korean": "맑다",
+    "vietnamese": "trời trong xanh ít mây có nắng"
+  },
+  {
+    "korean": "흐리다",
+    "vietnamese": "âm u, nhiều mây"
+  },
+  {
+    "korean": "따뜻하다",
+    "vietnamese": "Ấm áp"
+  },
+  {
+    "korean": "덥다",
+    "vietnamese": "nóng"
+  },
+  {
+    "korean": "시원하다",
+    "vietnamese": "Mát mẻ"
+  },
+  {
+    "korean": "춥다",
+    "vietnamese": "lạnh"
+  },
+  {
+    "korean": "정말",
+    "vietnamese": "sự thật"
+  },
+  {
+    "korean": "진짜",
+    "vietnamese": "thật, vậy hả, thật ra"
+  },
+  {
+    "korean": "아주",
+    "vietnamese": "rất"
+  },
+  {
+    "korean": "너무",
+    "vietnamese": "quá"
+  },
+  {
+    "korean": "가장",
+    "vietnamese": "nhất"
+  },
+  {
+    "korean": "제일",
+    "vietnamese": "trước tiên, thứ nhất, đầu tiên"
+  },
+  {
+    "korean": "많이",
+    "vietnamese": "nhiều"
+  },
+  {
+    "korean": "특히 : thức khi",
+    "vietnamese": "đặc biệt"
+  },
+  {
+    "korean": "조금",
+    "vietnamese": "một chút"
+  },
+  {
+    "korean": "기분이 좋다",
+    "vietnamese": "vui vẻ, thoải mái tâm trạng tốt"
+  },
+  {
+    "korean": "기분이 나쁘다",
+    "vietnamese": "khó chịu, tâm trang ko tốt"
+  },
+  {
+    "korean": "기쁘다",
+    "vietnamese": "vui vẻ, vui mừng"
+  },
+  {
+    "korean": "슬프다",
+    "vietnamese": "buồn bã"
+  },
+  {
+    "korean": "즐겁다",
+    "vietnamese": "vui vẻ"
+  },
+  {
+    "korean": "신나다",
+    "vietnamese": "phấn chấn"
+  },
+  {
+    "korean": "상쾌하다",
+    "vietnamese": "sảng khoái"
+  },
+  {
+    "korean": "행복하다",
+    "vietnamese": "hạnh phúc"
+  },
+  {
+    "korean": "피곤하다",
+    "vietnamese": "mệt mỏi"
+  },
+  {
+    "korean": "졸리다",
+    "vietnamese": "buồn ngủ"
+  },
+  {
+    "korean": "외롭다",
+    "vietnamese": "cô đơn"
+  },
+  {
+    "korean": "우울하다",
+    "vietnamese": "trầm uất, u uất, buồn rầu"
+  },
+  {
+    "korean": "계절",
+    "vietnamese": "Mùa"
+  },
+  {
+    "korean": "기분",
+    "vietnamese": "Tâm trạng"
+  },
+  {
+    "korean": "감정",
+    "vietnamese": "Cảm xúc"
+  },
+  {
+    "korean": "부사",
+    "vietnamese": "Phó từ"
+  },
+  {
+    "korean": "취미",
+    "vietnamese": "sở thích riêng"
+  },
+  {
+    "korean": "독서하다",
+    "vietnamese": "đọc sách"
+  },
+  {
+    "korean": "낚시하다",
+    "vietnamese": "câu cá"
+  },
+  {
+    "korean": "여행하다",
+    "vietnamese": "đi du lịch"
+  },
+  {
+    "korean": "등산하다",
+    "vietnamese": "leo núi"
+  },
+  {
+    "korean": "외국어를 배우다",
+    "vietnamese": "học ngoại ngữ"
+  },
+  {
+    "korean": "외국어",
+    "vietnamese": "ngoại ngữ"
+  },
+  {
+    "korean": "배우다",
+    "vietnamese": "học có người hướng dẫn"
+  },
+  {
+    "korean": "콘서트를 보다",
+    "vietnamese": "xem hòa nhạc"
+  },
+  {
+    "korean": "운동 경기를 보다",
+    "vietnamese": "xem thi đấu thể thao"
+  },
+  {
+    "korean": "음악을 듣다",
+    "vietnamese": "nghe nhạc"
+  },
+  {
+    "korean": "기타를 치다",
+    "vietnamese": "chơi ghi ta"
+  },
+  {
+    "korean": "피아노를 치다",
+    "vietnamese": "chơi piano"
+  },
+  {
+    "korean": "춤을 추다",
+    "vietnamese": "nhảy múa"
+  },
+  {
+    "korean": "운동",
+    "vietnamese": "vận động"
+  },
+  {
+    "korean": "축구하다",
+    "vietnamese": "chơi đá bóng"
+  },
+  {
+    "korean": "농구하다",
+    "vietnamese": "chơi bóng rổ"
+  },
+  {
+    "korean": "야구하다",
+    "vietnamese": "chơi bóng chày"
+  },
+  {
+    "korean": "수영하다",
+    "vietnamese": "bơi lội"
+  },
+  {
+    "korean": "테니스를 치다",
+    "vietnamese": "đánh tennis"
+  },
+  {
+    "korean": "배드민턴을 치다",
+    "vietnamese": "đánh cầu lông"
+  },
+  {
+    "korean": "볼링을 치다",
+    "vietnamese": "đánh bô ling"
+  },
+  {
+    "korean": "골프를 치다",
+    "vietnamese": "đánh golf"
+  },
+  {
+    "korean": "스케이트를 타다",
+    "vietnamese": "chơi trượt băng"
+  },
+  {
+    "korean": "스키를 타다",
+    "vietnamese": "chơi trượt tuyết"
+  },
+  {
+    "korean": "자전거를 타다",
+    "vietnamese": "đi xe đạp"
+  },
+  {
+    "korean": "항상==언제나",
+    "vietnamese": "luôn luôn"
+  },
+  {
+    "korean": "주로",
+    "vietnamese": "chủ yếu"
+  },
+  {
+    "korean": "보통",
+    "vietnamese": "thông thường"
+  },
+  {
+    "korean": "자주",
+    "vietnamese": "thường xuyên"
+  },
+  {
+    "korean": "가끔",
+    "vietnamese": "thỉnh thoảng"
+  },
+  {
+    "korean": "때",
+    "vietnamese": "khi, lúc"
+  },
+  {
+    "korean": "동호회",
+    "vietnamese": "hội người cùng sở thích"
+  },
+  {
+    "korean": "각",
+    "vietnamese": "mỗi, từng"
+  },
+  {
+    "korean": "지역",
+    "vietnamese": "khu vực"
+  },
+  {
+    "korean": "외국인",
+    "vietnamese": "người nước ngoài"
+  },
+  {
+    "korean": "근로자",
+    "vietnamese": "người lao động"
+  },
+  {
+    "korean": "인력",
+    "vietnamese": "nhân lực"
+  },
+  {
+    "korean": "다문화",
+    "vietnamese": "đa văn hóa"
+  },
+  {
+    "korean": "교육하다",
+    "vietnamese": "giáo dục, đào tạo"
+  },
+  {
+    "korean": "한국어교육",
+    "vietnamese": "đào tạo tiếng Hàn Quốc"
+  },
+  {
+    "korean": "한국생활",
+    "vietnamese": "sinh hoạt Hàn Quốc"
+  },
+  {
+    "korean": "프로그램",
+    "vietnamese": "chương trình"
+  },
+  {
+    "korean": "위해",
+    "vietnamese": "sự nguy hại"
+  },
+  {
+    "korean": "다양",
+    "vietnamese": "đa dạng"
+  },
+  {
+    "korean": "통하다",
+    "vietnamese": "thông qua, thông hiểu"
+  },
+  {
+    "korean": "즐기다",
+    "vietnamese": "thích thú, tận hưởng"
+  },
+  {
+    "korean": "컴퓨터",
+    "vietnamese": "máy vi tính"
+  },
+  {
+    "korean": "태권도",
+    "vietnamese": "taekwondo"
+  },
+  {
+    "korean": "요리",
+    "vietnamese": "nấu ăn"
+  },
+  {
+    "korean": "여행지",
+    "vietnamese": "địa điểm du lịch"
+  },
+  {
+    "korean": "산",
+    "vietnamese": "núi"
+  },
+  {
+    "korean": "산동굴",
+    "vietnamese": "hang động"
+  },
+  {
+    "korean": "폭포",
+    "vietnamese": "thác nước"
+  },
+  {
+    "korean": "호수",
+    "vietnamese": "hồ"
+  },
+  {
+    "korean": "강",
+    "vietnamese": "sông"
+  },
+  {
+    "korean": "바다",
+    "vietnamese": "biển"
+  },
+  {
+    "korean": "온천",
+    "vietnamese": "suối nước nóng"
+  },
+  {
+    "korean": "유적지",
+    "vietnamese": "khu di tích"
+  },
+  {
+    "korean": "민속촌",
+    "vietnamese": "làng truyền thống, làng dân tộc"
+  },
+  {
+    "korean": "아름답다",
+    "vietnamese": "đẹp"
+  },
+  {
+    "korean": "경치가 좋다",
+    "vietnamese": "phong cảnh đẹp"
+  },
+  {
+    "korean": "사람들이 친절하다",
+    "vietnamese": "con người thân thiện"
+  },
+  {
+    "korean": "숙소",
+    "vietnamese": "chỗ ở, địa chỉ, nơi cư trú"
+  },
+  {
+    "korean": "호텔",
+    "vietnamese": "khách sạn"
+  },
+  {
+    "korean": "콘도",
+    "vietnamese": "căn hộ nghỉ dưỡng"
+  },
+  {
+    "korean": "여관",
+    "vietnamese": "nhà nghỉ"
+  },
+  {
+    "korean": "민박",
+    "vietnamese": "nhà trọ bình dân"
+  },
+  {
+    "korean": "펜션",
+    "vietnamese": "penthouses"
+  },
+  {
+    "korean": "유스호스텔 ( yuseu hoseutel )",
+    "vietnamese": "nhà nghỉ dành cho thanh niên"
+  },
+  {
+    "korean": "여행을 계획하다",
+    "vietnamese": "lên kế hoạch đi du lịch"
+  },
+  {
+    "korean": "여행을 준비하다",
+    "vietnamese": "chuẩn bị đi du lịch"
+  },
+  {
+    "korean": "표를 사다",
+    "vietnamese": "mua vé"
+  },
+  {
+    "korean": "숙소를 예약하다",
+    "vietnamese": "đặt phòng, đặt chỗ ở"
+  },
+  {
+    "korean": "짐을 싸다",
+    "vietnamese": "đóng gói hành lý"
+  },
+  {
+    "korean": "출발하다",
+    "vietnamese": "xuất phát"
+  },
+  {
+    "korean": "도착하다",
+    "vietnamese": "đến nơi"
+  },
+  {
+    "korean": "묵다",
+    "vietnamese": "nghỉ lại"
+  },
+  {
+    "korean": "박물관을 관람하다",
+    "vietnamese": "thăm quan viện bảo tàng"
+  },
+  {
+    "korean": "기념품을 사다",
+    "vietnamese": "mua quà lưu niệm"
+  },
+  {
+    "korean": "강원도",
+    "vietnamese": "tỉnh Gangwon"
+  },
+  {
+    "korean": "속초",
+    "vietnamese": "thành phố sokcho"
+  },
+  {
+    "korean": "강릉",
+    "vietnamese": "thành phố Gangneung"
+  },
+  {
+    "korean": "춘천",
+    "vietnamese": "thành phố Chuncheon"
+  },
+  {
+    "korean": "서울 시티투어",
+    "vietnamese": "tour du lịch thành phố Seoul"
+  },
+  {
+    "korean": "63빌딩",
+    "vietnamese": "tòa nhà 63 (biểu tượng thủ đô Seoul)"
+  },
+  {
+    "korean": "한강 유람선",
+    "vietnamese": "du thuyền trên sông hàn"
+  },
+  {
+    "korean": "경복궁",
+    "vietnamese": "Cung Kyong Buk"
+  },
+  {
+    "korean": "경주",
+    "vietnamese": "thành phố Gyeongju"
+  },
+  {
+    "korean": "불국사",
+    "vietnamese": "chùa Bul kok"
+  },
+  {
+    "korean": "서해안",
+    "vietnamese": "bờ biển phía tây"
+  },
+  {
+    "korean": "대천 해수욕장",
+    "vietnamese": "bãi biển Daecheon"
+  },
+  {
+    "korean": "부산",
+    "vietnamese": "Busan"
+  },
+  {
+    "korean": "해운대",
+    "vietnamese": "bãi biển Haeundae"
+  },
+  {
+    "korean": "제주도",
+    "vietnamese": "đảo jeju-do"
+  },
+  {
+    "korean": "한라산",
+    "vietnamese": "Hallasan là núi cao nhất HQ"
+  },
+  {
+    "korean": "준비",
+    "vietnamese": "chuẩn bị"
+  },
+  {
+    "korean": "활동",
+    "vietnamese": "hoạt động"
+  },
+  {
+    "korean": "설악산",
+    "vietnamese": "Núi Seoraksan"
+  },
+  {
+    "korean": "이번",
+    "vietnamese": "lần này"
+  },
+  {
+    "korean": "다녀가다",
+    "vietnamese": "đi lại"
+  },
+  {
+    "korean": "표",
+    "vietnamese": "vé"
+  },
+  {
+    "korean": "벌써",
+    "vietnamese": "đã, rồi"
+  },
+  {
+    "korean": "알아",
+    "vietnamese": "biết, đồng ý"
+  },
+  {
+    "korean": "단체",
+    "vietnamese": "tập thể, đoàn thể"
+  },
+  {
+    "korean": "외국인상담소",
+    "vietnamese": "văn phòng tư vấn ng nước ngoài"
+  },
+  {
+    "korean": "여행 정보",
+    "vietnamese": "thông tin du lịch"
+  },
+  {
+    "korean": "저렴하다",
+    "vietnamese": "giá rẻ"
+  },
+  {
+    "korean": "상담",
+    "vietnamese": "tư vấn"
+  },
+  {
+    "korean": "빈칸",
+    "vietnamese": "ô trống"
+  },
+  {
+    "korean": "교통",
+    "vietnamese": "giao thông"
+  },
+  {
+    "korean": "마을버스",
+    "vietnamese": "xe buýt vùng nông thôn"
+  },
+  {
+    "korean": "시외",
+    "vietnamese": "ngoại thành"
+  },
+  {
+    "korean": "고속버스",
+    "vietnamese": "xe bus cao tốc"
+  },
+  {
+    "korean": "택시",
+    "vietnamese": "xe taxi"
+  },
+  {
+    "korean": "기차",
+    "vietnamese": "tàu hoả"
+  },
+  {
+    "korean": "고속열차",
+    "vietnamese": "tàu cao tốc"
+  },
+  {
+    "korean": "버스터미널",
+    "vietnamese": "bến đỗ xe buýt"
+  },
+  {
+    "korean": "택시 승강장",
+    "vietnamese": "trạm xe taxi"
+  },
+  {
+    "korean": "공항",
+    "vietnamese": "Sân bay"
+  },
+  {
+    "korean": "여객터미널",
+    "vietnamese": "bến phà nơi soát vé"
+  },
+  {
+    "korean": "선착장",
+    "vietnamese": "Bến dừng đỗ cho tàu thuyền"
+  },
+  {
+    "korean": "퇴근 시간",
+    "vietnamese": "giờ tan ca, giờ tan việc"
+  },
+  {
+    "korean": "출퇴근 시간",
+    "vietnamese": "giờ cao điểm"
+  },
+  {
+    "korean": "차가 막히다",
+    "vietnamese": "tắc đường"
+  },
+  {
+    "korean": "타다",
+    "vietnamese": "lên, leo lên, cưỡi"
+  },
+  {
+    "korean": "타고 가다",
+    "vietnamese": "đi (lên rồi đi)"
+  },
+  {
+    "korean": "타고 오다",
+    "vietnamese": "đến bằng phương tiện"
+  },
+  {
+    "korean": "걸어가다",
+    "vietnamese": "đi bộ đi"
+  },
+  {
+    "korean": "걸어오다",
+    "vietnamese": "đi bộ về, đi đến"
+  },
+  {
+    "korean": "갈아타다 == 환승하다",
+    "vietnamese": "chuyển tuyến"
+  },
+  {
+    "korean": "교통카드",
+    "vietnamese": "thẻ giao thông"
+  },
+  {
+    "korean": "버스",
+    "vietnamese": "xe bus"
+  },
+  {
+    "korean": "시내",
+    "vietnamese": "nội thành"
+  },
+  {
+    "korean": "매점",
+    "vietnamese": "quầy hàng"
+  },
+  {
+    "korean": "빠르다",
+    "vietnamese": "nhanh"
+  },
+  {
+    "korean": "몇",
+    "vietnamese": "mấy, bao nhiêu"
+  },
+  {
+    "korean": "번",
+    "vietnamese": "số"
+  },
+  {
+    "korean": "교통비",
+    "vietnamese": "phí giao thông"
+  },
+  {
+    "korean": "결제하다",
+    "vietnamese": "thanh toán"
+  },
+  {
+    "korean": "교통수단",
+    "vietnamese": "phương tiện giao thông"
+  },
+  {
+    "korean": "따라서",
+    "vietnamese": "theo"
+  },
+  {
+    "korean": "방법",
+    "vietnamese": "phương pháp"
+  },
+  {
+    "korean": "구입",
+    "vietnamese": "mua , sự mua"
+  },
+  {
+    "korean": "충전",
+    "vietnamese": "nạp tiền"
+  },
+  {
+    "korean": "전화",
+    "vietnamese": "điện thoại"
+  },
+  {
+    "korean": "휴대전화",
+    "vietnamese": "điện thoại di động"
+  },
+  {
+    "korean": "휴대폰",
+    "vietnamese": "điện thoại di động"
+  },
+  {
+    "korean": "인터넷 전화",
+    "vietnamese": "điện thoại có kết nối internet"
+  },
+  {
+    "korean": "전화를 걸다",
+    "vietnamese": "gọi điện thoại"
+  },
+  {
+    "korean": "전화가 오다",
+    "vietnamese": "cuộc gọi đến"
+  },
+  {
+    "korean": "전화를 받다",
+    "vietnamese": "nhận cuộc gọi"
+  },
+  {
+    "korean": "(전화) 통화하다",
+    "vietnamese": "nói chuyện điện thoại"
+  },
+  {
+    "korean": "전화를 바꾸다",
+    "vietnamese": "chuyển máy"
+  },
+  {
+    "korean": "전화를 잘못 걸다",
+    "vietnamese": "gọi nhầm rồi"
+  },
+  {
+    "korean": "전화를 끊다",
+    "vietnamese": "cúp máy"
+  },
+  {
+    "korean": "통화 중이다",
+    "vietnamese": "máy bận"
+  },
+  {
+    "korean": "휴대전화를 켜다",
+    "vietnamese": "bật máy"
+  },
+  {
+    "korean": "휴대전화를 끄다",
+    "vietnamese": "tắt điện thoại"
+  },
+  {
+    "korean": "문자를 보내다",
+    "vietnamese": "gửi tin nhắn đi"
+  },
+  {
+    "korean": "문자를 확인하다",
+    "vietnamese": "xác nhận tin nhắn"
+  },
+  {
+    "korean": "인터넷",
+    "vietnamese": "Internet"
+  },
+  {
+    "korean": "웹사이트",
+    "vietnamese": "trang web"
+  },
+  {
+    "korean": "검색 엔진",
+    "vietnamese": "công cụ tìm kiếm"
+  },
+  {
+    "korean": "홈페이지",
+    "vietnamese": "trang chủ"
+  },
+  {
+    "korean": "블로그",
+    "vietnamese": "trang blog"
+  },
+  {
+    "korean": "인터넷 카페",
+    "vietnamese": "caffe internet"
+  },
+  {
+    "korean": "회원 가입",
+    "vietnamese": "tạo tài khoản"
+  },
+  {
+    "korean": "회원 탈퇴",
+    "vietnamese": "xóa tài khoản"
+  },
+  {
+    "korean": "아이디",
+    "vietnamese": "ID, tên đăng nhập"
+  },
+  {
+    "korean": "로그인",
+    "vietnamese": "đăng nhập"
+  },
+  {
+    "korean": "로그아웃",
+    "vietnamese": "đăng xuất"
+  },
+  {
+    "korean": "인터넷 검색",
+    "vietnamese": "tìm kiếm trên internet"
+  },
+  {
+    "korean": "인터넷 채팅",
+    "vietnamese": "chát trên internet"
+  },
+  {
+    "korean": "화상 채팅",
+    "vietnamese": "nói chuyện qua internet"
+  },
+  {
+    "korean": "과장",
+    "vietnamese": "trưởng phòng"
+  },
+  {
+    "korean": "잠깐만",
+    "vietnamese": "đợi một chút"
+  },
+  {
+    "korean": "옷",
+    "vietnamese": "quần áo"
+  },
+  {
+    "korean": "편리",
+    "vietnamese": "thuận tiện"
+  },
+  {
+    "korean": "쇼핑",
+    "vietnamese": "việc mua sắm"
+  },
+  {
+    "korean": "회원",
+    "vietnamese": "hội viên"
+  },
+  {
+    "korean": "사이트",
+    "vietnamese": "trang web"
+  },
+  {
+    "korean": "CHẦM CHẬM 천천히 말합니다.  NÓI CHẦM CHẬM",
+    "vietnamese": "TỪ VỰNG BỔ SUNG"
+  },
+  {
+    "korean": "당분간",
+    "vietnamese": "Tạm thời"
+  },
+  {
+    "korean": "중요하다",
+    "vietnamese": "Cần thiết, quan trọng, trọng yếu"
+  },
+  {
+    "korean": "두통약",
+    "vietnamese": "Thuốc đau đầu"
+  },
+  {
+    "korean": "없애다",
+    "vietnamese": "Loại bỏ"
+  },
+  {
+    "korean": "해롭다",
+    "vietnamese": "Gây hại"
+  },
+  {
+    "korean": "병균",
+    "vietnamese": "Vi khuẩn gây bệnh"
+  },
+  {
+    "korean": "농작물",
+    "vietnamese": "Nông sản, hoa màu"
+  },
+  {
+    "korean": "단가",
+    "vietnamese": "Đơn giá"
+  },
+  {
+    "korean": "품명",
+    "vietnamese": "Tên hàng hóa"
+  },
+  {
+    "korean": "규격",
+    "vietnamese": "Quy cách"
+  },
+  {
+    "korean": "금방",
+    "vietnamese": "Nhanh"
+  },
+  {
+    "korean": "사물함",
+    "vietnamese": "Ngăn nhỏ đựng đồ"
+  },
+  {
+    "korean": "알림",
+    "vietnamese": "Cho biết"
+  },
+  {
+    "korean": "적히다",
+    "vietnamese": "Được ghi"
+  },
+  {
+    "korean": "지도",
+    "vietnamese": "Bản đồ"
+  },
+  {
+    "korean": "수첩",
+    "vietnamese": "Sổ tay"
+  },
+  {
+    "korean": "차비",
+    "vietnamese": "Vé xe"
+  },
+  {
+    "korean": "마찬가지",
+    "vietnamese": "Cũng vậy"
+  },
+  {
+    "korean": "포옹",
+    "vietnamese": "Cái ôm"
+  },
+  {
+    "korean": "온라인",
+    "vietnamese": "Trực tuyến, online"
+  },
+  {
+    "korean": "안주",
+    "vietnamese": "Đồ nhậu, đồ nhắm"
+  },
+  {
+    "korean": "보석류",
+    "vietnamese": "Đồ trang sức"
+  },
+  {
+    "korean": "약품",
+    "vietnamese": "Dược phẩm"
+  },
+  {
+    "korean": "시속",
+    "vietnamese": "Vận tốc"
+  },
+  {
+    "korean": "흔들다",
+    "vietnamese": "Vẫy tay"
+  },
+  {
+    "korean": "끕니다",
+    "vietnamese": "Tắt"
+  },
+  {
+    "korean": "기름",
+    "vietnamese": "Dầu máy"
+  },
+  {
+    "korean": "과적",
+    "vietnamese": "Quá tải"
+  },
+  {
+    "korean": "낙석붕괴지역",
+    "vietnamese": "Khu vực đá lở"
+  },
+  {
+    "korean": "우회전하다",
+    "vietnamese": "Rẽ phải"
+  },
+  {
+    "korean": "마지막",
+    "vietnamese": "Cuối cùng"
+  },
+  {
+    "korean": "그리다",
+    "vietnamese": "Vẽ"
+  },
+  {
+    "korean": "약도",
+    "vietnamese": "Bản đồ"
+  },
+  {
+    "korean": "유료",
+    "vietnamese": "Mất phí, có phí"
+  },
+  {
+    "korean": "성능",
+    "vietnamese": "Tính năng"
+  },
+  {
+    "korean": "다루다",
+    "vietnamese": "Làm, xử lý"
+  },
+  {
+    "korean": "진찰하다",
+    "vietnamese": "Khám(bệnh)"
+  },
+  {
+    "korean": "고민",
+    "vietnamese": "Khổ tâm, lo lắng"
+  },
+  {
+    "korean": "신선하다",
+    "vietnamese": "Tươi mới"
+  },
+  {
+    "korean": "물론",
+    "vietnamese": "Tất nhiên"
+  },
+  {
+    "korean": "유턴하다",
+    "vietnamese": "Quay đầu"
+  },
+  {
+    "korean": "흐르다",
+    "vietnamese": "Chạy qua, chảy qua"
+  },
+  {
+    "korean": "초보자",
+    "vietnamese": "Người học việc"
+  },
+  {
+    "korean": "닿다",
+    "vietnamese": "Chạm"
+  },
+  {
+    "korean": "잘되다",
+    "vietnamese": "Suôn sẻ"
+  },
+  {
+    "korean": "광고",
+    "vietnamese": "Quảng cáo"
+  },
+  {
+    "korean": "대피하다",
+    "vietnamese": "Lánh nạn"
+  },
+  {
+    "korean": "열다",
+    "vietnamese": "Mở"
+  },
+  {
+    "korean": "설명",
+    "vietnamese": "Giải thích"
+  },
+  {
+    "korean": "하늘",
+    "vietnamese": "Bầu trời"
+  },
+  {
+    "korean": "권유하다",
+    "vietnamese": "Khuyên nhủ"
+  },
+  {
+    "korean": "취소하다",
+    "vietnamese": "Hủy bỏ"
+  },
+  {
+    "korean": "상처",
+    "vietnamese": "Vết thương"
+  },
+  {
+    "korean": "몇번",
+    "vietnamese": "Mấy lần"
+  },
+  {
+    "korean": "손님",
+    "vietnamese": "Khách"
+  },
+  {
+    "korean": "두면",
+    "vietnamese": "Đặt để"
+  },
+  {
+    "korean": "정장",
+    "vietnamese": "Đồ công sở"
+  },
+  {
+    "korean": "해외",
+    "vietnamese": "Hải ngoại"
+  },
+  {
+    "korean": "침대",
+    "vietnamese": "Giường"
+  },
+  {
+    "korean": "가구점",
+    "vietnamese": "Cửa hàng nội thất"
+  },
+  {
+    "korean": "일반석",
+    "vietnamese": "Chỗ thường"
+  },
+  {
+    "korean": "우제국",
+    "vietnamese": "Bưu điện"
+  },
+  {
+    "korean": "뚜렷하다",
+    "vietnamese": "Rõ rệt"
+  },
+  {
+    "korean": "국기",
+    "vietnamese": "Quốc kỳ"
+  },
+  {
+    "korean": "일찍",
+    "vietnamese": "Sớm"
+  },
+  {
+    "korean": "금연 구역",
+    "vietnamese": "Khu vực cấm hút thuốc"
+  },
+  {
+    "korean": "이유",
+    "vietnamese": "Lý do"
+  },
+  {
+    "korean": "~ 다가 + md",
+    "vietnamese": "ĐANG...THÌ..."
+  },
+  {
+    "korean": "데리다",
+    "vietnamese": "Dắt, đưa đón"
+  },
+  {
+    "korean": "만약",
+    "vietnamese": "Giả sử"
+  },
+  {
+    "korean": "공공장소",
+    "vietnamese": "Địa điểm công cộng"
+  },
+  {
+    "korean": "건너다",
+    "vietnamese": "Băng qua (đường)"
+  },
+  {
+    "korean": "건너가다",
+    "vietnamese": "Đi qua (đường)"
+  },
+  {
+    "korean": "얼마 전에",
+    "vietnamese": "Cách đây không lâu"
+  },
+  {
+    "korean": "그냥",
+    "vietnamese": "Cứ"
+  },
+  {
+    "korean": "돈을 벌다",
+    "vietnamese": "Kiếm tiền"
+  },
+  {
+    "korean": "~(으)면 안 되다",
+    "vietnamese": "KHÔNG ĐƯỢC LÀM GÌ"
+  },
+  {
+    "korean": "~ (으)니까 + md",
+    "vietnamese": "VÌ...NÊN"
+  },
+  {
+    "korean": "(아무리) ~ 아/어도",
+    "vietnamese": "CHO DÙ...THÌ..."
+  },
+  {
+    "korean": "~ 아/어도 되다",
+    "vietnamese": "LÀM GÌ...ĐƯỢC"
+  },
+  {
+    "korean": "DT 를/을 위한 + DT",
+    "vietnamese": "DANH TỪ \"DÀNH CHO\" DANH TỪ"
+  },
+  {
+    "korean": "손대다",
+    "vietnamese": "Sờ"
+  },
+  {
+    "korean": "비우다",
+    "vietnamese": "Trống"
+  },
+  {
+    "korean": "빌리다",
+    "vietnamese": "Mượn"
+  },
+  {
+    "korean": "고치다",
+    "vietnamese": "Sửa"
+  },
+  {
+    "korean": "충전하다",
+    "vietnamese": "Nạp tiền, sạc pin"
+  },
+  {
+    "korean": "몇 가지",
+    "vietnamese": "Vài cái"
+  },
+  {
+    "korean": "걱정되다",
+    "vietnamese": "Lo lắng"
+  },
+  {
+    "korean": "조용히 먹다",
+    "vietnamese": "Ăn yên lặng"
+  },
+  {
+    "korean": "아직도",
+    "vietnamese": "Vẫn chưa"
+  },
+  {
+    "korean": "조심하다",
+    "vietnamese": "Cẩn thận"
+  },
+  {
+    "korean": "어휘 높임",
+    "vietnamese": "Kính ngữ từ vựng"
+  },
+  {
+    "korean": "있다 - 계시다, 있으시다",
+    "vietnamese": "Có, ở"
+  },
+  {
+    "korean": "없다 - 안 계시다, 없으시다",
+    "vietnamese": "Không có, không ở"
+  },
+  {
+    "korean": "새로 + ĐT",
+    "vietnamese": "Mới làm gì đó"
+  },
+  {
+    "korean": "밥그릇을 들다",
+    "vietnamese": "Bê bát cơm"
+  },
+  {
+    "korean": "놓다, 두다",
+    "vietnamese": "Đặt, để"
+  },
+  {
+    "korean": "고개를 돌리다",
+    "vietnamese": "Xoay cổ"
+  },
+  {
+    "korean": "실례되다",
+    "vietnamese": "Thất lễ"
+  },
+  {
+    "korean": "예의를 지키다",
+    "vietnamese": "Giữ lịch sự"
+  },
+  {
+    "korean": "마치다, 끝내다",
+    "vietnamese": "Kết thúc"
+  },
+  {
+    "korean": "갔다오다",
+    "vietnamese": "Đã đi rồi về"
+  },
+  {
+    "korean": "수업을 듣다",
+    "vietnamese": "Nghe giờ học (học)"
+  },
+  {
+    "korean": "나중에",
+    "vietnamese": "Sau này"
+  },
+  {
+    "korean": "일을 구하다",
+    "vietnamese": "Tìm việc"
+  },
+  {
+    "korean": "~ (으)면서 + md",
+    "vietnamese": "vừa...vừa"
+  },
+  {
+    "korean": "ĐT + 기 어렵다/ 쉽다",
+    "vietnamese": "việc gì dễ/ khó"
+  },
+  {
+    "korean": "DT을/를 위한 DT",
+    "vietnamese": "Cái gì dành cho cái gì"
+  },
+  {
+    "korean": "필요 기능",
+    "vietnamese": "Kỹ năng cần thiết"
+  },
+  {
+    "korean": "습득하다",
+    "vietnamese": "Học tập"
+  },
+  {
+    "korean": "본국",
+    "vietnamese": "Bản quốc"
+  },
+  {
+    "korean": "안정적으로",
+    "vietnamese": "Một cách ổn định"
+  },
+  {
+    "korean": "재정착하다",
+    "vietnamese": "Tái hòa nhập"
+  },
+  {
+    "korean": "수요조사",
+    "vietnamese": "Điều tra nhu cầu"
+  },
+  {
+    "korean": "현지",
+    "vietnamese": "Bản địa"
+  },
+  {
+    "korean": "리스트",
+    "vietnamese": "Danh sách"
+  },
+  {
+    "korean": "교육 조건",
+    "vietnamese": "Điều kiện đào tạo"
+  },
+  {
+    "korean": "자격",
+    "vietnamese": "Tư cách"
+  },
+  {
+    "korean": "교육 기관",
+    "vietnamese": "Cơ quan đào tạo"
+  },
+  {
+    "korean": "수료 조건",
+    "vietnamese": "Điều kiện học phí"
+  },
+  {
+    "korean": "버튼",
+    "vietnamese": "Nút"
+  },
+  {
+    "korean": "클릭하다",
+    "vietnamese": "Click"
+  },
+  {
+    "korean": "역사",
+    "vietnamese": "Lịch sử"
+  },
+  {
+    "korean": "웬일이에요? = 무슨 일이 있어요?",
+    "vietnamese": "Có việc gì vậy"
+  },
+  {
+    "korean": "찬송가를 부르다",
+    "vietnamese": "Bài hát ca ngợi chúa"
+  },
+  {
+    "korean": "불전을 내다",
+    "vietnamese": "Tiền công đức"
+  },
+  {
+    "korean": "소원",
+    "vietnamese": "Mong ước"
+  },
+  {
+    "korean": "행사 = 이벤트",
+    "vietnamese": "Sự kiện"
+  },
+  {
+    "korean": "석가탄신일",
+    "vietnamese": "Ngày phật đản"
+  },
+  {
+    "korean": "부처님",
+    "vietnamese": "Đức phật"
+  },
+  {
+    "korean": "~ 았/었으면 좋겠다",
+    "vietnamese": "Giá mà, ước mà"
+  },
+  {
+    "korean": "예수님",
+    "vietnamese": "Chúa jesu"
+  },
+  {
+    "korean": "축제",
+    "vietnamese": "Lễ hội"
+  },
+  {
+    "korean": "카드를 주고 받다",
+    "vietnamese": "Trao nhận thiệp"
+  },
+  {
+    "korean": "부활절",
+    "vietnamese": "Mùa lễ tạ ơn"
+  },
+  {
+    "korean": "부활하다",
+    "vietnamese": "Được tái sinh"
+  },
+  {
+    "korean": "달걀",
+    "vietnamese": "Trứng"
+  },
+  {
+    "korean": "생명",
+    "vietnamese": "Sinh mệnh"
+  },
+  {
+    "korean": "의미하다",
+    "vietnamese": "Ý nghĩa"
+  },
+  {
+    "korean": "라마단",
+    "vietnamese": "Lễ ramadan"
+  },
+  {
+    "korean": "아랍어",
+    "vietnamese": "Tiếng ả rập"
+  },
+  {
+    "korean": "뜻",
+    "vietnamese": "Nghĩa"
+  },
+  {
+    "korean": "번째",
+    "vietnamese": "Lần thứ"
+  },
+  {
+    "korean": "내려지다",
+    "vietnamese": "Được xuống"
+  },
+  {
+    "korean": "신성하다",
+    "vietnamese": "Thần thành"
+  },
+  {
+    "korean": "여기다",
+    "vietnamese": "Coi là"
+  },
+  {
+    "korean": "해가 떠 있다",
+    "vietnamese": "Mặt trời mọc"
+  },
+  {
+    "korean": "낮 시간",
+    "vietnamese": "Giờ ban ngày"
+  },
+  {
+    "korean": "절재를 하다",
+    "vietnamese": "Hành động tiết chế"
+  },
+  {
+    "korean": "시간이 나다",
+    "vietnamese": "Có thời gian"
+  },
+  {
+    "korean": "하나님",
+    "vietnamese": "Chúa trời"
+  },
+  {
+    "korean": "목사님의 말씀을 듣다",
+    "vietnamese": "Nghe lời giảng của mục sư"
+  },
+  {
+    "korean": "음력",
+    "vietnamese": "Âm lịch"
+  },
+  {
+    "korean": "국가 공휴일",
+    "vietnamese": "Ngày nghỉ lễ quốc gia"
+  },
+  {
+    "korean": "등을 만들다",
+    "vietnamese": "Làm đèn"
+  },
+  {
+    "korean": "나무에 매달다",
+    "vietnamese": "Treo lên cây"
+  },
+  {
+    "korean": "등에 불을 밝히다",
+    "vietnamese": "Thắp lửa vào đèn"
+  },
+  {
+    "korean": "ĐT + 지 말다",
+    "vietnamese": "ĐỪNG LÀM GÌ"
+  },
+  {
+    "korean": "변비하다",
+    "vietnamese": "Táo bón"
+  },
+  {
+    "korean": "속이 안 좋다",
+    "vietnamese": "Bụng dạ không tốt"
+  },
+  {
+    "korean": "가렵다",
+    "vietnamese": "Ngứa"
+  },
+  {
+    "korean": "빨개지다",
+    "vietnamese": "Trở lên đỏ"
+  },
+  {
+    "korean": "이상하다",
+    "vietnamese": "Kỳ lạ, lạ thường"
+  },
+  {
+    "korean": "증상, 증세",
+    "vietnamese": "Triệu chứng"
+  },
+  {
+    "korean": "갑자기",
+    "vietnamese": "Đột nhiên"
+  },
+  {
+    "korean": "가정 비상약",
+    "vietnamese": "Thuốc cần thiết trong gia đình"
+  },
+  {
+    "korean": "발목을 다치다",
+    "vietnamese": "Mắt cá chân bị thương"
+  },
+  {
+    "korean": "안마하다",
+    "vietnamese": "Mat xa"
+  },
+  {
+    "korean": "~ 뿐만 아니라 ~",
+    "vietnamese": "Không những mà còn"
+  },
+  {
+    "korean": "...에 위치하다",
+    "vietnamese": "Nằm ở...."
+  },
+  {
+    "korean": "의료 서비스",
+    "vietnamese": "Dịch vụ y tế"
+  },
+  {
+    "korean": "한방진료",
+    "vietnamese": "Điều trị đông y"
+  },
+  {
+    "korean": "종합검진",
+    "vietnamese": "Khám tổng quát"
+  },
+  {
+    "korean": "누구나",
+    "vietnamese": "Bất cứ ai"
+  },
+  {
+    "korean": "진료일",
+    "vietnamese": "Ngày điều trị"
+  },
+  {
+    "korean": "의료 지원 내용",
+    "vietnamese": "Nội dung hỗ trợ y tế"
+  },
+  {
+    "korean": "시설",
+    "vietnamese": "Cơ sở vật chất, công trình"
+  },
+  {
+    "korean": "매월 뚤째 일요일",
+    "vietnamese": "Ngày chủ nhật tuần thứ 2 hàng tháng"
+  },
+  {
+    "korean": "독감백신접종",
+    "vietnamese": "Tiêm chủng vacxin cúm"
+  },
+  {
+    "korean": "부인과 검진",
+    "vietnamese": "Kiểm tra phụ khoa"
+  },
+  {
+    "korean": "위생교육",
+    "vietnamese": "Đào tạo vệ sinh"
+  },
+  {
+    "korean": "위생용품",
+    "vietnamese": "Đồ dùng vệ sinh"
+  },
+  {
+    "korean": "구충제",
+    "vietnamese": "Thuốc tẩy giun"
+  },
+  {
+    "korean": "자원단체",
+    "vietnamese": "Đoàn tình nguyện"
+  },
+  {
+    "korean": "유방암",
+    "vietnamese": "Ung thư vú"
+  },
+  {
+    "korean": "건강검진",
+    "vietnamese": "Kiểm tra sức khỏe"
+  },
+  {
+    "korean": "응급 상황",
+    "vietnamese": "Tình huống khẩn cấp"
+  },
+  {
+    "korean": "요청하다",
+    "vietnamese": "Yêu cầu"
+  },
+  {
+    "korean": "언제든지",
+    "vietnamese": "Bất cứ khi nào"
+  },
+  {
+    "korean": "국어",
+    "vietnamese": "Tiếng (ngôn ngữ của 1 đất nước)"
+  },
+  {
+    "korean": "휴진",
+    "vietnamese": "Nghỉ điều trị"
+  },
+  {
+    "korean": "귀찮다",
+    "vietnamese": "Phiền toái"
+  },
+  {
+    "korean": "땀을 흘리다",
+    "vietnamese": "Chảy mồ hôi"
+  },
+  {
+    "korean": "인삼",
+    "vietnamese": "Nhân sâm"
+  },
+  {
+    "korean": "힘이 나다",
+    "vietnamese": "Khỏe lên"
+  },
+  {
+    "korean": "미역국",
+    "vietnamese": "Canh rong biển"
+  },
+  {
+    "korean": "산모",
+    "vietnamese": "Phụ nữ mới sinh"
+  },
+  {
+    "korean": "아기를 낳다",
+    "vietnamese": "Đẻ em bé"
+  },
+  {
+    "korean": "은혜",
+    "vietnamese": "Ân huệ"
+  },
+  {
+    "korean": "제외하다",
+    "vietnamese": "Ngoại trừ"
+  },
+  {
+    "korean": "각자",
+    "vietnamese": "Từng người, mỗi người"
+  },
+  {
+    "korean": "덜다",
+    "vietnamese": "Bớt"
+  },
+  {
+    "korean": "덜어서 먹다",
+    "vietnamese": "Múc ra và ăn"
+  },
+  {
+    "korean": "적당하다",
+    "vietnamese": "Thích hợp"
+  },
+  {
+    "korean": "식용유",
+    "vietnamese": "Dầu ăn"
+  },
+  {
+    "korean": "썰다",
+    "vietnamese": "Thái"
+  },
+  {
+    "korean": "다녀오다",
+    "vietnamese": "Đi và về (hành động lặp đi lặp lại nhiều)"
+  },
+  {
+    "korean": "설",
+    "vietnamese": "Tết"
+  },
+  {
+    "korean": "기대되다",
+    "vietnamese": "Chờ đợi, mong đợi"
+  },
+  {
+    "korean": "체험하다",
+    "vietnamese": "Trải nghiệm"
+  },
+  {
+    "korean": "새해 인사를 드리다",
+    "vietnamese": "Chào năm mới"
+  },
+  {
+    "korean": "모이다",
+    "vietnamese": "Tập trung lại"
+  },
+  {
+    "korean": "정월대보름",
+    "vietnamese": "Rằm tháng giêng"
+  },
+  {
+    "korean": "뜨다",
+    "vietnamese": "Nổi lên, (trăng) mọc"
+  },
+  {
+    "korean": "곡식",
+    "vietnamese": "Ngũ cốc"
+  },
+  {
+    "korean": "짓다",
+    "vietnamese": "Xây (nhà), thổi (cơm)"
+  },
+  {
+    "korean": "오곡밥",
+    "vietnamese": "Cơm ngũ cốc"
+  },
+  {
+    "korean": "말리다",
+    "vietnamese": "Khô"
+  },
+  {
+    "korean": "땅콩",
+    "vietnamese": "Lạc"
+  },
+  {
+    "korean": "껍질",
+    "vietnamese": "Vỏ"
+  },
+  {
+    "korean": "견과류",
+    "vietnamese": "Loại quả khô cứng"
+  },
+  {
+    "korean": "부럼",
+    "vietnamese": "Quả hạch"
+  },
+  {
+    "korean": "깨먹다",
+    "vietnamese": "Cắn vỡ"
+  },
+  {
+    "korean": "부스럼이 생기다",
+    "vietnamese": "Phát sinh mụn nhọt"
+  },
+  {
+    "korean": "성묘를 하다",
+    "vietnamese": "Viếng mộ"
+  },
+  {
+    "korean": "갓",
+    "vietnamese": "Mới"
+  },
+  {
+    "korean": "수확하다, 거두다",
+    "vietnamese": "Thu hoạch"
+  },
+  {
+    "korean": "쌀밥",
+    "vietnamese": "Cơm gạo trắng"
+  },
+  {
+    "korean": "강강술래",
+    "vietnamese": "Trò chơi của các cô gái"
+  },
+  {
+    "korean": "동그랗게 손을 잡다",
+    "vietnamese": "Nắm tay thành hình tròn"
+  },
+  {
+    "korean": "빙글 빙글 돌다",
+    "vietnamese": "Xoay nhịp nhàng"
+  },
+  {
+    "korean": "더도 말고 덜도 말고 한가위만 같아라",
+    "vietnamese": "Không cần hơn, không cần kém chỉ cần giống Trung thu"
+  },
+  {
+    "korean": "조상",
+    "vietnamese": "Tổ tiên"
+  }
+]

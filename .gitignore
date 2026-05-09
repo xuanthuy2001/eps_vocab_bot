@@ -1,0 +1,7 @@
+# .gitignore
+credentials.json    # TUYỆT ĐỐI không push lên Git
+__pycache__/
+*.pyc
+credentials.json
+config.py
+.env
