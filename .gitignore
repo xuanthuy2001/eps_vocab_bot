@@ -5,3 +5,5 @@ __pycache__/
 credentials.json
 config.py
 .env
+test_image.py
+images_test/
